@@ -11,18 +11,16 @@ The tone of the story is intended to be ominous, mysterious, and claustrophobic,
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
 
-If any animation studios or game distribution companies are willing to offer to help produce and distribute the IP, those options will be considered.  However, independent crowdfunded production is presumed to be the more likely scenario.
-
 The style and medium will be determined by the art team, but I am open to hybrid techniques.  I’d be interested in integrating the hand drawn look of 2D with 3D pipeline techniques, if it can be done in a timely and cost efficient manner.  Otherwise, 3D is the industry default.
 
-Emphasis will be placed on character animation, cinematography, story, and visual stylization.
+Emphasis will be placed on character animation, cinematography, story, and visual stylization.  
 
 ## Project Breakdown
 The projected length of the promotional trailer is two minutes.
 
 Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around six to eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
 
-At this point the logistics of producing an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  If things look peachy, preliminary discussions will begin with assembling a technical lead and game development team.  This networking will take place before the crowdfunding campaign.
+At this point the logistics of producing an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  If things look peachy, preliminary discussions will begin with assembling a technical lead and game development team.  This networking will take place several months before the crowdfunding campaign.
 
 ## Game Development
 Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
@@ -33,7 +31,10 @@ If the campaign does reach the goal of $75,000-$300,000, a game would take two o
 
 The game will be an RPG with a narrative storyline and unique game mechanics.  The scale of the world will be determined by budget, but it will likely not be a full open world.
 
-The game will like use a propriety engine, but middleware options or Unity may be considered depending on the preferences of the technical director.  This will be determined before the crowdfunding campaign.
+The game will like use a propriety engine, but middleware options, Unreal, or Unity may be considered depending on the preferences of the technical director.  This will be determined before the crowdfunding campaign.
+
+If any animation studios or game distribution companies are willing to offer to help produce and distribute the IP, those options will be considered.  However, independent crowdfunded production is presumed to be the more likely scenario.
+
 
 
 
