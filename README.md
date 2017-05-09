@@ -29,9 +29,11 @@ Full-time production would begin following the crowdfunding campaign, assuming t
 
 If the campaign doesn't meet the fundraising goal, efforts will be made to try and develop an animated short, which would clock in at around seven to twelve minutes.  
 
-If the game does reach the goal of $75,000-$300,000, a game would take two or more years to finish. Milestone markers and community updates would be set to occur at regular intervals during development.
+If the campaign does reach the goal of $75,000-$300,000, a game would take two or more years to finish. Milestone markers and community updates would be set to occur at regular intervals during development.
 
 The game will be an RPG with a narrative storyline and unique game mechanics.  The scale of the world will be determined by budget, but it will likely not be a full open world.
+
+The game will like use a propriety engine, but middleware options or Unity may be considered depending on the preferences of the technical director.  This will be determined before the crowdfunding campaign.
 
 
 
