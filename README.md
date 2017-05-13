@@ -11,7 +11,7 @@ The tone of the story is intended to be ominous, mysterious, and claustrophobic,
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
 
-The style and medium will be determined by the art team, but I am open to hybrid techniques.  I’d be interested in integrating the hand drawn look of 2D with 3D pipeline techniques, if it can be done in a timely and cost efficient manner.  Otherwise, 3D is the industry default.
+The style and medium will be determined by the art team, but I am open to hybrid techniques.  I’d be interested in integrating the hand drawn look of 2D with 3D pipeline techniques, if it can be done in a timely and cost efficient manner.  Examples include rotoscoping used for The Banner Saga. Otherwise, 3D is the industry default.
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization.  
 
