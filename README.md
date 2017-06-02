@@ -5,6 +5,8 @@ Concept art by Marius Janusonis
 # Brefhamer
 RPG Game Design Project
 
+![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
+
 ## Story Synopsis
 The story is set in an isolated hamlet bordered by a dense forest.  There are tales that the gloomy woods are haunted, and that dangerous creatures and enchanted spirits prowl when night falls.   Many of the village denizens refuse to approach the outer fringe of trees out of fear their souls might be trapped by the supernatural elements within.  
 
