@@ -7,12 +7,18 @@ RPG Game Design Project
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
+Concept Sketch by Christof Grobelski
+
 ## Story Synopsis
 The story is set in an isolated hamlet bordered by a dense forest.  There are tales that the gloomy woods are haunted, and that dangerous creatures and enchanted spirits prowl when night falls.   Many of the village denizens refuse to approach the outer fringe of trees out of fear their souls might be trapped by the supernatural elements within.  
 
 When the local forester doesn’t return for several days after one of his ill-advised hunting forays deep in the woods, his half-sister goes to search for him.  The general opinion is that the forester is probably already dead, and she is risking her life for nothing: neither one of them are going to come back alive.
 
 The tone of the story is intended to be ominous, mysterious, and claustrophobic, inspired by the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  
+
+![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
+
+Concept Sketch by Christof Grobelski
 
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
