@@ -1,0 +1,82 @@
+### Description
+
+The goal of this project is to integrate a story and characters that players can be invested in, while still enjoying gameplay elements.  Emphasis will be placed on character animation, cinematography, story, and visual stylization.  
+
+The narrative structure is loosely based on Old Norse and Icelandic sagas.  
+
+### Production Goals
+
+The first goal is to produce an animated trailer and/or game prototype. This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or a video game, depending on the amount of funds raised.
+
+The trailer can be either a narrative segment or a series of cutscenes.  It may be easier to create a trailer as there would be fewer assets.
+
+The trailer should convey the tone of the story and get people interested in the project.
+
+### Project Breakdown
+
+The projected length of the promotional trailer is two minutes.
+
+Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around six to eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
+
+At this point the logistics of producing an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded. Preliminary discussions will begin with assembling a technical lead and game development team several months before the launch of the crowdfunding campaign.
+
+### Art Style
+
+Art style plays an invaluable role in the success of many games, but there is the distinct possibility that budget will limit the size of the art team.  The art style will need to be kept feasible for the scale of the project, which makes 2D the more likely choice of medium.
+
+The style and medium will be determined by the art team, but I am open to hybrid techniques. I’d be interested in integrating the hand drawn look of 2D with 3D pipeline techniques, if it can be done in a timely and cost efficient manner. Examples include rotoscoping used for The Banner Saga or cel shading used in Telltale games. Otherwise, 3D is the industry default.
+
+### Game Development
+
+Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
+
+If the campaign doesn't meet the fundraising goal, efforts will be made to try and develop an animated short, which would clock in at around seven to twelve minutes.
+
+If the campaign does reach the goal of $75,000-$300,000, a game would take two or more years to finish. Milestone markers and community updates would be set to occur at regular intervals during development.
+
+The game will be an RPG with a narrative storyline and unique game mechanics. 
+
+### Scope
+
+Due to budge limitations, the game will not likely be open world or as expansive as the worlds of Tamriel, Middle-Earth, Westeros, or The Northern Kingdoms.  Much of the lore and backstory will probably have to be ancillary material unless there is a chance for DLC or expansions.
+
+### Genre
+Real-Time Strategy, Turn-Based Strategy
+
+Dark Fantasy, Adventure, Mystery
+
+The tone of the story is intended to be ominous, mysterious, and claustrophobic, inspired by the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.
+
+### Key Features
+Aim for a unique take on gameplay, but keep the technical scope manageable
+
+- Player Choices that actually impact the story
+- Story-driven RPG-Adventure
+- Narrative with branching options
+- Difficult bosses
+- Control players with unique abilities
+- Unique Locations, Dungeons, and Multi-Path Levels
+- Loot, Player Customization, and Skill Tree-based Level System
+
+### DLC
+Features that would be nice to have, but may not make it into the main game:
+
+- HD Animated Cutscenes
+- Voice Acting for NPCs and Gameplay
+- Multiplayer
+- 3D Graphics 
+- PvP
+- A few puzzles and optional minigames that do not interrupt the gameplay pacing
+
+### Platform 
+The game will need to be optimized for PC, Mac, and Linux. 
+
+The art style and budget of the game will be a major factor in the choice of game engine software.  If 2D, Gamemaker 2.0 would be the best option.  If 3D or a 2D/3D hybrid, Unity is the top choice.
+
+Middleware options, a propriety engine, or Unreal may also be considered depending on the preferences of the technical director. The platform will be determined before the crowdfunding campaign. 
+
+### Distribution
+
+If any animation studios or game distribution companies are willing to offer to help produce and distribute the IP, those options will be considered. However, independent crowdfunded production is presumed to be the more likely scenario.
+
+Target distribution platforms are Steam Direct and Humble Bundle.  
