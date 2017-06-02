@@ -1,4 +1,4 @@
-![marius_janusonis](https://1.bp.blogspot.com/-lEnCeHZuN5s/WNRGKVP3L_I/AAAAAAAADcQ/fQMI0p5JuDcm-4QjtNgmRsuprHvVJSmbwCEw/s640/FINAL3.jpg)
+![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
 Concept art by Marius Janusonis
 
