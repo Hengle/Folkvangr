@@ -1,13 +1,9 @@
-![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
-
-Concept art by Marius Janusonis
-
 # Brefhamer
 RPG Game Design Project
 
-![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
+![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
-Concept Sketch by Christof Grobelski
+Concept art by Marius Janusonis
 
 ## Story Synopsis
 The story is set in an isolated hamlet bordered by a dense forest.  There are tales that the gloomy woods are haunted, and that dangerous creatures and enchanted spirits prowl when night falls.   Many of the village denizens refuse to approach the outer fringe of trees out of fear their souls might be trapped by the supernatural elements within.  
@@ -16,7 +12,7 @@ When the local forester doesn’t return for several days after one of his ill-a
 
 The tone of the story is intended to be ominous, mysterious, and claustrophobic, inspired by the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  
 
-![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
+![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
 Concept Sketch by Christof Grobelski
 
@@ -25,7 +21,11 @@ The first goal is to produce an animated short/trailer.  This can then be used t
 
 The style and medium will be determined by the art team, but I am open to hybrid techniques.  I’d be interested in integrating the hand drawn look of 2D with 3D pipeline techniques, if it can be done in a timely and cost efficient manner.  Examples include rotoscoping used for The Banner Saga. Otherwise, 3D is the industry default.
 
-Emphasis will be placed on character animation, cinematography, story, and visual stylization.  
+Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
+
+![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
+
+Concept Sketch by Christof Grobelski
 
 ## Project Breakdown
 The projected length of the promotional trailer is two minutes.
