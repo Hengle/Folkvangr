@@ -32,6 +32,8 @@ Level design will be set up to have multiple options for staging combat.  Magic 
 
 Game levels will need to be designed to be compact and linear, while still giving some degree of freedom for exploration and alternate paths.
 
+Game combat will be set up to follow tile maps and dungeons.
+
 Enemies will spawn randomly in certain areas, but will have a set number in hub locations. 
 
 ## Side Quests
