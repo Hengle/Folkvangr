@@ -5,6 +5,9 @@ The party system will allow the player to control 4-8 characters for planning ou
 
 There will also be the standard power ups and armors that offer boosts to different abilities.
 
+## Leveling
+The leveling system will be based on using wits to outmaneuver stronger opponents.
+
 ## Focus
 The core focus will be on creating a game that is thoughtfully crafted, challenging, and fun.
 
@@ -59,6 +62,9 @@ Grinding and fetch quests will not be a major focus of the game.  Side quests an
 
 NPCs will award items based on their social status, so nobles and merchants will offer better wares than peasants.  However, assisting the needy will boost other skill areas and reputation more than mercenary work.
 
+## Game Length
+Campaign will hopefully be around 7-15 hours, maybe longer with sidequests
+
 ## UI
 The menu will allow access to settings and stats
 
@@ -66,6 +72,9 @@ UI will display a world map and local area map, health bar, inventory, and quick
 
 ## Replayability
 Considering options for difficulty modes, unlockable quests, collectible items, or an arena mode to extend gameplay lifespan
+
+## DLC
+If possible, there may be an opportunity to add Multiplayer Mode or other features.  This will all depend on funding
 
 ## Minigames
 Potentially create working version of an in-universe strategic board game for crowdfunding campaign.  Creating a mini game requires less complex programming to set up than an alpha of the full game. 
