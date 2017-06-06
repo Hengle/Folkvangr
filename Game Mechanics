@@ -31,10 +31,19 @@ Enemies will have set levels in specific regions, but some may level to the high
 
 Hit counters will determine how much damage to inflict based on the area where an attack strikes.  Limbs detract less than the head and torso.
 
+## Map Size
+The maps will not be expansive open worlds, though there will be hub areas and explorable areas.
+
+Levels will be crafted in a way that they appear larger than they are.  Instead of using invisble borders, there might be cliffs, bogs, mountains, thorns, or walls to block off inaccessible areas.
+
+Total map size will be less than 3x3 miles, with densely packed content and objectives so the world doesn't feel too empty.  
+
+Smaller world size allows more attention to be placed on crafting interesting details, rather than generic modular componets and procedurally generated landscapes.
+
 ## Travel
 Hub areas will allow quick travel options, but after leaving the area to progress to the next area the hub will not be accessible.
 
-Early in the game, travel will be slower. In the later game, large areas will be traversed by mount.
+Early in the game, travel will be slower. In the later game, large areas will be traversed by mount or fast travel.
 
 ## Level Design
 Level design will be set up to have multiple options for staging combat.  Magic attacks or stealth will play out differently, and may be less effective in some situations, keeping the player on their toes at all times.
