@@ -34,6 +34,10 @@ Depending on the size of the team and the budget, production of the short promot
 
 At this point the logistics of producing an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  If things look peachy, preliminary discussions will begin with assembling a technical lead and game development team.  This networking will take place several months before the crowdfunding campaign.
 
+[OST](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
+
+Sound Design by Dirk Kluesing
+
 ## Game Development
 Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
 
