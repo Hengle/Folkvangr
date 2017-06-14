@@ -1,19 +1,10 @@
-## Pipeline Structure
-- Weekly Meetings 
-
-## Collaboration and Promotional
-- Skype
-- Phone
-- Discord
-- GitHub
-- Social Media
-- Website
-- Kickstarter
-
 ## Game Engine
 - Unity
 
-## Software
+## Scripting
+- C++
+
+## Development Software
 - Unity
 - Autodesk Maya
 - Blender
@@ -27,5 +18,54 @@
 - (Optional) Linux
 - (Optional) Other Next Gen Platforms
 
+## System Requirements
+- hard drive
+- processor
+- drivers
+
+## Scripts and Modules
+- AI
+- Physics System
+- Collision Detection
+- Pathfinding Algorithms
+- Lighting System
+- Controls
+- Procedural Generation
+- Encounters
+
+## Modular Components Integration
+- Costume Design
+- NPC Character Meshes
+- Buildings
+- Level Builder
+
+## Animation
+- Character Animation
+- Dialogue
+- Effects
+
+## Localization
+- Translation Research
+
+## Secondary Software
+- Installer.ini
+- Level Editor
+
+## Patches
+- Updates
+- DLC
+- Bug Fixes
 
 ## Documentation
+
+## Pipeline Structure
+- Weekly Meetings 
+
+## Collaboration and Promotional
+- Skype
+- Phone
+- Discord
+- GitHub
+- Social Media
+- Website
+- Kickstarter
