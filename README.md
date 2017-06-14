@@ -30,7 +30,9 @@ The projected length of the promotional trailer is one or two minutes.
 
 Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
 
-At this point the logistics of producing an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into a smaller achievable goal.  If things progress well with the trailer and crowdfunding networking, preliminary discussions will begin with assembling a technical lead and game development team.  The team assembly discussions will need to be finalized several months before the crowdfunding campaign begins.
+At this point, attempting to produce an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into a smaller more achievable goal.  
+
+If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team assembly discussions will need to be finalized several months before the crowdfunding campaign begins.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
@@ -41,7 +43,7 @@ Sound Design by Dirk Kluesing
 ## Game Development
 Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
 
-If the campaign does reach the goal of $175,000-$300,000, a game would take two or more years to finish. Milestone markers and community updates would be set to occur at regular intervals during development.
+If the campaign does reach the goal of $175,000-$450,000, a game would take two or more years to finish. Milestone markers and community updates would be set to occur at regular intervals during development.
 
 The game will be an RPG with a narrative storyline and unique game mechanics.  It will not be a full open world, but hopefully the budget will allow for some limited exploration.
 
