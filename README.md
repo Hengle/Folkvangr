@@ -17,7 +17,7 @@ Concept Sketch by Christof Grobelski
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
 
-The style and medium will be determined by the art team, but I am open to hybrid techniques.  I’d be interested in integrating the hand drawn look of 2D with 3D pipeline techniques, if it can be done in a timely and cost efficient manner.  Examples include rotoscoping used for The Banner Saga. Otherwise, 3D is the industry default.
+The style and medium will be determined by the art team, but will likely employ hybrid techniques.  A pipeline will need to be established to optimize gameplay graphics while still maintaining a cohesive style between the 2D and 3D elements.  The closest reference examples would probably be Telltale games and The Banner Saga. 
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
 
@@ -30,9 +30,9 @@ The projected length of the promotional trailer is one or two minutes.
 
 Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
 
-At this point, attempting to produce an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into a smaller more achievable goal.  
+At this point, attempting to produce an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into smaller chunks so that the goals are achievable.  
 
-If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team assembly discussions will need to be finalized several months before the crowdfunding campaign begins.
+If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
@@ -43,12 +43,14 @@ Sound Design by Dirk Kluesing
 ## Game Development
 Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
 
-If the campaign does reach the goal of $175,000-$450,000, a game would take two or more years to finish. Milestone markers and community updates would be set to occur at regular intervals during development.
+The crowdfunding goal is estimated around $8,000-35,000 to produce a trailer or alpha.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will increase in funding scope according to how the development is  progressing, and what assets and features are being produced.  Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would cost in the range of $300,000-450,000+, and likely take two or more years to finish. 
 
 The game will be an RPG with a narrative storyline and unique game mechanics.  It will not be a full open world, but hopefully the budget will allow for some limited exploration.
 
-At this time, Unity is the preferred game engine.  Other middleware options may be considered depending on the preferences of the technical director.  It is best to avoid attempting to build a custom proprietary engine.  The final decision will be determined before the crowdfunding campaign.
+At this time, Unity is the preferred game engine.  Other middleware options may be considered depending on the preferences of the technical director.  The final decision on the game engine will be determined before the crowdfunding campaign.
 
 If the campaign doesn't meet the fundraising goal, efforts will be made to try and develop an animated short instead, which would clock in at around seven to twelve minutes.  
 
-
+## Further Details and Application
+For more information, additional mockups and development files are being stored on GitHub.  
+Contact: jcongerkallas1@gmail.com
