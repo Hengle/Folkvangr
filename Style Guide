@@ -1,5 +1,12 @@
 ## Style Guide
 
+## Pipeline Model
+Ideally want to avoid Crunch as much as possible, especially in the early development cycle.
+Preplanning as much as possible will hopefully cut down on wasted time, redesigns, and redundancies.
+- Dailies
+- Scrum Masters
+- Stretch Goals
+
 ## Logo Use
 - Studio Logo
 - Vectors
