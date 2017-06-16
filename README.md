@@ -8,7 +8,7 @@ Concept art by Marius Janusonis
 ## Story Synopsis
 The story begins in an isolated hamlet bordered by a dense forest.  When the local forester doesn’t return for several days after one of his ill-advised hunting forays deep in the woods, his half-sister goes to search for him.  The general opinion is that the forester is probably already dead, and neither one of them are going to come back alive.
 
-The tone of the story is intended to be ominous, mysterious, and claustrophobic, inspired by the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  
+The tone of the story is intended to be ominous, mysterious, and claustrophobic.  The visuals are inspired by the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
