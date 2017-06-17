@@ -1,38 +1,42 @@
 ## Style Guide
+At this time, all files should be considered non-canonical Works in Progress.  
+- Final images and documents will need to be marked or signed.
+- This is a living document that will be changed throughout production to conform to the most current practices
 
-## Pipeline Model
+
+### Pipeline Model
 Ideally want to avoid Crunch as much as possible, especially in the early development cycle.
 Preplanning as much as possible will hopefully cut down on wasted time, redesigns, and redundancies.
 - Dailies
 - Scrum Masters
 - Stretch Goals
 
-## Logo Use
+### Logo Use
 - Studio Logo
 - Vectors
 - Scale
 - Web
 - Print
 
-## Character Models
+### Character Models
 - Proportion Guidelines
 - Model Sheets
 - Color Palettes
 
-## Environments
+### Environments
 - Art Style
 - Color Palettes
 
-## Formatting
+### Formatting
 - Exporting Files
 - Transferring Files
 - Resolution
 
-## Scripts and Dialogue
+### Scripts and Dialogue
 - Standard screnplay formatting
 - Please update dates and most recent changes
 
-## Sound Design
+### Sound Design
 - Levels and Dynamic Range
 - Formatting
 - Sample Rate
