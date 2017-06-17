@@ -30,10 +30,6 @@ The projected length of the promotional trailer is one or two minutes.
 
 Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
 
-At this point, attempting to produce an entire alpha game is a major risk until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into smaller chunks so that the goals are achievable.  
-
-If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
-
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
 [Ravensong](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
@@ -49,8 +45,16 @@ The game will be an RPG with a narrative storyline and unique game mechanics.  I
 
 At this time, Unity is the preferred game engine.  Other middleware options may be considered depending on the preferences of the technical director.  The final decision on the game engine will be determined before the crowdfunding campaign.
 
-If the campaign doesn't meet the fundraising goal, efforts will be made to try and develop an animated short instead, which would clock in at around seven to twelve minutes.  
+
+![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
+## Risk Mitigation
+
+At this point, attempting to produce an entire alpha game is impractical until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into smaller chunks so that the goals are achievable.  This way contributors can make smaller commitments, and there is less of a loss if the project doesn't work out.
+
+If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
+
+If the fundraising campaign doesn't meet the first goal, efforts will be made to try and develop an animated short instead, which would clock in at around seven to twelve minutes.  
 
 ## Further Details and Application
-For more information, additional mockups and development files are being stored on GitHub.  
+For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer).
 Contact: jcongerkallas1@gmail.com
