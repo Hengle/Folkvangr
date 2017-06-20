@@ -1,10 +1,15 @@
 This is the repository for programming related issues, code, workflow optimization, and software parameters.
 
-## Game Engine
+## Game Engine and API
 - Unity
+- Open GL
+- Directx
 
 ## Scripting
+- C#
+- JavaScript
 - C++
+- Python
 
 ## Development Software
 - Unity
@@ -21,9 +26,9 @@ This is the repository for programming related issues, code, workflow optimizati
 - (Optional) Other Next Gen Platforms
 
 ## System Requirements
-- hard drive
-- processor
-- drivers
+- Hard drive
+- Processor
+- Drivers
 
 ## Scripts and Modules
 - AI
