@@ -17,3 +17,7 @@ Some combat me need to be substituted for puzzles, since there is no way all the
 Reuse animations, character models, and types of stats.  Create a library of core stats that can be mixed to create different enemy and player movesets and abilities that feel different enough to still be interesting.
 
 Maybe try procedural generation for enemy spawn or skill types.
+
+Begin planning art and design before beginning pre-production.  The art style and medium need to be established before programming anything, or the project will stall out.
+
+Gating will be used to limit level progression and exploration appropriately.  Multi-pathing options should help levels feel less linear.
