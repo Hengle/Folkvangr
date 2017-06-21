@@ -1,5 +1,5 @@
 # Brefhamer
-RPG Game Design Project
+**Narrative Adventure RPG Game Design Project**
 
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
@@ -57,4 +57,7 @@ If the fundraising campaign doesn't meet the first goal, efforts will be made to
 
 ## Further Details and Application
 For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer).
+
 Contact: jcongerkallas1@gmail.com
+
+[Discord](https://discordapp.com/channels/326900944862314506)
