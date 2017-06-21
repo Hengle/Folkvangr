@@ -1,10 +1,20 @@
 # Production Management
 
-### Director
-Preferably have a background in animation, VFX, or game development
+### Director/Co-Director
+Preferably have a background in animation, VFX, or game development.  
+Role: The Director/s bring an original vision for the realization of the project.  Co-Directors will collaborate and compromise with the other production leads while encouraging the team to make their best possible end-product.  Ego will need to come second to the best interests of the project and team.  This is a professional project, but the goal is not to create a for-profit corporate studio system with bureaucracy and micromanagent. Good leadership qualities, time management, and communication skills are necessary for directing roles. 
 
 ### Production Manager
-Role: Scheduling, Coordination between Departments, Dailies
+Management Experience and Good Communication Skills Required. Familiarity with the pipeline production process and networking required.
+Role: Scheduling, Coordination between Departments, Dailies, Publicity, Budget.  The Production manager will attempt to streamline workflow methods and ensure efficient use of resources.
+
+### Art Director
+Studio Experience and Good Communication Skills Required.  
+Role: The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.
+
+### Technical Director
+Background in VFX or Game Design Preferable.  Familiarity with Unity and C# is necessary.
+Role: Asset Management, Game Development, Pipeline Management, Libraries Management
 
 # Previs and Pre-Production
 
@@ -28,9 +38,6 @@ Role: Reference Photos and Video
 
 # Art Department
 
-### Art Director
-Studio Experience and Good Communication Skills Required
-
 ### Concept Artist
 Role: Concept Designs and Promotional Art
 
@@ -40,13 +47,27 @@ Role: Character Designs, Silhouettes, Model Sheets, Costume Design, Historical R
 # Crowdfunding
 
 ### Campaign Manager
-Role: Promotional Materials, Advertising, Networking
+Role: Promotional Materials, Advertising, Networking.  Should ideally have lots of contacts and networking experience
 
 ### Accountant
-Role: Budget
+Role: Budget.  Need to be able to manage taxes, payment forms, and efficiently allocate large budgets in the range of $15,000-$500,000
+
+# Programming and VFX
+
+### Level Designer
+Role: Environment Pathing and Design
+
+### Programmer 
+Role: A.I., Rigging, Physics
+
+### Programmer 
+Role: Engine, U.I., Mechanics
+
+### Animators
+Role: Character Animation
 
 # 3D Production 
-Note: Depending on the budget, 3D may not be feasible for an indie team
+Note: Depending on the budget, 3D may not be feasible for an indie team, in which case these roles will be shifted to 2D roles
 
 ### Modeler
 Role: Character Models, Props 
@@ -65,21 +86,3 @@ Role: Renders, Compositing, Scene Assembly
 
 ### Matte Painter
 Role: Backgrounds
-
-# Programming and VFX
-
-### Technical Director
-Background in VFX or Game Design Preferable
-Role: Asset Management, Game Development, Pipeline Management, Libraries Management
-
-### Level Designer
-Role: Environment Pathing and Design
-
-### Animators
-Role: Character Animation
-
-### Programmer 
-Role: A.I., Rigging, Physics
-
-### Programmer 
-Role: Engine, U.I., Mechanics
