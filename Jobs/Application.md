@@ -8,7 +8,7 @@ Please send a cover letter with some of the things you might be interested in wo
 
 **List any software skills, preferred art medium, or other relevant experience and skills.  It doesn't need to be a formal CV.**
 
-**Attach portfolio images or a link to a portfolio or online resume*
+**Attach portfolio images or a link to a portfolio or online resume**
 
 **What role are you interested in?**
 
