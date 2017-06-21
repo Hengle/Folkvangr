@@ -1,19 +1,29 @@
 ## Application
 Please send a cover letter with some of the things you might be interested in working on. 
 
-Name:
 
-Preferred Contact (Optional)
+**Name:**
 
-List any software skills, preferred art medium, or other relevant experience and skills.  It doesn't need to be a formal CV.
+**Preferred Email or Alternate Means of Contact (Optional):**
 
-What role are you interested in?
+**List any software skills, preferred art medium, or other relevant experience and skills.  It doesn't need to be a formal CV.**
 
+**Attach portfolio images or a link to a portfolio or online resume*
 
-Professional quality standards apply.  Good communication skills are probably the most important factor, as much of the work may be remote. 
+**What role are you interested in?**
 
-Main positions will likely go to those with the most qualifications and experience, but I try not to flatly deny people who are willing to help out in some way.  There may be assistant positions available during certain points of the production.
+**Interests, Hobbies?**
 
-Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 24 hours.
+## Terms
+
+Until a NDA contract is signed, there are no pressures, obligations, or long-term commitments. This is intended to lower the risks of contracting Unfinished Indie Project Syndrome.
+
+Professional quality standards apply.  Good communication skills are probably the most important factor, as much of the work may be remote.
+
+## Required Experience
+
+Main paid positions will likely go to those with the right skills for the job.  In most cases this will boil down to portfolios, qualifications, and experience, but I try not to flatly deny people who are willing to help out in some way.  There may be assistant positions available during certain points of the production, with opportunities for compensation or networking.
+
+Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 48 hours.
 Contact: jcongerkallas1@gmail.com
 
