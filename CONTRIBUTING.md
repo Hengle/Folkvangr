@@ -5,7 +5,15 @@ I try to keep realistic expectations for what can be achieved with the available
 
 Unless certain key factors fall into place for raising funds to fairly compensate the team contributors, I will not ask other people to pour their time and energy into a high-risk project. 
 
+## Milestones and Collaboration
 I believe that the best ideas are usually the product of many different people contributing their creativity and ideas.  Hopefully that will prove true for this project.  
+
+To avoid miserable experience of crunch and micromanagement, flexible milestones and stretch goals will be set prior to crowdfunding.
+
+Dailies, a chatboard (Discord), and an alternating scrum system will help keep the project members updated and aware of progress.
+
+## Payment
+Terms will be negotiated privately.  At this point in time, most of my personal savings have already been used up, so full-time payment will only be feasible after crowdfunding.
 
 ## Application
 Please send a cover letter with some of the things you might be interested in working on.  
