@@ -27,18 +27,18 @@ Contact: jcongerkallas1@gmail.com
 
 ## Open Positions
 ### Pre-Vis
+- Art Director
+- Co-Director
+- Production Manager 
 - Illustrators
 - Concept Artist (Environments)
 - Concept Artist (Characters)
 - Storyboard Artist
 - Sound Designer
-- Art Director
-- Co-Director
-- Production Manager 
+- Writers
 
 ### Crowdfunding
 - Campaign Manager
-- Accountant
 
 ### Production
 - Technical Director
@@ -46,8 +46,13 @@ Contact: jcongerkallas1@gmail.com
 - Lead Animator
 - Animators
 - Assistant Animators
-- Voice Actors
 - VFX and Compositing Specialists
+
+### Independent Contractors
+- Voice Actors
+- Quality Assurance Testers
+- Accountant
+- Paralegal Advisor
 
 ## Preferred Software Skills
 - Unity
