@@ -1,20 +1,20 @@
 ## Application
-Please send a cover letter with some of the things you might be interested in working on. 
+Please send a cover letter with a description of some of the things you might be interested in working on. 
 
 
 **Name:**
 
-**Preferred Email or Alternate Means of Contact (Optional):**
+**Preferred Email or Alternate Means of Contact:**
 
-**(Optional) General Regional Location:**
+**What role are you interested in?**
 
 **List any software skills, preferred art medium, or other relevant experience and skills.  It doesn't need to be a formal CV.**
 
 **Attach portfolio images or a link to a portfolio or online resume.**
 
-**What role are you interested in?**
-
 **Interests, Hobbies?**
+
+**(Optional) General Regional Location:**
 
 **(Optional) Hours Available, Other Projects, Careers, or Life Commitments that the project manager should be aware of?**
 
