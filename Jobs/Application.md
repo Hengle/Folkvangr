@@ -32,6 +32,9 @@ Professional quality standards apply.  Good communication skills are probably th
 
 Main paid positions will likely go to those with the right skills for the job.  In most cases this will boil down to portfolios, qualifications, and experience, but I try not to flatly deny people who are willing to help out in some way.  There may be assistant positions available during certain points of the production, with opportunities for compensation or networking.
 
+
+## Contact
 Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 48 hours.
+
 Contact: jcongerkallas1@gmail.com
 
