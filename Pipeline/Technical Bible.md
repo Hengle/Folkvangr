@@ -69,6 +69,7 @@ This is the repository for programming related issues, code, workflow optimizati
 
 ## Pipeline Structure
 - Weekly Meetings 
+- Milestones
 - Scrum
 
 ## Collaboration and Promotional
