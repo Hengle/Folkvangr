@@ -1,10 +1,10 @@
-## Obligations and Commitments
+### Obligations and Commitments
 
 Until a NDA contract is signed, there are no pressures, obligations, or long-term commitments. This is intended to lower the risks of burnout or contracting Unfinished Indie Project Syndrome.  People can leave or rejoin the project at any time, though prior notification of departure is a common courtesy.
 
 Professional quality standards apply.  Good communication skills are probably the most important factor, as much of the work may be remote.
 
-## Required Experience
+### Required Experience
 
 Main paid positions will likely go to those with the right skills for the job.  In most cases this will boil down to portfolios, qualifications, and experience, but I try not to flatly deny people who are willing to help out in some way.  
 
