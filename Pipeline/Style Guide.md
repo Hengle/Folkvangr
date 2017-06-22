@@ -6,7 +6,9 @@ At this time, all files should be considered non-canonical Works in Progress.
 ### Art Style
 The art style for the game has yet to be established.  It is anticipated that character models will need to be 3D, but a stylized illustrated look is preferred.  The graphics and textures will not be next-gen simply due to budget and time limitations.
 
-Possible design influences include Telltale Games, The Secret of Kells, and The Banner Saga.  Narratively, this game will be very different from these titles.
+Eyvind Earle, Brian Froud, Arthur Rackham, John Howe, and Alan Lee are some suggested influences for the visul art style.
+
+Possible design influences include Telltale Games, The Secret of Kells, and The Banner Saga.  Narratively, this game will be very different from these titles.  
 
 Historical reference will be used for inspiration for tools, weapons, costumes, architecture, and other designs.
 
