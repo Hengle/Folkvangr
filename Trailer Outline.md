@@ -1,13 +1,15 @@
 ## Trailer
-###Requirements
-- **Script**-
-- **Storyboard**-
-- **2D or 3D**-
-- **Art Style**-
-- **Dope Sheet**-
-- **Rigged Models**-
-- **Backgrounds**-
-- **Assets**-
+### Requirements
+- **Script**
+- **Storyboard**
+- **Btory Reel**
+- **2D or 3D**
+- **Art Style**
+- **Dope Sheet**
+- **Rigged Models**
+- **Backgrounds**
+- **Assets**
+- **Water Physics, Wind Simulation, Hair Physics, Cloth Physics**
 
 ### Alternatives
 
