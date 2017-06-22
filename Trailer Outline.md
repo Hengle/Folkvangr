@@ -2,7 +2,7 @@
 ### Requirements
 - **Script**
 - **Storyboard**
-- **Btory Reel**
+- **Story Reel**
 - **2D or 3D**
 - **Art Style**
 - **Dope Sheet**
