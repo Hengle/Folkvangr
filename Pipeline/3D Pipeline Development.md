@@ -22,20 +22,31 @@ Some assets will be reused or tweaked in subsequent levels.  To maximize profici
 5. Cloth
 6. Metal
 
+## A.I.
+1. Pathing 
+2. Mob AI
+3. NPC Cycle States
+4. Hostility Triggers
+5. Retreat Triggers
+
 ## Programming
 1. Movement Controls
-2. A.I.
-3. Stats and U.I.
-4. 
-5. Level Gating
+2. Stats and U.I.
+3. Level Gating
+4. Library Naming System
+5. Code Protocols
 6. 
 
 ## Animation
-1. Attack Animations
-2. Effects Animation
-3. Facial Animation
-4. Secondary Animation
-5. Background Effects
+1. Walk Cycle
+2. Run Cycle
+3. Attack Animations
+4. Defend Animations
+5. Idle
+6. Effects Animation
+7. Facial Animation
+8. Secondary Animation
+9. Background Effects
 
 ## VFX
 1. Lighting
