@@ -1,18 +1,18 @@
 ## Script
 
-Fade in Logo Design- Triple interwoven Ouroboros
+Fade in Logo Design- Triple interwoven Gripping beast motif, not Ouroboros(too overused, maybe use it for forsundr logo)
 
 Music swells
 
 Need camera shot with my art books in the background, along with cool stuff.
 
-Need Storyboard shot of female protagonist and the crowd of peasants, silhouettes.. Need to integrate more dynamic movement and animation, not just static images.
+Need Storyboard shot of female protagonist and the crowd of peasants, silhouettes.. Need to integrate more dynamic movement and animation, not just static images.  Or create a lot of very small rough colorscript thumbnails and put them on a board so people can't really see the closeup details (maybe brett would be interested?)  Need to finish script first
 
 Explain the Concept: An animated short teaser trailer for a Norse-stye narrative about .  Heavily inspired by history, archaeology, and mythology, namely the Prose Edda and Landnamasbok and European myths and folklore.
 
-Silmarillion more than the Lord of the Rings, catalogs the fall of societies with these ancient ruins just lying around crumbling everywhere, there's a sense of fate that everything inevitably fades in time
+I guess if I had to summarize the overarching theme of the story, it is ultimately about the characters finding their place of what makes them happy.  Not about being famous or the bravest.  Thematically linked to a saga, which was intended to tell the life story, good and bad.  moreso the Silmarillion than the Lord of the Rings, catalogs the fall of societies with these ancient ruins just lying around crumbling everywhere, there's a sense of fate that everything inevitably fades in time, and having to learn how to let go and accept change
 
-Why the characters are interesting, traits, what are their goals- surrounded by the legacy of these larger than life heroes, yet they are just average people with no extraordinary skills or traits.  Interesting because the past is forgotten so easily, and there's this looming question of whether anything the protagonists do really matters.  Are their names going to be remembered in songs?
+Why the characters are interesting, traits, what are their goals- surrounded by thes giant statues and reminded of the legacy of these larger than life heroes who are their ancestors, yet they are just average people with no extraordinary skills or traits.  Interesting because the past is forgotten so easily, and there's this looming question of whether anything the protagonists do really matters.  Are their names going to be remembered in songs?
 
 Really attempting to recreate an authentic atmosphere
 
