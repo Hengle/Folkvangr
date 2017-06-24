@@ -6,15 +6,6 @@ This is the repository for programming related issues, code, workflow optimizati
 - Milestones
 - Scrum
 
-## Collaboration and Promotional
-- Skype
-- Phone
-- Discord
-- GitHub
-- Social Media
-- Website
-- Kickstarter
-
 ## Game Engine and API
 - Unity
 - Open GL
