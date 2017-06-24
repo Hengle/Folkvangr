@@ -1,5 +1,20 @@
 This is the repository for programming related issues, code, workflow optimization, and software parameters.
 
+## Pipeline Structure
+- Agile
+- Weekly Meetings 
+- Milestones
+- Scrum
+
+## Collaboration and Promotional
+- Skype
+- Phone
+- Discord
+- GitHub
+- Social Media
+- Website
+- Kickstarter
+
 ## Game Engine and API
 - Unity
 - Open GL
@@ -66,17 +81,3 @@ This is the repository for programming related issues, code, workflow optimizati
 - Bug Fixes
 
 ## Documentation
-
-## Pipeline Structure
-- Weekly Meetings 
-- Milestones
-- Scrum
-
-## Collaboration and Promotional
-- Skype
-- Phone
-- Discord
-- GitHub
-- Social Media
-- Website
-- Kickstarter
