@@ -8,7 +8,7 @@ Professional quality standards apply.  Good communication skills are probably th
 
 Main paid positions will likely go to those with the right skills for the job.  In most cases this will boil down to portfolios, qualifications, and experience, but I try not to flatly deny people who are willing to help out in some way.  
 
-There may be assistant positions available during certain points of the production, with opportunities for compensation or networking.
+There may be assistant or junior-level positions available during certain points of the production, with opportunities for compensation or networking.
 
 ### Artist Rights
 
