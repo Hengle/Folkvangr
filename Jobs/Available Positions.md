@@ -1,24 +1,24 @@
 # Production Management
 
 ### Director/Co-Director
-Requirements: Preferably have a background in animation, VFX, or game development.  
+**Role:** The Director/s bring an original vision for the realization of the project.  Co-Directors will collaborate and compromise with the other production leads while encouraging the team to make their best possible end-product.  This is a professional project, but the goal is not to create a for-profit corporate studio system with bureaucracy and micromanagent. Good leadership qualities, time management, and communication skills are necessary for directing roles. Egos and creative differences will need to be put aside for the best interests of the project and team. 
 
-Role: The Director/s bring an original vision for the realization of the project.  Co-Directors will collaborate and compromise with the other production leads while encouraging the team to make their best possible end-product.  This is a professional project, but the goal is not to create a for-profit corporate studio system with bureaucracy and micromanagent. Good leadership qualities, time management, and communication skills are necessary for directing roles. Egos and creative differences will need to be put aside for the best interests of the project and team. 
+**Requirements:** Preferably have a background in animation, VFX, or game development.  
 
 ### Production Manager
-Requirements: Management Experience and Good Communication Skills, filiarity with the pipeline production process and networking.
+**Role:** Scheduling, Coordination between Departments, Dailies, Publicity, Budget.  The Production manager will attempt to streamline workflow methods and ensure efficient use of resources.  The Production manager will communicate with team members, create weekly stretch goals, update design documents and schedules, and oversee the management division of the budget, publicity, and product testing. 
 
-Role: Scheduling, Coordination between Departments, Dailies, Publicity, Budget.  The Production manager will attempt to streamline workflow methods and ensure efficient use of resources.  The Production manager will communicate with team members, create weekly stretch goals, update design documents and schedules, and oversee the management division of the budget, publicity, and product testing. 
+**Requirements:** Management Experience and Good Communication Skills, familiarity with the pipeline production process and networking.
 
 ### Art Director
-Requirements: Studio Experience and Good Communication Skills. 
+**Role:** The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.
 
-Role: The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.
+**Requirements:** Portfolio and Good Communication Skills.
 
 ### Technical Director
-Requirements: Background in VFX or Game Design Preferable.  Familiarity with Unity and C# is necessary.
+**Role:** Asset Management, Game Development, Pipeline Management, Libraries Management.  The Technical Director will be asked to draft documents outlining a clear strategy for development of a library categorization system, code protocols, and pipeline implementation on the programming side.  These documents will be needed by the date of the Crowdfunding Campaign.
 
-Role: Asset Management, Game Development, Pipeline Management, Libraries Management.  The Technical Director will be asked to draft documents outlining a clear strategy for development of a library categorization system, code protocols, and pipeline implementation on the programming side.  These documents will be needed by the date of the Crowdfunding Campaign.
+**Requirements:** Background in VFX or Game Design Preferable.  Familiarity with Unity and C# is necessary.
 
 # Previs and Pre-Production
 
