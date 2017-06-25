@@ -3,7 +3,7 @@
 - **Script**
 - **Storyboard**
 - **Color Script**
-- **Story Reel**
+- **Pencil Tests/Story Reel**
 - **2D or 3D**
 - **Art Style Guidelines**
 - **Color Palettes**
