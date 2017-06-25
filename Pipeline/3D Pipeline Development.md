@@ -7,15 +7,22 @@ For the trailer proof of concept, only the essentials needed for a minimum viabl
 For the first production cycle, a vertical slice alpha will be needed. This means assets for areas 1-3 will be the main focus.  Some areas may be less complete than others, and bugs will be ironed out in future iterations and testing.
 
 ## Models Priority Level
-1. Flora Texture Set
-2. Rocks and Ruins Asset Pack
-3. Playable Character Base Meshes
+1. Playable Character Base Meshes
+2. Bushes, Trees, Plants
+3. Rocks and Ruins Asset Pack
 4. NPC Base Meshes
 5. Clothing 
 6. Village Building Set
 7. Stone Building Set
 8. Village Props Pack
 7. Hallway/Dungeons Pack
+
+## Programming
+1. Movement Controls
+2. Stats and U.I.
+3. Level Gating
+4. Library Naming System
+5. Code Protocols
 
 ## A.I.
 1. Pathing 
@@ -25,13 +32,6 @@ For the first production cycle, a vertical slice alpha will be needed. This mean
 5. Hostility Triggers
 6. Retreat Triggers
 7. Stealth
-
-## Programming
-1. Movement Controls
-2. Stats and U.I.
-3. Level Gating
-4. Library Naming System
-5. Code Protocols
 
 ## Textures
 1. Wood 
