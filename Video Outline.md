@@ -8,7 +8,7 @@ Need camera shot with my art books in the background, along with cool stuff.
 
 Need Storyboard shot of female protagonist and the crowd of peasants, silhouettes.. Need to integrate more dynamic movement and animation, not just static images.  Or create a lot of very small rough colorscript thumbnails and put them on a board so people can't really see the closeup details (maybe brett would be interested?)  Need to finish script first
 
-Explain the Concept: An animated short teaser trailer for a Norse-stye narrative about .  Heavily inspired by history, archaeology, and mythology, namely the Prose Edda and Landnamasbok and European myths and folklore.
+Explain the Concept: An animated short teaser trailer for a Norse-stye narrative about .  Heavily inspired by history, archaeology, and mythology, namely the Prose Edda and Landnamasbok and European myths and folklore.  Stars two main protagonists and 8-person party system with all the standard RPG bells and whistles.
 
 I guess if I had to summarize the overarching theme of the story, it is ultimately about the characters finding their place of what makes them happy.  Not about being famous or the bravest.  Thematically linked to a saga, which was intended to tell the life story, good and bad.  moreso the Silmarillion than the Lord of the Rings, catalogs the fall of societies with these ancient ruins just lying around crumbling everywhere, there's a sense of fate that everything inevitably fades in time, and having to learn how to let go and accept change
 
@@ -22,7 +22,10 @@ Why This pitch is different
 
 Story Driven
 
-Visual influences- 
+Visual influences- Secret of Kells, Ori and the Blind Forest
+Gameplay Influences- Kingdom Come: Deliverance, Mount and Blade Warband, Divinity Original Sin
+Story Influences- William Tell, Beowulf, Grettirs Saga, Njall's Saga, Landnamasbok, Prose Edda
+Historical Influences- Lindisfarne, Norman Invasion, Stonehenge, Domesday Book
 
 Why should it matter to the Artella community
 Willing to implement experimental technologies and techniques that improve animation efficiency
