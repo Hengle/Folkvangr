@@ -9,6 +9,17 @@
 - Sword
 - Shield
 
+### Resources
+- Clay
+- Wood
+- Stone
+- Leather
+- Coal
+- Iron
+- Bog Iron
+- Pitch
+- Earthmetal
+
 ### Currency
 - Iron
 - Copper
@@ -28,17 +39,6 @@
 ### Items
 - Bones
 - Instruments
-
-### Resources
-- Clay
-- Wood
-- Stone
-- Leather
-- Coal
-- Iron
-- Bog Iron
-- Pitch
-- Earthmetal
 
 ### Livestock
 - Goats- produce milk, cheese, meat
@@ -96,6 +96,7 @@
 - Leg Wraps
 - Shoes
 - Boots
+- Hats
 
 ### Props
 - Wooden Benches
@@ -117,7 +118,7 @@
 - Trenchers
 
 ### Modular Buildings
-- Hovel- Clay, Wode, Turf, Wood, Stone
+- Hovel- Clay, Wattle and Daub, Turf, Wood, Stone
 - Roofing- Straw, Tile, Shingle
 - Stables
 - Palisade
