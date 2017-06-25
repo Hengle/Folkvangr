@@ -27,7 +27,7 @@ The limitations create challenges that will force players to manage resources an
 Bosses will likely be the exception to the balance rule, and will have higher health and attack.  This is unrealistic, but it's just more satisfying gameplay.
 
 ## Difficulty
-Saving will be allowed at giant waystones and other unique regional markers, with automatic saves at certain stages in the game.  This leaves the game open to casual players.  If others want to play on more difficult settings, there may be settings and optional limits to make combat more challenging.   
+Saving will be allowed at any stage in the game, with automatic saves at giant waystones and other unique regional markers.  This leaves the game open to casual players.  If others want to play on more difficult settings, there may be adjustable settings and optional limits to make combat more challenging.   
 
 The main playable characters are not heavily armored, cannot take many hits, and don't have many special power abilities. This forces strategic decisions on how to best use the party member's different strengths in combat without overrelying on buffs, rare weapons, or tank armor.
 
@@ -91,4 +91,4 @@ If possible, there may be an opportunity to add Multiplayer Mode or other featur
 ## Minigames
 Potentially create working version of an in-universe strategic board game for crowdfunding campaign.  Creating a mini game requires less complex programming to set up than an alpha of the full game. 
 
-Minigames and puzzles will not play as large of a role in the gameplay, but some may be optional to unlock extra items.
+Minigames and puzzles will not play a large role in advancing the gameplay, but some may be optional to unlock extra items.
