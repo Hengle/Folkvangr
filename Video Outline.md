@@ -18,7 +18,9 @@ Really attempting to recreate an authentic atmosphere
 
 Focus on pitching the trailer, not the game.  The goal is to produce a trailer.  Also not trying to gain money at this point, looking for collaborators
 
-Why This pitch is different
+Why this project is worth investing in- will other people have creative freedom and input in the story
+
+emphasize how many of the game elements is based in history, not aiming to copy Dark Souls or Skyrim, game has its own unique tone, story, and gameplay style.  
 
 Story Driven
 
