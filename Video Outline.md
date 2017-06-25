@@ -22,6 +22,8 @@ Why This pitch is different
 
 Story Driven
 
+Visual influences- 
+
 Why should it matter to the Artella community
 Willing to implement experimental technologies and techniques that improve animation efficiency
 Will donate software, documentation, post-mortems, pipeline tools developed to the community
