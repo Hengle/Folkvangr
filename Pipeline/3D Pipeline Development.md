@@ -1,6 +1,3 @@
-Simultaneous production
-Precedent
-
 Some assets will be reused or tweaked in subsequent levels.  To maximize proficiency, certain assets will need to be produced first before moving on to custom or low-priority features.
 
 ## Models Priority Level
@@ -35,7 +32,6 @@ Some assets will be reused or tweaked in subsequent levels.  To maximize profici
 3. Level Gating
 4. Library Naming System
 5. Code Protocols
-6. 
 
 ## Animation
 1. Walk Cycle
