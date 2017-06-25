@@ -1,5 +1,11 @@
 Some assets will be reused or tweaked in subsequent levels.  To maximize proficiency, certain assets will need to be produced first before moving on to custom or low-priority features.
 
+Agile development is expected to be used for completing stretch goals.  This means a cycle between check in, review, test/implement, repeat.
+
+For the trailer proof of concept, only the essentials needed for a minimum viable product are needed.
+
+For the first production cycle, a vertical slice alpha will be needed. This means assets for areas 1-3 will be the main focus.  Some areas may be less complete than others, and bugs will be ironed out in future iterations and testing.
+
 ## Models Priority Level
 1. Flora Texture Set
 2. Rocks and Ruins Asset Pack
@@ -11,20 +17,14 @@ Some assets will be reused or tweaked in subsequent levels.  To maximize profici
 8. Village Props Pack
 7. Hallway/Dungeons Pack
 
-## Textures
-1. Wood 
-2. Stone
-3. Grasses
-4. Water
-5. Cloth
-6. Metal
-
 ## A.I.
 1. Pathing 
-2. Mob AI
-3. NPC Cycle States
-4. Hostility Triggers
-5. Retreat Triggers
+2. Mob A.I.
+3. Hitboxes
+4. NPC Cycle States
+5. Hostility Triggers
+6. Retreat Triggers
+7. Stealth
 
 ## Programming
 1. Movement Controls
@@ -32,6 +32,14 @@ Some assets will be reused or tweaked in subsequent levels.  To maximize profici
 3. Level Gating
 4. Library Naming System
 5. Code Protocols
+
+## Textures
+1. Wood 
+2. Stone
+3. Grasses
+4. Water
+5. Cloth
+6. Metal
 
 ## Animation
 1. Walk Cycle
@@ -45,8 +53,10 @@ Some assets will be reused or tweaked in subsequent levels.  To maximize profici
 9. Background Effects
 
 ## VFX
+Most of these functions should already be built into Unity
 1. Lighting
 2. Water Simulation/Fluid Dynamics
-3. 
+3. Particle Systems
 4. Day/Night Cycle
-5.
+5. Weather Instances
+6. Destuctable Environments
