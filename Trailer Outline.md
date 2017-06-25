@@ -2,9 +2,11 @@
 ### Requirements
 - **Script**
 - **Storyboard**
+- **Color Script**
 - **Story Reel**
 - **2D or 3D**
-- **Art Style**
+- **Art Style Guidelines**
+- **Color Palettes**
 - **Dope Sheet**
 - **Rigged Models**
 - **Backgrounds**
@@ -12,13 +14,13 @@
 - **Water Physics, Wind Simulation, Hair Physics, Cloth Physics**
 - **Interactions and Dialogue**
 
-### Alternatives
+#### Trailer without Dialogue
+The script would be edited down to be shorter and focus on one character and a creature stalking them, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.  Reducing the number of characters down to one would allow for more emphasis on one model.  The sequence takes place before the key catalyst event, so it technically will not impact the story if slight changes are made to the existing script.  This would leave a little more room for other contributors to add in their own creative input.
 
 #### Trailer with Dialogue
-This makes the most sense in context of the story, but it requires more rigging, animation, and graphical detail.  It might work better in 2D.
+This makes the most sense in context of the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It might work better in 2D.
 
-#### Trailer without Dialogue
-The script would be edited down to be shorter and focus on one character and a creature stalking them, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.
+### Alternatives
 
 #### Trailer from Different Character Perspective
 This could be used to tell the story of the missing peddler, but it doesn't set up the promotional campaign well if it doesn't have the main characters.  It would avoid the need for dialogue.
