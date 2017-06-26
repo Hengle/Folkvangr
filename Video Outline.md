@@ -4,7 +4,7 @@ Fade in Logo Design- Triple interwoven Gripping beast motif, not Ouroboros(too o
 
 Music swells
 
-Need camera shot with my art books in the background, along with cool stuff.
+Need camera shot with art books in the background, along with cool stuff.
 
 Need Storyboard shot of female protagonist and the crowd of peasants, silhouettes.. Need to integrate more dynamic movement and animation, not just static images.  Or create a lot of very small rough colorscript thumbnails and put them on a board so people can't really see the closeup details (maybe brett would be interested?)  Need to finish script first
 
