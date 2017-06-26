@@ -13,7 +13,7 @@
 ### Art Director
 **Role:** The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.
 
-**Requirements:** Portfolio and Good Communication Skills.
+**Requirements:** Portfolio and Good Communication Skills. An interest in art history would be a bonus.
 
 ### Technical Director
 **Role:** Asset Management, Game Development, Pipeline Management, Libraries Management.  The Technical Director will be asked to draft documents outlining a clear strategy for development of a library categorization system, code protocols, and pipeline implementation on the programming side.  These documents will be needed by the date of the Crowdfunding Campaign.
@@ -33,6 +33,9 @@ Role: Foley Effects, Sound Stage Recording Management
 
 ### Composer 
 Role: OST
+
+### Graphic Designer
+Role: Logo Design, Icons, UI Design, Fonts, Text
 
 ### Motion Capture (Optional)
 Role: Integrating Performance Capture, Facial Capture, Dialogue, Integration with Animation.  Note: This would need to be done in a cost efficient manner without all the expensive cutting edge tools of the trade.
