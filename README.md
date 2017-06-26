@@ -1,5 +1,5 @@
 # Brefhamer
-**Narrative Adventure RPG Game Design Project**
+## Narrative RPG Game Design Project
 
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
