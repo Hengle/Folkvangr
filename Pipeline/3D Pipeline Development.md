@@ -1,3 +1,5 @@
+## Pipeline Overview
+
 Some assets will be reused or tweaked in subsequent levels.  To maximize proficiency, certain assets will need to be produced first before moving on to custom or low-priority features.
 
 Agile development is expected to be used for completing stretch goals.  This means a cycle between check in, review, test/implement, repeat.
