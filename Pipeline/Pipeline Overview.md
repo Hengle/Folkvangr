@@ -69,7 +69,8 @@ Dailies will keep team members up to date with goals and what other team members
 7. Facial Animation
 8. Secondary Animation
 9. Background Effects
-7. Cloth, Hair, Grass Simulation
+10. Cloth, Hair, Grass Simulation
+11. Motion Capture/ Reference Footage
 
 ## VFX
 Most of these functions should already be built into Unity
