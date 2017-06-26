@@ -28,12 +28,13 @@ For the first production cycle, a vertical slice alpha will be needed. This mean
 
 ## A.I.
 1. Pathing 
-2. Mob A.I.
+2. Collision Detection
 3. Hitboxes
-4. NPC Cycle States
+4. Mob A.I.
 5. Hostility Triggers
 6. Retreat Triggers
 7. Stealth
+8. NPC Cycle States
 
 ## Textures
 1. Wood 
@@ -42,6 +43,7 @@ For the first production cycle, a vertical slice alpha will be needed. This mean
 4. Water
 5. Cloth
 6. Metal
+7. Substances and Shaders
 
 ## Animation
 1. Walk Cycle
@@ -53,6 +55,7 @@ For the first production cycle, a vertical slice alpha will be needed. This mean
 7. Facial Animation
 8. Secondary Animation
 9. Background Effects
+7. Cloth, Hair, Grass Simulation
 
 ## VFX
 Most of these functions should already be built into Unity
@@ -62,3 +65,4 @@ Most of these functions should already be built into Unity
 4. Day/Night Cycle
 5. Weather Instances
 6. Destuctable Environments
+7. Draw Distance
