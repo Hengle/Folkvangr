@@ -1,4 +1,6 @@
 ## Trailer
+
+![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ### Requirements
 - **Script**
 - **Storyboard**
