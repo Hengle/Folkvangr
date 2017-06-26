@@ -1,5 +1,11 @@
 ## Pipeline Overview
 
+The purpose of establishing a pipeline is that ideally it is preferable to avoid Crunch as much as possible, especially in the early development cycle.
+
+Preplanning as much as possible will hopefully cut down on wasted time, redesigns, and redundancies, as well as reduce the amount of time needed to get a working build implemented.
+
+## Priorities
+
 Some assets will be reused or tweaked in subsequent levels.  To maximize proficiency, certain assets will need to be produced first before moving on to custom or low-priority features.
 
 For the trailer proof of concept, only the essentials for a minimum viable product are needed.
@@ -13,6 +19,8 @@ Agile development is expected to be used for completing stretch goals.  Stretch 
 Sprints will be set to two weeks.  This may be adjusted to work with the team's preferences.
 
 A feature board will mark progress.
+
+Dailies will keep team members up to date with goals and what other team members are working on.  It will also allow opportunities to provide feedback and discuss ideas.
 
 ## Models Priority Level
 1. Playable Character Base Meshes
