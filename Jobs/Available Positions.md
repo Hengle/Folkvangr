@@ -1,4 +1,4 @@
-# Production Management
+# Production Leads
 
 ### Director/Co-Director
 **Role:** The Director/s bring an original vision for the realization of the project.  Co-Directors will collaborate and compromise with the other production leads while encouraging the team to make their best possible end-product.  This is a professional project, but the goal is not to create a for-profit corporate studio system with bureaucracy and micromanagent. Good leadership qualities, time management, and communication skills are necessary for directing roles. Egos and creative differences will need to be put aside for the best interests of the project and team. 
@@ -6,9 +6,9 @@
 **Requirements:** Preferably have a background in animation, VFX, or game development.  
 
 ### Production Manager
-**Role:** Scheduling, Coordination between Departments, Dailies, Publicity, Budget.  The Production manager will attempt to streamline workflow methods and ensure efficient use of resources.  The Production manager will communicate with team members, create weekly stretch goals, update design documents and schedules, and oversee the management division of the budget, publicity, and product testing. 
+**Role:** Scheduling, Coordination between Departments, Dailies, Publicity, Budget.  The Production manager will attempt to streamline workflow methods and ensure efficient use of resources.  The Production manager will communicate with team members, create weekly stretch goals, update design documents and schedules, manage the Production Board, and oversee the management division concerning the budget, publicity, and product testing. Assistant roles will likely be needed.
 
-**Requirements:** Management Experience and Good Communication Skills, familiarity with the pipeline production process and networking.
+**Requirements:** Management Experience and Good Communication Skills, familiarity with the agile pipeline production process and networking.
 
 ### Art Director
 **Role:** The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.
@@ -20,10 +20,15 @@
 
 **Requirements:** Background in VFX or Game Design Preferable.  Familiarity with Unity and C# is necessary.
 
+### Producer (Optional)
+**Role:** To secure sponsors, private backers, and publicity.  The goal is to ensue the game gets made according to professional standards, which involves paying fair rates to employees.
+
+**Requirements:** Professional Networking Connctions
+
 # Previs and Pre-Production
 
 ### Writer
-Role: Script Development, Story Arcs, Sidequests
+Role: Script Development, Story Arcs, Sidequests, Research
 
 ### Storyboard/Layout Artist
 Responsible for storyboards (20+ frames), Scene Breakdowns, timing, and blocking, key colors, layout
