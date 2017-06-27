@@ -8,7 +8,7 @@ Need camera shot with art books in the background, along with cool stuff.
 
 Need Storyboard shot of female protagonist and the crowd of peasants, silhouettes.. Need to integrate more dynamic movement and animation, not just static images.  Or create a lot of very small rough colorscript thumbnails and put them on a board so people can't really see the closeup details (maybe brett would be interested?)  Need to finish script first
 
-Explain the Concept: An animated short teaser trailer for a Norse-stye narrative.  Heavily inspired by history, archaeology, and mythology, namely the Prose Edda and Landnamasbok and European myths and folklore.  Stars two main protagonists and 8-person party system with all the standard RPG bells and whistles.
+Explain the Concept: An animated short teaser trailer for a Norse-stye narrative.  It has RPG elements, but in many ways schews the typical fantasy rpg tropes to focus on the world and story.  Heavily inspired by history, archaeology, and mythology, namely the Prose Edda and Landnamasbok and European myths and folklore.  Stars two main protagonists and 8-person party system with all the standard RPG bells and whistles.
 
 The overarching theme of the story is about the characters journey.  There are clear story arcs and development for characters, is a morality system. A unique elemnt is the focus on dual protagonists and not creating a chosen one archetype, but rather focusing on common peopel who aren't the strongest or the bravest.  They make mistakes and have conflicts.  
 
@@ -29,7 +29,7 @@ Emphasize how many of the game elements is based in history, not aiming to copy 
 Story Driven
 
 Visual influences- Secret of Kells, Ori and the Blind Forest
-Gameplay Influences- Kingdom Come: Deliverance, Mount and Blade Warband, Divinity Original Sin
+Gameplay Influences- Baldurs Gate, Divinity Original Sin, Kingdom Come: Deliverance, Mount and Blade Warband 
 Story Influences- William Tell, Beowulf, Grettirs Saga, Njall's Saga, Landnamasbok, Prose Edda
 Historical Influences- Lindisfarne, Norman Invasion, Stonehenge, Domesday Book
 
