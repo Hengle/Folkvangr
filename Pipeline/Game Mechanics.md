@@ -53,6 +53,8 @@ Total map size will be less than 3x3 miles, with densely packed content and obje
 
 Smaller world size allows more attention to be placed on crafting interesting details, rather than generic modular componets and procedurally generated landscapes.
 
+There may be an area effect where unexplored regions of the map will be blacked out until it has been explored.
+
 ## Travel
 Hub areas will allow quick travel options, but after leaving the area to progress to the next area the hub will not be accessible.
 
