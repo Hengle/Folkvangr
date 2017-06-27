@@ -29,7 +29,7 @@
 **Requirements:** Background in VFX or Game Design Preferable.  Familiarity with Unity and C# is necessary.
 
 ### Writer
-Role: Script Development, Story Arcs, Sidequests, Research
+Role: Script Development, Story Arcs, Continuity, Sidequests, Research
 
 # Previs and Pre-Production
 
@@ -37,7 +37,7 @@ Role: Script Development, Story Arcs, Sidequests, Research
 Responsible for storyboards (20+ frames), Scene Breakdowns, timing, and blocking, key colors, layout, possibly animatics
 
 ### Sound Designer
-Role: Foley Effects, Sound Stage Recording Management
+Role: Foley Effects, ADR, Sound Stage Recording Management
 
 ### Composer 
 Role: OST
