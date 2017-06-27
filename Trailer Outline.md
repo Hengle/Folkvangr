@@ -30,7 +30,14 @@ This trailer would cover scenes from the entire game, but creating assets, anima
 - **Art Style Guidelines**
 - **Color Palettes**
 - **Dope Sheet**
+- **Model Sheets**
 - **Rigged Models**
+
+### Initial Stretch Goals
+- **Character Design and Environment Concepts**
+- **Begin Modeling**
+- **Begin Blocking**
+- **Review and Refine Animation**
 - **Backgrounds**
 - **Assets**
 - **Water Physics, Wind Simulation, Hair Physics, Cloth Physics**
