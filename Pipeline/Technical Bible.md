@@ -72,3 +72,5 @@ This is the repository for programming related issues, code, workflow optimizati
 - Bug Fixes
 
 ## Documentation
+- Spec Sheets
+- File Naming Conventions
