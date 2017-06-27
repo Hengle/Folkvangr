@@ -18,7 +18,7 @@
 ### Assistant Production Manager
 **Role:** Assist the Production Manager and Directors and cover additional responsibilities 
 
-### Art Director
+### Production Designer/ Art Director
 **Role:** The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.
 
 **Requirements:** Portfolio and Good Communication Skills. An interest in art history would be a bonus.
