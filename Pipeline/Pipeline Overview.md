@@ -4,6 +4,8 @@ The purpose of establishing a pipeline is that ideally it is preferable to avoid
 
 Preplanning as much as possible will hopefully cut down on wasted time, redesigns, and redundancies, as well as reduce the amount of time needed to get a working build implemented.
 
+That being said, unexpected issues will inevitably arise during production.  Contingency plans may not always cover every outcome.  In these cases, it will require adapting to the situation and making do with the available options.
+
 ## Priorities
 
 Some assets will be reused or tweaked in subsequent levels.  To maximize proficiency, certain assets will need to be produced first before moving on to custom or low-priority features.
@@ -21,6 +23,11 @@ Sprints will be set to two weeks.  This may be adjusted to work with the team's 
 A feature board will mark progress.
 
 Dailies will keep team members up to date with goals and what other team members are working on.  It will also allow opportunities to provide feedback and discuss ideas.
+
+## Backups and Sharing Conventions
+Always save files on backup USB.
+
+Please include comments and good markup in code to make it easier for others to edit.
 
 ## Models Priority Level
 1. Playable Character Base Meshes
