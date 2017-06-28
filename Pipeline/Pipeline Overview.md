@@ -45,8 +45,8 @@ Dailies will keep team members up to date with goals and what other team members
 2. Collision Detection
 3. Hitboxes
 4. Mob A.I.
-5. Hostility Triggers
-6. Retreat Triggers
+5. NPC Personality Traits Mixer Library
+6. Current State Triggers
 7. Stealth
 8. NPC Cycle States
 
@@ -83,3 +83,7 @@ Most of these functions should already be built into Unity
 7. Draw Distance
 8. Procedural Elements
 9. Ragdoll Physics
+
+## Sound
+1. Sound Library
+2. Music Library
