@@ -5,7 +5,7 @@
 
 ## Holbrinc
 - **Reusable Assets:** m/f character base meshes
-- **Assets Needed:** Modular Components for NPCs, buildings
+- **Assets Needed:** Modular Components for NPCs, buildings, Horse Animation, Tents
 - **Technical Effects Needed:** Particle system (fire, smoke)
 - **Programming:** 
 
@@ -37,10 +37,10 @@
 - **Programming:** multi-point hitboxes
 
 ## Ennon
-- **Reusable Assets:** Rocks and Ruins, Buildings
+- **Reusable Assets:** Rocks and Ruins, Buildings, Horse Riding Animation
 - **Assets Needed:** 
 - **Textures Needed:** 
-- **Technical Effects Needed:** Photogrammetry, Particle Systems (fog, clouds)
+- **Technical Effects Needed:** Photogrammetry, Particle Systems (fog, clouds) 
 - **Programming:** Wind Simulation
 
 ## Ristelea
