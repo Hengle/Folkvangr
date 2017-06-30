@@ -6,9 +6,9 @@
 Concept art by Marius Janusonis
 
 ## Story Synopsis
-The story begins in an isolated hamlet bordered by a dense forest.  When the local forester doesn’t return for several days after one of his ill-advised hunting forays deep in the woods, his half-sister goes to search for him.  The general opinion is that the forester is probably already dead, and neither one of them are going to come back alive.
+The story begins in an isolated hamlet bordered by a dense forest.  When the local forester doesn’t return from an ill-advised hunting foray in the woods, a search party gathers to look for him.  The general opinion is that the forester is probably already dead.  The villagers eventually give up and turn back, but his half-sister continues deeper into the heart of the forest to continue searching.  
 
-The tone of the story is intended to be ominous, mysterious, and claustrophobic.  
+The introductory trailer is designed to establish the characters and setting for a more in-depth game production, but the story will be self-contained.  The tone is intended to be ominous, mysterious, and claustrophobic.  The characters will experience some rather harrowing and visceral ordeals as they struggle to get out of the forest alive.
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
