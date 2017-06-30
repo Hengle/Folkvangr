@@ -22,7 +22,7 @@ The style and medium will be determined by the art team, but will likely employ 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
 
 ## Production Status
-The project is currently in the pre-vis stage.  There is a script, some concept art, breakdowns, and documentation that can be used for reference.  However, I am open to alternative suggestions, designs, or input from others. 
+The project is currently in the later pre-vis stage, moving into creating models and blocking.  There is a script, some concept art, breakdowns, and documentation that can be used for reference.  However, I am receptive to alternative suggestions, redesigns, or input from others. 
 
 The project is being self-financed until a pitch can be made on Kickstarter.  Nobody is expected to work for free or to commit long-term without compensation.  If the campaign goes through, any funds that don't go towards taxes or necessary expenses will be used directly for hiring.
 
