@@ -1,5 +1,5 @@
 # Brefhamer
-## Narrative RPG Game Design Project
+## Cinematic Trailer/Narrative RPG Game Design Project
 
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
@@ -17,14 +17,16 @@ Concept Sketch by Christof Grobelski
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
 
-The style and medium will be determined by the art team, but will likely employ hybrid techniques.  Possible visuals references are the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  The closest video game reference examples would probably be Baldur's Gate, The Banner Saga, and Telltale games. 
+The style and medium will be determined by the art team, but will likely employ hybrid techniques.  Possible visuals references include the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  The closest video game reference examples would probably be Baldur's Gate, The Banner Saga, and Telltale games. 
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
 
 ## Production Status
-The project is currently in the pre-vis stage.  There is a script, some concept art, and documentation that can be used as guidelines. Discussions about establishing a formal pipeline will begin once the size of the team grows.
+The project is currently in the pre-vis stage.  There is a script, some concept art, breakdowns, and documentation that can be used for reference.  However, I am open to alternative suggestions, designs, or input from others. 
 
 The project is being self-financed until a pitch can be made on Kickstarter.  Nobody is expected to work for free or to commit long-term without compensation.  If the campaign goes through, any funds that don't go towards taxes or necessary expenses will be used directly for hiring.
+
+Discussions about establishing a formal pipeline will begin as the size of the team grows and production ramps up.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
 
