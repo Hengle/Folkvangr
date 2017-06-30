@@ -6,7 +6,7 @@
 Concept art by Marius Janusonis
 
 ## Story Synopsis
-The story begins in an isolated hamlet bordered by a dense forest.  When the local forester doesn’t return from an ill-advised hunting foray in the woods, a search party gathers to look for him.  The general opinion is that the forester is probably already dead.  The villagers eventually give up and turn back, but his half-sister continues deeper into the heart of the forest to continue searching.  
+The story begins in an isolated hamlet bordered by a dense forest.  When the local forester doesn’t return from an ill-advised hunting foray in the woods, a search party gathers to look for him.  The general opinion is that the forester is probably already dead.  The villagers eventually give up and turn back, but the forester's half-sister ventures deeper into the heart of the forest to continue searching.  
 
 The introductory trailer is designed to establish the characters and setting for a more in-depth game production, but the story will be self-contained.  The tone is intended to be ominous, mysterious, and claustrophobic.  The characters will experience some rather harrowing and visceral ordeals as they struggle to get out of the forest alive.
 
