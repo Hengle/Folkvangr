@@ -17,7 +17,6 @@ The style and medium will be determined by the art team, but will likely employ 
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
 
-
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
 
 ## Project Breakdown
@@ -36,12 +35,13 @@ The game will be an RPG with a narrative storyline and unique game mechanics.  I
 
 At this time, Unity is the preferred game engine.  Other middleware options may be considered depending on the preferences of the technical director.  The final decision on the game engine will be determined before the crowdfunding campaign.
 
-
 ![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
+
 ## Production Status
 The project is currently in the later  pre-vis stages, moving into  modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
 
 The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or  crowdfunding patrons will  go directly towards paying team members, minus taxes and expenses.
+
 ![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/female_sketch.jpg)
 
 ## Risk Mitigation
