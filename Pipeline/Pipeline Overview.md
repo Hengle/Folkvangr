@@ -29,6 +29,11 @@ Always save files on backup USB.
 
 Please include comments and good markup in code to make it easier for others to edit.
 
+## Dev Tools
+1. Level Editor
+2. Libraries
+2. Character Creator Tools for rapid NPC Generation
+
 ## Models Priority Level
 1. Playable Character Base Meshes
 2. Bushes, Trees, Plants
