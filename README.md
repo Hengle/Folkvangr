@@ -42,6 +42,7 @@ At this time, Unity is the preferred game engine.  Other middleware options may 
 The project is currently in the later  pre-vis stages, moving into  modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
 
 The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or  crowdfunding patrons will  go directly towards paying team members, minus taxes and expenses.
+![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/female_sketch.jpg)
 
 ## Risk Mitigation
 
@@ -50,6 +51,8 @@ At this point, attempting to produce an entire alpha game is impractical until a
 If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
 
 If the fundraising campaign doesn't meet the first goal, efforts will be made to try and develop an animated short instead, which would clock in at around seven to twelve minutes.  
+
+![male sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/Male_final.jpg)
 
 ## Further Details and Application
 For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer) and [Discord](https://discordapp.com/channels/326900944862314506).
