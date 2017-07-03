@@ -2,26 +2,23 @@
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 ## Trailer without Dialogue
-The script would be edited down to be shorter and focus on one character and a creature stalking them, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.  Reducing the number of characters down to one would allow for more emphasis on one model.  The sequence takes place before the key catalyst event, so it technically will not impact the story if slight changes are made to the existing script.  This would leave a little more room for other contributors to add in their own creative input.
-
-Add tension by having the lantern flicker and nearly go out.
+The script would be edited down to be shorter and focus on one character and a creature stalking them, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.  Reducing the number of characters down to one would allow for more emphasis on one character.  The sequence takes place before the key catalyst event, so it technically will not impact the story if slight changes are made to the existing script.  This would leave a little more room for other contributors to add in their own creative input.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ## Trailer with Dialogue
-This makes the most sense in context of the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It might work better in 2D.
+This makes the most sense in context of the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would require dialogue.  It might work better as in-game dialogue, or as 2D cutscenes.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ## Alternatives
 
-### Trailer from Different Character Perspective
-This could be used to tell the story of the missing peddler, but it doesn't set up the promotional campaign well if it doesn't have the main characters.  It would avoid the need for dialogue.
+### Trailer from Different Character Perspective, No Dialogue
+This could be used to tell the story of the missing peddler who vanished a few months before the events of the main game, but it doesn't position the promotional campaign very well if it doesn't feature the main characters.  This trailer would be set in the ruins more than the forest. 
 
 ### Game Cinematic Trailer
-This trailer would cover scenes from the entire game, but creating assets, animation, and rendering would be challenging
+This trailer would cover scenes from the entire game.  Creating assets, animation, and production quality rendering would be challenging on a short timeline.
 
 ### 7-12 Minute Animated Short
-This would be a possible substitute if the crowdfunding campaign does reach the first goal.  Some of the graphics and rigging technicalities make this better suited to a small independent production with funding.
-
+Some of the graphics and rigging technicalities make this better suited to a small independent production with funding.  A funded animation could features dialogue and multiple characters, or other technical areas and art styles. 
 
 ### Requirements
 - **Script**
