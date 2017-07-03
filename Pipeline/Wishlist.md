@@ -8,6 +8,10 @@ This is a backlog for requests that may not be on the schedule.
 
 
 ## Low Priority
-1. Internal Reference Library
+1. Internal Reference and Texture Library
 2. Hidden Easter Eggs
-
+3. Character Creation System
+4. Level Editor
+5. Advanced A.I. system for dialogue and responsive interaction
+6. Facial Animation System or phoneme presets
+7. Assets for Creative Commons
