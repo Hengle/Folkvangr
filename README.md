@@ -4,9 +4,9 @@
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
 ## Story Synopsis
-The story begins in an isolated hamlet bordered by a dense forest.  When the local forester doesn’t return from an ill-advised hunting foray in the woods, a search party gathers to look for him.  The general opinion is that the forester is probably already dead.  The villagers eventually give up and turn back, but the forester's half-sister ventures deeper into the heart of the forest to continue searching.  
+The story begins in an isolated hamlet bordered by a dense forest.   When the local forester doesn’t return from an ill-advised hunting foray  in the woods, a search party gathers to look for him.  The villagers  eventually give up and turn back, but the forester's half-sister  ventures deeper into the heart of the forest to continue searching.
 
-The introductory trailer is designed to establish the characters and setting for a more in-depth game production, but the story will be self-contained.  The tone is intended to be ominous, mysterious, and claustrophobic.  The characters will experience some harrowing and visceral ordeals as they struggle to get out of the forest alive.
+The introductory trailer is designed to establish the characters and setting for a more in-depth game production, but the animated short will stand alone as a self-contained story.  The tone is intended to be ominous, mysterious, and  claustrophobic.  The characters will experience some harrowing  and visceral ordeals as they struggle to get out of the forest alive.
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
