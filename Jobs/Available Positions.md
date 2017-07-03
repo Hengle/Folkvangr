@@ -1,3 +1,5 @@
+Note: At this time, positions are either freelance or voluntary part-time.  Applications for full-time positions will be considered for paid salary closer to the time of the crowdfunding campaign.    
+
 # Production Leads
 
 ### Executive Producer
