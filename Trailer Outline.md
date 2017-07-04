@@ -20,6 +20,9 @@ This trailer would cover scenes from the entire game.  Creating assets, animatio
 ### 7-12 Minute Animated Short
 Some of the graphics and rigging technicalities make this better suited to a small independent production with funding.  A funded animation could features dialogue and multiple characters, or other technical areas and art styles. 
 
+### Title Sequence
+Slow animation of rune letters rorating one by one into recognizable alphabet letters.
+
 ### Requirements
 - **Script**
 - **Storyboard**
