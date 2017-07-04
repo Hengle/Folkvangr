@@ -2,11 +2,15 @@
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 ## Trailer without Dialogue
-The script would be edited down to be shorter and focus on one character and a creature stalking them, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.  Reducing the number of characters down to one would allow for more emphasis on one character.  The sequence takes place before the key catalyst event, so it technically will not impact the story if slight changes are made to the existing script.  This would leave a little more room for other contributors to add in their own creative input.
+The original script would need to be edited down to be shorter and focus on one character, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.  
+
+The story sequence takes place before the key catalyst event, so it technically will not impact the story if slight changes are made to the existing script.  This would leave a little more room for other contributors to add in their own creative input.
+
+https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ## Trailer with Dialogue
-This makes the most sense in context of the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would require dialogue.  It might work better as in-game dialogue, or as 2D cutscenes.
+This makes the most sense in context of the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would require dialogue.  The dialogue might work better integrated within the game, or as 2D cutscenes.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ## Alternatives
