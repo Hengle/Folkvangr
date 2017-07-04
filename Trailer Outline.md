@@ -23,6 +23,10 @@ Some of the graphics and rigging technicalities make this better suited to a sma
 ### Title Sequence
 Slow animation of rune letters rorating one by one into recognizable alphabet letters.
 
+### Notes
+The scenes should have very visceral action, no shaky cam or fast cuts.  See Little Nightmares and the camera work in The Revenant.  There should be a sense that the character is defeated mentally and physically, so it is more satisfying when they come back and triumph.  
+
+
 ### Requirements
 - **Script**
 - **Storyboard**
