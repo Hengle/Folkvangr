@@ -1,6 +1,6 @@
 # Trailer
 
-![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
+![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ## Trailer without Dialogue
 The original script would need to be edited down to be shorter and focus on one character, likely ending on a tense cliffhanger.  This is the most practical trailer to produce.  
 
@@ -12,7 +12,7 @@ https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script
 ## Trailer with Dialogue
 This makes the most sense in context of the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would require dialogue.  The dialogue might work better integrated within the game, or as 2D cutscenes.
 
-![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
+![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 ## Alternatives
 
 ### Trailer from Different Character Perspective, No Dialogue
@@ -30,7 +30,7 @@ Slow animation of rune letters rorating one by one into recognizable alphabet le
 ### Notes
 The scenes should have very visceral action, no shaky cam or fast cuts.  See Little Nightmares and the camera work in The Revenant.  There should be a sense that the character is defeated mentally and physically, so it is more satisfying when they come back and triumph.  
 
-
+![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ### Requirements
 - **Script**
 - **Storyboard**
