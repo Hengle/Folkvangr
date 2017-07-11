@@ -1,7 +1,11 @@
 
+### July 2017
+- Revised Trailer Script
+- Story Outline Revised
+
 ### June 2017
 - Game Design Document
-- Revised Budget Estimate- Need to Downsize Scope
+- Revised Budget Estimate
 - Pitch Preparation
 
 ### April 2017
