@@ -1,6 +1,6 @@
 ### What is the story about?
 
-The story borrows elements from other media, but in many ways it also distances itself from feeling too similar to the usual tropes of a Medieval RPGs.  The story is not intended to ever develop into an epic where the characters must save the world from cataclysmic destruction.
+The story is not intended to ever develop into an epic where the characters must save the world from cataclysmic destruction.  Instead the characters conflicts are the central point of the game.   
 
 
 **Specific Influences:**
@@ -11,7 +11,7 @@ The Silmarillion: The Mythology, Lore, and Worldbuilding
 
 Dark Souls: Armor Sets, Interesting NPCs, Level Design, Minimalistic Exposition, Leveling, and UI
 
-Legend of Zelda, Diablo: Dungeons
+Legend of Zelda: Dungeons
 
 ES V Skyrim: Armor Sets, Flexible Skill Trees, Background Lore, Camera Perspective
 
@@ -23,11 +23,21 @@ Star Wars: Worldbuilding and Cohesive Production Design
 
 Banner Saga: Party System
 
-Mount and Blade: 1 vs 1 Combat
+LOTRO: Naming System, Lore
 
-LOTRO: Naming System
+RPG Elements: D&D, Baldur's Gate, Mount and Blade, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum
+
+### What will the gameplay be like?
+The game will embrace classic RPG tactics and class systems, while putting a more modern take on the character archetypes to be more than cardboard templates.  Greater emphasis will be put on fleshing out the characters to be less generic than the typical roleplaying NPC.  
+
+The combat will be faster paced so that players can play in real time or pause combat to plan tactics.  
+
+The party will support 2-8 party members, but will generally be split up to into smaller 2-4 person teams.
+
+Customization and exploration will be more limited, but the game levels and encounters will be crafted to be more balanced as a result.
 
 ### What makes the game different from other RPGs?
+The story borrows elements from other media, but in many ways it also distances itself from feeling too similar to the usual tropes of RPGs set in Medieval Fantasy settings. 
 
 The game will focus on the narrative and the sense of creating an immersive experience rather than devoting time and resources to unnecessary features like lockpicking or stat micromanagement.  
 
