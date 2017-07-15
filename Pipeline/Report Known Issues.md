@@ -15,5 +15,7 @@ ex. Localization Needed
 
 7/15/2017: Need to find a debugger program
 
+7/15/2017: File sizes and saves memory space need to be kept small and optimized.  This is usually worked out in the testing stages, but it is a good idea to prepare formatting in advance.
+
 ## Suggestions
 ex. Note to JCK: Stop being lazy and organize a Technical Design Document
