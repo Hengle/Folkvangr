@@ -50,7 +50,7 @@ This could be used to tell the story of the missing peddler who vanished a few m
 ### Game Cinematic Trailer
 This trailer would showcase some of the more interesting locations from the entire game.  Creating assets, animation, and production quality rendering would be challenging on a short timeline, and would require more resources than are currently available.
 
-### Deathbed scene
+### Deathbed Scene
 This more dramatic scene would set up the backstory of the two main characters in the game without the need for exposition or flashbacks later on.  Not sure this would be a subject most other people would want to work on.
 
 ### 7-12 Minute Animated Short
