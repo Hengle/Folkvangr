@@ -27,13 +27,38 @@ The limitations create challenges that will force players to manage resources an
 Bosses will likely be the exception to the balance rule, and will have higher health and attack.  This is unrealistic, but it's just more satisfying gameplay.
 
 ## Difficulty
-Saving will be allowed at any stage in the game, with automatic saves at giant waystones and other unique regional markers.  This leaves the game open to casual players.  If others want to play on more difficult settings, there may be adjustable settings and optional limits to make combat more challenging.   
+Ideally it would be nice to make the game fair to all types of players.  Some parts may be challenging, but they should never be unfairly punishing or completely unbalanced.  This leaves the game open to casual players.  If others want to play on more difficult settings, there will be adjustable settings and optional limits to make combat more challenging.   
 
 The main playable characters are not heavily armored, cannot take many hits, and don't have many special power abilities. This forces strategic decisions on how to best use the party member's different strengths in combat without overrelying on buffs, rare weapons, or tank armor.
 
 Playing on difficult mode may lead to higher drop rates of better equipment and unique awards.
 
-Ideally it would be nice to make the game fair to all types of players.  Some parts may be challenging, but they should never be unfairly punishing or completely unbalanced.
+## Quest Objectives/Directions
+Quests will be documented in a log or journal.  There will not be excessive handholding in terms of having a compass or glowing arrows pointing directions.  The end objective area might have a marker on the map that can be toggled on or off in the settings.
+
+Puzzles might have hints that can be gathered by asking NPCs or looking around the surrounding area for clues.  This option might be toggled off in the settings.
+
+## Dialogue
+NPC dialogue and cutscenes will be skippable.  Notes may be added to a journal.
+
+## Resting
+The player will not be required to manually eat or rest, as this will occur automatically via a timer as long as the characters have supplies.  This might be shown in cutscenes, or maybe day night cycles.
+
+Injured party characters will need to recover.
+
+## Saving
+Saving will be allowed at any stage in the game, with automatic save checkpoints at giant waystones and other unique regional markers. 
+
+Combat can be paused for tactical planning or to take a break.
+
+## Combat
+Real-Time or Turn-Based?  That is the question.
+
+RTS is preferred.  The combat should be relatively fast-paced and responsive.
+
+Combat will be tactical to a degree.  Since it will require some coordination to manage multiple party members, the combat speed will need to be delayed to offer greater control over the individual attack patterns.  It will likely require pausing combat to set the status of certain characters to be more aggressive or defensive, or tell a character whether to press an advantage or retreat to recover. Specific attacks and movement would be directed by using preset attack orders or directional movement.
+
+An enhanced 1 vs. 1 combat system and improved hitboxes will be planned for later on in the developmet.
 
 ## Encounters
 Once enemies are killed, they will not respawn for a set number of hours.  Bosses do not respawn.
