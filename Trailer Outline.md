@@ -4,23 +4,20 @@
 ## Trailer without Dialogue
 This trailer would focus on showing the perspective of one of the main characters.  The technical scope would be reigned in, making this option the most practical to produce with the limited resources available.  
 
-The story sequence takes place before the key catalyst event, so the story will not be drastically affected if slight changes are made to the existing script.  This leaves a little more room for other contributors to add in their own creative input.
-
-### Notes
-The scenes should have very visceral action, no shaky cam or fast cuts.  See Little Nightmares and the camera work in The Revenant.  There should be a sense that the character is defeated mentally and physically, so it is more satisfying when they come back and triumph.  
+The sequence takes place before the key catalyst event in the game timeline, so the story will not be drastically affected if slight changes are made to the existing script.  This leaves a little more room for other contributors to add in their own creative input.
 
 https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ## Trailer with Dialogue
-This trailer provides more characterization and context that sets up the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would require dialogue.  
+This trailer provides more characterization and context that sets up the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would likely require interactions and dialogue.  
 
-For technical reasons, it probably makes more sense to just integrate the dialogue within the game sequences, or as 2D cutscenes.
+For technical reasons, it probably makes more sense to just integrate the dialogue bits within the game sequences, or as 2D cutscenes.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 
 ### Title Sequence
-Slow animation of rune letters rorating one by one into recognizable alphabet letters.
+Slow animation of rune letters rorating one by one into recognizable alphabet letters.  The logo is based on a Norse gripping beast motif.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ### Development Schedule
@@ -52,6 +49,9 @@ This could be used to tell the story of the missing peddler who vanished a few m
 
 ### Game Cinematic Trailer
 This trailer would showcase some of the more interesting locations from the entire game.  Creating assets, animation, and production quality rendering would be challenging on a short timeline, and would require more resources than are currently available.
+
+### Deathbed scene
+This more dramatic scene would set up the backstory of the two main characters in the game without the need for exposition or flashbacks later on.  Not sure this would be a subject most other people would want to work on.
 
 ### 7-12 Minute Animated Short
 The graphics and rigging technicalities make this better suited to a small independent production with funding.  A funded animation could features dialogue and multiple characters, or other technical areas and art styles. 
