@@ -33,6 +33,8 @@ Note: At this time, positions are either freelance or voluntary part-time.  Appl
 ### Writer
 **Role:** Script Development, Story Arcs, Continuity, Dialogue, Sidequests, Research
 
+**Requirements:** Excerpt samples of a portfolio or published work
+
 # Previs and Pre-Production
 
 ### Storyboard/Layout Artist
