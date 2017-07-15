@@ -35,7 +35,7 @@ Assets may be donated to Creative Commons if desired.
 ### Attribution
 All contributors will be credited in promotional releases and the final product.
 
-### Studio Ownership
+### Revenue Share/Studio Ownership
 Rights to the studio and associated assets belongs to the core members.  This contract will be valid for three years
 
 Studio earnings from sales will be divided up fairly among team members by revenue share model.
