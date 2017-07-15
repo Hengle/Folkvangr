@@ -86,13 +86,13 @@ Note: At this time, positions are either freelance or voluntary part-time.  Appl
 **Role:**  Character Animation
 
 # 3D Production 
-**Role:**  Depending on the budget, 3D may not be feasible for an indie team, in which case these roles will be shifted to analagous 2D roles
+Note: Depending on the budget, 3D may not be feasible for an indie team, in which case these roles will be shifted to analagous 2D roles
 
 ### Modelers
 **Role:**  Generalist or Specialist in Environments, Characters, Props, Assets
 
 ### Rigging Artist
-**Role:**  IK/FK, Facial Control Rigs, Spline Curves, Control Handles
+**Role:**  IK/FK, Facial Control Rigs, Set Driven Keys, Spline Curves, Control Handles
 
 ### FX Artist
 **Role:**  Particle Systems, Simulations, Compositing, Matchmove, Post
