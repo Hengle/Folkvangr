@@ -29,7 +29,7 @@ Depending on the size of the team and the budget, production of the short promot
 ## Fundraising
 The crowdfunding goal is estimated around $8,000 to produce a trailer, or $10,000-35,000 to create a game alpha version.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will increase in funding scope according to how the development is  progressing, and what assets and features are being produced.  Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would likely take two or more years to finish. 
 
-![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_final_small.jpg)
+![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
 
 ## Game Development
 Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
@@ -38,7 +38,7 @@ The game will be an RPG with a narrative storyline and unique game mechanics.  I
 
 At this time, Unity is the preferred game engine.  Other middleware options may be considered depending on the preferences of the technical director.  The final decision on the game engine will be determined before the crowdfunding campaign.
 
-![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
+![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_final_small.jpg)
 
 ## Production Status
 The project is currently in the later  pre-vis stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
@@ -62,4 +62,4 @@ For more information, additional mockups and the Game Design Document files are 
 
 Contact: jcongerkallas1@gmail.com
 
-Cover art and environments by Marius Janusonis. Concept sketches by Christof Grobelski. Sound design by Dirk Kluesing
+Cover art and environments by Marius Janusonis. Concept sketches by Ludvik Skopalik and Christof Grobelski. Sound design by Dirk Kluesing
