@@ -35,9 +35,9 @@ Slow animation of rune letters rorating one by one into recognizable alphabet le
 ### Initial Stretch Goals
 - **Character Design and Environment Concepts**
 - **Begin Modeling**
+- **Rigging**
 - **Begin Blocking**
+- **Finalize Backgrounds**
+- **Finalize Assets**
 - **Review and Refine Animation**
-- **Backgrounds**
-- **Assets**
-- **Water Physics, Wind Simulation, Hair Physics, Cloth Physics**
-- **Interactions and Dialogue**
+- **Interactions and Dialogue (If Needed)**
