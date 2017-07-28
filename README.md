@@ -3,19 +3,20 @@
 
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
-## Story Synopsis
-The story begins in an isolated hamlet bordered by a dense forest.   When the local forester doesn’t return from an ill-advised hunting foray  in the woods, a search party gathers to look for him.  The villagers  eventually give up and turn back, but the forester's half-sister  ventures deeper into the heart of the forest to continue searching.
-
-The introductory trailer is designed to establish the characters and setting for a more in-depth game production, but the animated short will stand alone as a self-contained story.  The tone is intended to be ominous, mysterious, and  claustrophobic.  The characters will experience some harrowing  and visceral ordeals as they struggle to get out of the forest alive.
-
-![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
-
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
 
 The style and medium will be determined by the art team, but will likely employ hybrid techniques.  Possible visuals references include the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  The closest video game reference examples would probably be Baldur's Gate, The Banner Saga, and Telltale games. 
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
+
+![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
+
+## Trailer Synopsis
+
+The story is set in an isolated hamlet bordered by a dense forest. When the local forester doesn’t return from an ill-advised hunting foray in the woods, a search party gathers to look for him. The villagers eventually give up and turn back, but the forester's half-sister ventures deeper into the heart of the forest to continue searching.
+
+The introductory trailer is intended to establish the characters and setting for a more in-depth game production, but the animated short will stand alone as a self-contained story. The tone is intended to be ominous, mysterious, and claustrophobic. The protagonists will experience harrowing ordeals as they struggle to get out of the forest alive.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
 
