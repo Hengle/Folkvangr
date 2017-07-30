@@ -19,7 +19,8 @@ For technical reasons, it probably makes more sense to just integrate the dialog
 ### Title Sequence
 Slow animation of rune letters rorating one by one into recognizable alphabet letters.  The logo is based on a Norse gripping beast motif.
 
-![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
+![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel_sample.jpg)
+
 ### Development Schedule
 - **Script**
 - **Storyboard**
@@ -31,6 +32,8 @@ Slow animation of rune letters rorating one by one into recognizable alphabet le
 - **Dope Sheet**
 - **Model Sheets**
 - **Rigged Models**
+
+![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 
 ### Initial Stretch Goals
 - **Character Design and Environment Concepts**
