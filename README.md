@@ -59,7 +59,7 @@ If the fundraising campaign doesn't meet the first goal, efforts will be made to
 ![male sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/Male_final.jpg)
 
 ## Further Details and Application
-For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer) and [Discord](https://discordapp.com/channels/326900944862314506).
+For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and [Discord](https://discordapp.com/channels/326900944862314506).
 
 Contact: jcongerkallas1@gmail.com
 
