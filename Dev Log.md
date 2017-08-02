@@ -1,7 +1,11 @@
+### August 2017
+- Storyboard
+- Model Sheets
 
 ### July 2017
 - Revised Trailer Script
 - Story Outline Revised
+- Updated Documentation
 
 ### June 2017
 - Game Design Document
