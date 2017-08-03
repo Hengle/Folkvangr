@@ -43,13 +43,15 @@ This is the repository for programming related issues, code, workflow optimizati
 - Pathfinding Algorithms
 - Lighting System
 - Controls
-- Procedural Generation
-- Encounters
+- Inventory
+- State Machines
+- Hash Tables
 
 ## Modular Components Integration
 - Costume Design
 - NPC Character Meshes
 - Buildings
+- Procedural Generation
 - Level Builder
 
 ## Animation
@@ -59,6 +61,7 @@ This is the repository for programming related issues, code, workflow optimizati
 
 ## Localization
 - Translation Research
+- Localization Table
 
 ## Secondary Software
 - Installer.ini
