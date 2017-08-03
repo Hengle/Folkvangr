@@ -10,6 +10,9 @@ Customization and exploration will be more limited, but the game levels and enco
 
 Greater emphasis will be put on fleshing out the characters to be less generic than the typical roleplaying NPC.  
 
+### Will there be online multiplayer?
+Not likely.
+
 ### What makes this game different from other RPGs?
 The setting will be based on historical research to simulate a post-Viking Age fantasy culture. The basis for the art style will include historical research intended to make the culture have a distinct look and feel. It won't look like a generic Elder Scrolls or WOW clone.
 
