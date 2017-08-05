@@ -21,7 +21,7 @@ Note: At this time, positions are either freelance or voluntary part-time.  Appl
 **Role:** Assist the Production Manager and Directors, cover additional miscellaneous responsibilities.  This may be an internship role.  The Assistant Production Manager will have input in the creative process.  They will not be required to fetch coffee for superiors, and will only be delegated a fair amount of tasks. 
 
 ### Production Designer/ Art Director
-**Role:** The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.  The art director will also be responsible for dailies and collaborating with the art and technical team regularly.
+**Role:** The Art Director's role is to craft a coherent visual language for the production, and to ensure artists and animators produce work conforming to the style guides and quality standards.  The art director will also be responsible for dailies and collaborating with the art and technical team regularly.  Team management requires a lot of time investment, so if the Art Director wants to have greater involvement in the creative process, the job terms are negotiable.
 
 **Requirements:** Portfolio and Good Communication Skills. An interest in art history would be a bonus.
 
@@ -30,8 +30,8 @@ Note: At this time, positions are either freelance or voluntary part-time.  Appl
 
 **Requirements:** Background in VFX or Game Design Preferable.  Familiarity with Unity and C# is necessary.  Experience with Unreal might be considered as well.
 
-### Writer
-**Role:** Script Development, Story Arcs, Continuity, Dialogue, Sidequests, Research
+### Lead Writer
+**Role:** Script Development, Story Arcs, Continuity, Dialogue, Sidequests, Research.  The lead writer will work with the story team to develop the narrative of the game.
 
 **Requirements:** Excerpt samples of a portfolio or published work
 
