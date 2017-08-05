@@ -44,7 +44,7 @@ At this time, Unity is the preferred game engine.  Other middleware options may 
 ![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_final_small.jpg)
 
 ## Production Status
-The project is currently in the later  pre-vis stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
+The project is currently in the early pre-vis stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
 
 The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or  crowdfunding patrons will  go directly towards paying team members, minus taxes and expenses.
 
