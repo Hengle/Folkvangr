@@ -21,14 +21,16 @@ The introductory trailer is intended to establish the characters and setting for
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
 
 ## Project Breakdown
-The projected length of the promotional trailer is one or two minutes.
+The projected length of the promotional trailer is six to eight minutes.
 
 Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
 ## Fundraising
-The crowdfunding goal is estimated around $8,000 to produce a trailer, or $10,000-35,000 to create a game alpha version.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will increase in funding scope according to how the development is  progressing, and what assets and features are being produced.  Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would likely take two or more years to finish. 
+The crowdfunding goal is estimated around $8,000 to produce a trailer, or $10,000-35,000 to create a game alpha version.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will increase in funding scope according to how the development is  progressing, and what assets and features are being produced.  
+
+Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would likely take two or more years to finish. 
 
 ![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
 
