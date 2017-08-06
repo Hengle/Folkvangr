@@ -20,7 +20,9 @@ The game will focus on the narrative and the sense of creating an immersive expe
 
 ### What is the story about?
 
-The story is not intended to ever develop into an epic where the characters must save the world from cataclysmic destruction.  Instead the characters' conflicts are the central point of the game.   
+The story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. 
+
+The story is not about the characters needing to save the world from cataclysmic destruction.
 
 ### Features?
 
