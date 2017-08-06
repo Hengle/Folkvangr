@@ -2,7 +2,7 @@
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ## "Search" Trailer 
-This trailer would focus on showing the perspective of one of the main characters.  The technical scope would be reigned in, cutting out dialogue and reducing the scrrentime of thesecond character, making this option the most practical to produce with the limited resources available.  
+This trailer would focus on showing the perspective of one of the main characters.  The technical scope would be reigned in, cutting out dialogue and reducing the screentime of the second character.  At the time this option is the most practical to produce with the limited resources available.  
 
 The sequence takes place before the key catalyst event in the game timeline, so the story will not be drastically affected if slight changes are made to the existing script.  This leaves a little more room for other contributors to add in their own creative input.
 
