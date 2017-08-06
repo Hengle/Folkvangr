@@ -36,9 +36,11 @@ Assets may be donated to Creative Commons if desired.
 All contributors will be credited in promotional releases and the final product.
 
 ### Revenue Share/Studio Ownership
-Rights to the studio and associated assets belongs to the core members.  This contract will be valid for three years
+Rights to the studio and associated IP assets will belong to the core members as determined by contract.  Ownership will be need to be limited and clearly defined in contracts to avoid undesirable legal disputes between partners.
 
-Studio earnings from sales will be divided up fairly among team members by revenue share model.
+Studio earnings will be calculated from net profits.  
+
+Revenue share models are generally not an ideal method of compensation, but if employees want to negotiate for percentage shares of the profits, that may be an option.  Contributors will receive a revenue share proportional to the amount of work they do on the project.
 
 ### Liability
 Contributors are responsible for keeping up with the most recent terms.  Notifications will usually be sent out if there are any major changes.  By working on the project, it is assumed the individual accepts the conditions.
