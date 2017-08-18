@@ -48,7 +48,7 @@ The project is currently in the early pre-vis stages, moving into modeling and b
 
 The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or  crowdfunding patrons will  go directly towards paying team members, minus taxes and expenses.
 
-![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/female_sketch.jpg)
+![female sketch](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/female_final.jpg)
 
 ## Risk Mitigation
 
