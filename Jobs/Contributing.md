@@ -58,6 +58,7 @@ Currently only pre-vis designers and project leads are needed.  However, any pro
 - Quality Assurance Testers
 - Accountant
 - Paralegal Advisor
+- Historians
 
 ## Preferred Software Skills
 - Unity
