@@ -1,11 +1,13 @@
 ## Application
-People are generally busy and applications and interviews can be a pain, so to make this process as painless as possible, just send an intro email or message with any questions if interested.
+Applications and interviews can be a pain, so to make this process as painless as possible, just send an intro email or message with any questions if interested.
 
 **Name:**
 
 **Preferred Email or Alternate Means of Contact:**
 
-**What role are you interested in?**
+**What project role are you interested in?**
+
+**Attach portfolio images or a link to a portfolio or online resume.**
 
 
 ## Possible Followup Interview Questions
@@ -15,18 +17,11 @@ It is preferable to avoid sending generic template resumes and long CVs, but if 
 
 **List any software skills, preferred art medium, or other relevant experience and skills.**
 
-**Attach portfolio images or a link to a portfolio or online resume.**
+**Relevent Interests, Hobbies?**
 
-**Interests, Hobbies?**
+**(Optional) General Regional Location/Time Zone:**
 
-**(Optional) General Regional Location:**
-
-**(Optional) What aspect of the project sounds most interesting to you?**
-
-**(Optional) Hours Available, Other Projects, Careers, or Life Commitments that the project manager should be aware of?**
-
-**(Optional) Any critical initial feedback on the project, positive or negative?  ex. Does the scope seem too ambitious, are there major changes you would make to the story, gameplay, or characters, things to add or cut to improve the concept, etc.**
-
+**(Optional) Schedule/Hours Available?**
 
 ## Contact
 If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 48 hours.
