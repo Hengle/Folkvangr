@@ -5,7 +5,7 @@
 - Fundraising Goal: $15,000-45,000
 - Base Levels 1-2
 - Alpha for Level 3
-- 4 Playable Characters
+- 2-4 Playable Characters
 
 ### Part 2
 - Fundraising Goal: $80,000-$200,000
