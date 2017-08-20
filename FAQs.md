@@ -42,7 +42,7 @@ Prose Edda: Mythology References
 
 The Silmarillion: The Mythology, Lore, and Worldbuilding
 
-Dark Souls: Armor Sets, Interesting NPCs, Level Design, Minimalistic Exposition, Leveling, and UI
+Dark Souls: Armor Sets, Interesting NPCs, Hub Level Design, Minimalistic Exposition, Leveling, and UI
 
 Legend of Zelda: Dungeons
 
@@ -55,6 +55,8 @@ Game of Thrones: Grounded Use of Magic, Balancing a large cast and separate stor
 Star Wars: Worldbuilding and Cohesive Production Design
 
 Banner Saga: Party System
+
+Senua's Sacrifice: Atmosphere, Motion Capture
 
 LOTRO: Naming System, Lore
 
