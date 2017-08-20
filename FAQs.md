@@ -56,7 +56,7 @@ Star Wars: Worldbuilding and Cohesive Production Design
 
 Banner Saga: Party System
 
-Senua's Sacrifice: Atmosphere, Motion Capture
+Hellblade: Senua's Sacrifice: Atmosphere, Motion Capture, Sound Design
 
 LOTRO: Naming System, Lore
 
