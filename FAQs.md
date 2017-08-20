@@ -38,29 +38,30 @@ The story is not intended to be a grimdark misery fest.  There will be moments o
 
 ### Inspiration and Influences?
 
-Prose Edda: Mythology References
+**Prose Edda:** Mythology References
 
-The Silmarillion: The Mythology, Lore, and Worldbuilding
+**The Silmarillion:** The Mythology, Lore, and Worldbuilding
 
-Dark Souls: Armor Sets, Interesting NPCs, Hub Level Design, Minimalistic Exposition, Leveling, and UI
+**Dark Souls:** Armor Sets, Interesting NPCs, Hub Level Design, Minimalistic Exposition, Leveling, and UI
 
-Legend of Zelda: Dungeons
+**Legend of Zelda:** Dungeons
 
-ES V Skyrim: Armor Sets, Flexible Skill Trees, Background Lore, Camera Perspective
+**ES V Skyrim:** Armor Sets, Flexible Skill Trees, Background Lore, Camera Perspective
 
-The Witcher: Creature Design, Story, Sidequests
+**The Witcher:** Creature Design, Story, Sidequests
 
-Game of Thrones: Grounded Use of Magic, Balancing a large cast and separate story arcs
+**Game of Thrones:** Grounded Use of Magic, Balancing a large cast and separate story arcs
 
-Star Wars: Worldbuilding and Cohesive Production Design
+**Star Wars:** Worldbuilding and Cohesive Production Design
 
-Banner Saga: Party System
+**Banner Saga:** Party System
 
-Hellblade: Senua's Sacrifice: Atmosphere, Motion Capture, Sound Design
+**Hellblade: Senua's Sacrifice:** Atmosphere, Motion Capture, Sound Design
 
-LOTRO: Naming System, Lore
+**LOTRO:** Naming System, Lore
 
-Middle-earth: Shadow of Mordor: Nemesis System, Switching Power Abilities
+**Middle-earth: Shadow of Mordor:** Nemesis System, Switching Power Abilities
 
-RPG Elements: D&D, Baldur's Gate, Mount and Blade, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum
+**D&D, Baldur's Gate, Mount and Blade, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum:** 
+RPG Elements: 
 
