@@ -27,6 +27,8 @@ Deadlines tend to be shorter in the commercial world, so there may still be some
 ### Startup Costs
 Studio Rent, Local Cost of Living, Equipment, Etc.  The amount of investment revenue will be determined by the earnings of the successful release of the game.
 
+Realistic implementation will require baby steps and a lot of monetary investment.  Maybe with a successful product release and some other smaller projects, a small studio might be feasible in a few years.
+
 ### Budget
 The company will need to earn at least $150,000-350,000 each year.  The bulk of this will probably come from supplimental revenue from smaller commercial commission projects, with investments in larger projects hopefully allowing gradual expansion into better markets like feature animation, television, or game development. 
 
