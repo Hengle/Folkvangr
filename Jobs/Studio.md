@@ -4,6 +4,9 @@ Undecided.
 ### Studio Size
 The core team will likely be 10-12 people.
 
+### Studio Location
+Atlanta looks to be one of the best markets for film and animation on the East Coast of the United States.
+
 ### Studio Goals
 If established, the studio's long term goals will be to focus on producing story-driven shorts and adult-oriented animation, most likely for commercials and animated trailers.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.
 
