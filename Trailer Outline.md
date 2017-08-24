@@ -3,7 +3,11 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-[Script.pdf](https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf)
+[Script Draft3 PDF](https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf)
+
+![portrait](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin5.png)
+### Synopsis
+The story focuses on the deuteragonist Regin as she searches for her missing brother who has vanished in the forest.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 
@@ -38,8 +42,8 @@ Slow animation of rune letters rorating one by one into recognizable alphabet le
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ## "Discovery" Trailer
-This trailer provides more characterization and context that sets up the full game story, but it requires more rigging, animation, modeling, and graphical detail.  It would focus on the two protagonists and would likely require interactions and dialogue.  
+This narrative takes place sequentially after the events of the first trailer.  This was originally planned as the main trailer, as it provides more characterization and context that sets up the full game story, but it would have required a lot of additional rigging, animation, modeling, and graphical detail.  
 
-For technical reasons, it probably makes more sense to just integrate the dialogue bits within the game sequences, or as 2D cutscenes.
+For technical reasons, it probably makes more sense to just integrate the complex interactions and dialogue bits within the game sequences, or as 2D cutscenes.
 
 This might be a possible option for a second animated short if the fundraising goal for a game alpha is not met.
