@@ -3,7 +3,7 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf
+[Script.pdf](https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf)
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 
