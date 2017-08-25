@@ -56,8 +56,9 @@ The story focuses on the deuteragonist Regin as she searches for her missing bro
 - **Sound Design**
 - **Interactions and Dialogue (If Needed)**
 
+![logo](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/gripping_beast_small.jpg)
 ### Title Sequence
-The logo is based on a Norse gripping beast motif.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
+The logo is based on a traditional Norse motif called the gripping beast.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ## "Ruins" Trailer
