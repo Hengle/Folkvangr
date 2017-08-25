@@ -53,6 +53,7 @@ The story focuses on the deuteragonist Regin as she searches for her missing bro
 - **Finalize Backgrounds**
 - **Finalize Assets**
 - **Review and Refine Animation**
+- **Sound Design**
 - **Interactions and Dialogue (If Needed)**
 
 ### Title Sequence
