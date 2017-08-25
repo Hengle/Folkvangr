@@ -9,6 +9,27 @@
 ### Synopsis
 The story focuses on the deuteragonist Regin as she searches for her missing brother who has vanished in the forest.  The events take place over the course of five days.
 
+![storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
+### Assets
+
+#### Environments
+- Forest Scenes*
+- Stone Ruins*
+- Longhouse
+- Village
+- Hut
+
+#### Character Design
+- M Protagonist*
+- F Protagonist*
+- NPC Villagers
+- Wraith
+
+#### Creature Design
+- Creature 1*
+- Creature 2
+- Background wildlife
+
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel_sample.jpg)
 ### Development Schedule
 - **Script**
