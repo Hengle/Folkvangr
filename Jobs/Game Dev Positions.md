@@ -1,4 +1,4 @@
-Note: At this time, positions are either freelance or voluntary part-time.  Applications for full-time positions with paid  salary will be considered closer to the time of the crowdfunding campaign.    
+Applications for full-time positions with paid  salary will be considered closer to the time of the crowdfunding campaign.    
 
 # Production Leads
 
@@ -34,3 +34,77 @@ Note: At this time, positions are either freelance or voluntary part-time.  Appl
 **Role:** Script Development, Story Arcs, Continuity, Dialogue, Sidequests, Research.  The lead writer will work with the story team to develop the narrative of the game.
 
 **Requirements:** Excerpt samples of a portfolio or published work
+
+### Level Designer
+**Role:** Environment Pathing and Design, Flowcharts, Gating, Modeling
+
+**Requirements:** Familiarity with Pipeline Workflow
+
+# Previs and Pre-Production
+
+### Storyboard/Layout Artist
+**Role:** Responsible for storyboards (20+ frames), Scene Breakdowns, timing, and blocking, key colors, layout, possibly animatics
+
+### Sound Designer
+**Role:** Foley Effects, ADR, Sound Stage Recording Management
+
+### Composer 
+**Role:** OST
+
+### Graphic Designer
+**Role:** Logo Design, Icons, UI Design, Fonts, Text
+
+### Motion Capture (Optional)
+**Role:** Integrating Performance Capture, Facial Capture, Dialogue, Integration with Animation.  Note: This would need to be done in a cost efficient manner without all the expensive cutting edge tools of the trade.
+
+### Location Scout (Optional)
+**Role:** Reference Photos, Descriptive Journal, Photogrammetry, and Video Footage.  Note: The budget probably won't have much allowance for travel expenses or equipment.
+
+# Art Department
+
+### Concept Artist
+**Role:** Concept Designs and Promotional Art
+
+### Character Designer
+**Role:** Character Designs, Silhouettes, Model Sheets, Costume Design, Historical Research.  Ideally experience in quickly implimenting modular components for a large cast is desired.
+
+### Level Designer
+**Role:** Environment Pathing and Design, Flowcharts, Gating, Modeling
+
+# Crowdfunding
+
+### Campaign Manager
+**Role:**  Promotional Materials, Advertising, Networking.  Should ideally have lots of industry contacts and networking experience
+
+### Accountant
+**Role:** Budget.  Need to be able to manage taxes, payment forms, and efficiently allocate large budgets that could be in the range of $15,000-$500,000
+
+# Programming and VFX
+
+### Programmer 
+**Role:**  A.I., Rigging, Physics
+
+### Programmer 
+**Role:**  Engine, U.I., Mechanics
+
+### Animators
+**Role:**  Character Animation
+
+# 3D Production 
+Note: Depending on the budget, 3D may not be feasible for an indie team, in which case these roles will be shifted to analagous 2D roles
+
+### Modelers
+**Role:**  Generalist or Specialist in Environments, Characters, Props, Assets
+
+### Rigging Artist
+**Role:**  IK/FK, Facial Control Rigs, Set Driven Keys, Spline Curves, Control Handles
+
+### FX Artist
+**Role:**  Particle Systems, Simulations, Compositing, Matchmove, Post
+
+### Lighting/Rendering Artist
+**Role:**  Renders, Compositing, Scene Assembly
+
+### Matte Painter
+**Role:**  Backgrounds
+
