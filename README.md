@@ -30,7 +30,7 @@ Depending on the size of the team and the budget, production of the short promot
 ## Fundraising
 The crowdfunding goal is estimated around $8,000 to produce a trailer, or $10,000-35,000 to create a game alpha version.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will increase in funding scope according to how the development is  progressing, and what assets and features are being produced.  
 
-Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would likely take two or more years to finish. 
+Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would likely take three or more years to finish. 
 
 ![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
 
@@ -65,4 +65,4 @@ For more information, additional mockups and the Game Design Document files are 
 
 Contact: jcongerkallas1@gmail.com
 
-Cover art and environments by Marius Janusonis. Concept sketches by Ludvik Skopalik and Christof Grobelski. Sound design by Dirk Kluesing
+*Cover art and environments by Marius Janusonis. Concept sketches by Ludvik Skopalik and Christof Grobelski. Sound design by Dirk Kluesing*
