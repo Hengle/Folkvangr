@@ -1,3 +1,5 @@
+The following is a theoretical model for a studio.  Likelihood of it actually taking off remains pretty small. 
+
 ### Studio Name
 Undecided.
 
@@ -7,8 +9,12 @@ The core team will likely be 6-12 people starting out.  A network of freelance a
 ### Studio Location
 Atlanta looks to be one of the best markets for film and animation on the East Coast of the United States. It also is relatively close to major universities like SCAD.
 
-### Studio Goals
-If established, the studio's long term goals will be to focus on producing story-driven shorts and adult-oriented animation, most likely for commercials and animated trailers.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.
+### Studio Goals and Revenue Generation
+If established, the studio will need to generate a constant flow of stable income for all employees.  Possible long term goals would likely focus on producing small-scope indie games, story-driven shorts, or adult-oriented animation.  Freelance commissions for commercials and animated trailers might be a option.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.  
+
+It would be nice to build contacts in the open source community and keep the studio true to the creative roots rather than become a money-driven business.
+
+The office space should be fun.  No cubicles or windowless prisons.
 
 ### Niche Audience
 The studio will appeal to the market for adult oriented animation moreso than children's entertainment or commercial ventures.  The studio will focus on telling stories and impliment different visual styles for each project.  Individual artists will be given more opportunity to express personal styles, an aspect missing from many blockbuster productions.
