@@ -15,7 +15,7 @@ The story focuses on the deuteragonist Regin as she searches for her missing bro
 
 Since there isn't any dialogue or backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in her plight and struggles.  
 
-Scenes will need to be constructed to deliver dramatic buildup and visceral tension, contrasting with the slower moments. The  character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching.  The climax scene will be a reflection of Regin's refusal to give up.
+Scenes will need to be constructed to deliver dramatic buildup and visceral tension, contrasting with the slower emotional moments. The  character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching.  The climax scene will be a reflection of Regin's refusal to give up.
 
 ![storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
 ### Assets
