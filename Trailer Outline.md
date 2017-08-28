@@ -63,6 +63,8 @@ The story focuses on the deuteragonist Regin as she searches for her missing bro
 ### Title Sequence
 The current logo mockup is based on a traditional Norse motif called the gripping beast.  It might get changed to a World Tree motif depending how the 3D model turns out.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
 
+### Credits
+There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in the Ruins scene.  Links to a crowdfunding campaign or website might be recommended.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ### Experimental Animation Style Ideas
