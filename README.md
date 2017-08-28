@@ -65,4 +65,7 @@ For more information, additional mockups and the Game Design Document files are 
 
 Contact: jcongerkallas1@gmail.com
 
-*Cover art and environments by Marius Janusonis. Concept sketches by Ludvik Skopalik and Christof Grobelski. Sound design by Dirk Kluesing*
+
+*Cover art and environments by [Marius Janusonis](http://www.artofmarius.com/). Concept sketches by [Ludvik Skopalik](https://www.artstation.com/ludvikskp) and [Christof Grobelski](https://www.artstation.com/gloominati). Sound design by [Dirk Kluesing](https://soundcloud.com/irkluesing).*
+
+
