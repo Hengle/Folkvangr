@@ -61,7 +61,7 @@ The story focuses on the deuteragonist Regin as she searches for her missing bro
 
 ![logo](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/gripping_beast_small.jpg)
 ### Title Sequence
-The logo is based on a traditional Norse motif called the gripping beast.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
+The current logo mockup is based on a traditional Norse motif called the gripping beast.  It might get changed to a World Tree motif depending how the 3D model turns out.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
 
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
