@@ -13,6 +13,10 @@
 ### Synopsis
 The story focuses on the deuteragonist Regin as she searches for her missing brother who has vanished in the forest.  The events take place over the course of five days.  The timeline will be condensed with a series of atmospheric montage shots, with the primary action of the story taking place on the fourth day.
 
+Since there isn't any dialogue or backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in her plight and struggles.  
+
+Scenes will need to be constructed to deliver dramatic buildup and visceral tension, contrasting with the slower moments. The  character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching.  The climax scene will be a reflection of Regin's refusal to give up.
+
 ![storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
 ### Assets
 
@@ -75,7 +79,7 @@ The lines would look like the loose sketch lines illustrators often make.  The e
 It might be possible to automate a script that would create the lines, or else composite the effect in postproduction using some kind of filter, render pass, or matte, maybe using a lingering onion skinning effect.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
-## "Ruins" Trailer
+### "Ruins" Trailer
 This narrative takes place sequentially after the events of the first trailer.  This was originally planned as the main trailer, as it provides more characterization and context that sets up the full game story.  However, it would have required a lot of additional rigging, animation, modeling, and graphical detail.  
 
 For technical reasons, it probably makes more sense to just integrate the complex interactions and dialogue bits within the game sequences, or as 2D cutscenes.
