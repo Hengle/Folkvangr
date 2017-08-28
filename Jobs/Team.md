@@ -1,7 +1,7 @@
 ## Crew
 
 #### Jason Conger-Kallas
-Producer, Interim Production Manager, Writer, 3D Modeler, Historian
+Producer, Interim Production Manager, Writer, 3D Modeler, Research
 
 Contact: jcongerkallas1@gmail.com
 
