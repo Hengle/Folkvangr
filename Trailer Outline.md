@@ -78,4 +78,4 @@ This narrative takes place sequentially after the events of the first trailer.  
 
 For technical reasons, it probably makes more sense to just integrate the complex interactions and dialogue bits within the game sequences, or as 2D cutscenes.
 
-This might be a possible option for a second animated short if the fundraising goal for a game alpha is not met.
+This might be a possible option for a second animated short if the fundraising goal for a game alpha is not met.  Many of the existing assets and rigged models could be reused.
