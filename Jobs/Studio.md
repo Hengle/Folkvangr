@@ -17,9 +17,11 @@ It would be nice to build contacts in the open source community and keep the stu
 The office space should be fun.  No cubicles or windowless prisons.
 
 ### Niche Audience
-The studio will appeal to the market for adult oriented animation moreso than children's entertainment or commercial ventures.  The studio will focus on telling stories and impliment different visual styles for each project.  Individual artists will be given more opportunity to express personal styles, an aspect missing from many blockbuster productions.
+A lot rests on whether the proposed video game sells well or not.  If the game doesn't overcome the sunk cost fallacy, then there likely won't be a future in the game design market.
 
-The goal is to avoid being limited by franchises or expensive to produce VFX-heavy productions.  Each project will be approached as a new challenge. 
+The goal is to avoid being limited by franchises or expensive to produce VFX-heavy productions.  Each project will be approached as a new challenge. This is a risky business model, so the studio will need safeguards and other means of generating revenue.
+
+The studio would ideally appeal to the market for adult-oriented animation moreso than children's entertainment or commercial ventures.  The studio will focus on telling stories and impliment different visual styles for each project.  Individual artists will be given more opportunity to express personal styles, an aspect missing from many blockbuster productions.
 
 The difficult part is making quality animation economically without access to the large budgets or tools of other studios.
 
