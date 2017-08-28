@@ -3,7 +3,11 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-[Script Draft3 PDF](https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf)
+[Script Draft 3 PDF](https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf)
+
+[Scene Breakdowns](https://docs.google.com/spreadsheets/d/1O49k0T9nOEONyeSdslIZxbT2U-ZDwiXI7stlKnVHx1g/edit?usp=sharing)
+
+[Exposure Sheet Template](https://docs.google.com/spreadsheets/d/17MuCUg5NwhyVl2NZp06m9p3Ug7RId467MvHyuk9bij0/edit?usp=sharing)
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 ### Synopsis
@@ -59,6 +63,8 @@ The story focuses on the deuteragonist Regin as she searches for her missing bro
 ![logo](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/gripping_beast_small.jpg)
 ### Title Sequence
 The logo is based on a traditional Norse motif called the gripping beast.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
+
+![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
 ### Experimental Animation Style Ideas
 It is always a risk anda challenge to try something different in order to push the boundaries of modern technology and art.  I'd like to preserve the hand-drawn appeal of traditional animation while implementing the efficiency of 3D models.  It might be interesting to use 2D backgrounds with 3D character models that are partially hand painted around the edges to give a unique visual look to the animation.  3D animation tends to look very smooth, and lacks the characteristic flicker of frames seen in stop-motion or hand-drawn animation.
