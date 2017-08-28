@@ -70,7 +70,7 @@ There might be a brief post credits scene teasing the game, if there is time lef
 ### Experimental Animation Style Ideas
 If possible, I'd like to preserve the hand-drawn appeal of traditional illustration while implementing the efficiency of 3D models.  It might be interesting to use 2D backgrounds with 3D character models that are partially hand painted around the edges to give a unique visual look to the animation.  
 
-The lines would look like the loose sketch lines illustrators often make.  The experimental effect can be interpreted as a reflection of the character's fraying mental state at the time of the events in the story.  The flickering edges would also match the light of the lantern and add to the suspense of the forest being a sort of living entity.
+The lines would look like the loose sketch lines illustrators often make.  The experimental effect can be interpreted as a reflection of the character's fraying mental state at the time of the events in the story.  The flickering edges would also match the light of the lantern and add to the suspense of the forest being a sort of living entity.  It would add more subtle movement, life, and visual interest to the environment.
 
 It might be possible to automate a script that would create the lines, or else composite the effect in postproduction using some kind of filter, render pass, or matte, maybe using a lingering onion skinning effect.
 
