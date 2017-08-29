@@ -1,4 +1,4 @@
-Note: At this time, positions are either freelance or voluntary part-time.  Applications for full-time positions with paid  salary will be considered closer to the time of the crowdfunding campaign.    
+*Note: At this time, positions are either freelance or voluntary part-time.  Applications for full-time positions with paid  salary will be considered closer to the time of the crowdfunding campaign.*    
 
 # Production Leads
 
