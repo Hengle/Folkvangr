@@ -13,9 +13,9 @@
 ### Synopsis
 The story focuses on the deuteragonist Regin as she searches for her missing brother who has vanished in the forest.  The events take place over the course of five days.  The timeline will be condensed with a series of atmospheric montage shots, with the primary action of the story taking place on the fourth day.
 
-Since there isn't any dialogue or backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in her plight and struggles.  
+Since there isn't any dialogue or backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in seeing her overcome struggles.  
 
-Scenes will need to be constructed to deliver dramatic buildup and visceral tension, contrasting with the slower emotional moments. The  character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching.  The climax scene will be a reflection of Regin's refusal to give up.
+The character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching.  Her refusal to give up is what makes her story more compelling.  
 
 ![storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
 ### Assets
