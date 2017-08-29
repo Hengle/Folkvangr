@@ -36,6 +36,9 @@ This is the repository for programming related issues, code, workflow optimizati
 - Processor
 - Drivers
 
+## Version Control and Debugging
+- GitHub
+
 ## Scripts and Modules
 - AI
 - Physics System
