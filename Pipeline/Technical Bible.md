@@ -73,6 +73,7 @@ This is the repository for programming related issues, code, workflow optimizati
 ## Secondary Software
 - Installer.ini
 - Level Editor
+- RetopoFlow (Blender)
 
 ## Patches
 - Quality Assurance (bug testing)
