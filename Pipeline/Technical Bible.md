@@ -38,6 +38,9 @@ This is the repository for programming related issues, code, workflow optimizati
 
 ## Version Control and Debugging
 - GitHub
+- SourceTree (Git GUI)
+- In-engine debugger
+- Plugins
 
 ## Scripts and Modules
 - AI
