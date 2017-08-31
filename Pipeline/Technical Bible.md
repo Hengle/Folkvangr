@@ -11,6 +11,15 @@ This is the repository for programming related issues, code, workflow optimizati
 - Open GL
 - Directx
 
+## Unity Plugins and Add-ons
+- NGUI
+- TextMesh Pro
+- Shader Forge
+- Pool Manager
+- 2D Toolkit
+- Playmaker
+- Unity Asset Store
+
 ## Scripting
 - C#
 - JavaScript
@@ -40,7 +49,6 @@ This is the repository for programming related issues, code, workflow optimizati
 - GitHub
 - SourceTree (Git GUI)
 - In-engine debugger
-- Plugins
 
 ## Scripts and Modules
 - AI
