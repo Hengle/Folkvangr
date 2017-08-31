@@ -52,7 +52,8 @@ This is the repository for programming related issues, code, workflow optimizati
 
 ## Modular Components Integration
 - Costume Design
-- NPC Character Meshes
+- Main Characters (12-15k poly count, more on high res models)
+- NPC Character Meshes (5-8k poly count)
 - Buildings
 - Procedural Generation
 - Level Builder
