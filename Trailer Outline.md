@@ -20,23 +20,7 @@ The character arc focuses on how the character reacts under stress in a dire sit
 ![storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
 ### Assets
 
-#### Environments
-- Forest Scenes
-- Stone Ruins
-- Longhouse
-- Village
-- Hut
-
-#### Character Design
-- M Protagonist
-- F Protagonist
-- NPC Villagers
-- Wraith
-
-#### Creature Design
-- Creature 1
-- Creature 2
-- Background wildlife
+[Trello Production List](https://trello.com/b/b2Wf4KYK/folkvangr)
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 ### Development Schedule
