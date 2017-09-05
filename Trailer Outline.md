@@ -17,7 +17,7 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 
 The character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching.  Her refusal to give up is what makes her story more compelling.  
 
-![storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
+![character mockup](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin3.png)
 ### Assets
 
 [Trello Production List](https://trello.com/b/b2Wf4KYK/folkvangr)
@@ -45,7 +45,6 @@ The character arc focuses on how the character reacts under stress in a dire sit
 - **Finalize Assets**
 - **Review and Refine Animation**
 - **Sound Design**
-- **Interactions and Dialogue (If Needed)**
 
 ![logo](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/gripping_beast_small.jpg)
 ### Title Sequence
