@@ -1,6 +1,10 @@
+### September 2017
+- Rough Video Pitch
+
 ### August 2017
-- Storyboard
+- Storyboard WIP
 - Model Sheets
+- Trello
 
 ### July 2017
 - Revised Trailer Script
