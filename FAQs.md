@@ -1,6 +1,9 @@
 ### Will the game be a true open world RPG?
 The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  Due to the limits of funding and scope, there will be some limits with map sizes and graphics quality.
 
+### Will content be cut?
+Undoubtedly.  The current game outline would need to be split into at least four parts to be remotely feasible for a small team to ever hope to complete.  More editing will reduce the game to a manageable scale if there is more progress made towards that goal.  For now, the animated trailer is the main focus.
+
 ### What will the gameplay be like?
 Combat will be faster paced so that players can play in real time or pause combat to plan tactics.  
 
