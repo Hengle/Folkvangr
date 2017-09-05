@@ -5,7 +5,8 @@ Producer, Interim Production Manager, Writer, 3D Modeler, Animator, Research
 
 Contact: jcongerkallas1@gmail.com
 
-## Contract Artists
+
+## Independent Contract Artists
 #### Dirk Kluesing
 Composer/Sound Designer
 
