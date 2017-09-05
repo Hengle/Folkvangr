@@ -1,5 +1,5 @@
 ### Will the game be a true open world RPG?
-The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  There will be some limits with exploring maps and there will not be a character creation system.
+The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  Due to the limits of funding and scope, there will be some limits with map sizes and graphics quality.
 
 ### What will the gameplay be like?
 Combat will be faster paced so that players can play in real time or pause combat to plan tactics.  
@@ -14,15 +14,15 @@ Greater emphasis will be put on fleshing out the characters to be less generic t
 Not likely.
 
 ### What makes this game different from other RPGs?
-The setting will be based on historical research to simulate a post-Viking Age fantasy culture. The basis for the art style will include historical research intended to make the culture have a distinct look and feel. It won't look like a generic Elder Scrolls or WOW clone.
+The setting will be based on historical research to simulate a post-Viking Age fantasy culture. The basis for the art style will include historical research intended to make the culture have a distinct look and feel. It won't look like a knockoff Elder Scrolls game or WOW clone.
 
 The game will focus on the narrative and the sense of creating an immersive experience rather than devoting time and resources to unnecessary features like lockpicking or stat micromanagement.  
 
 ### What is the story about?
 
-The story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. 
+The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. Extra party members are added along the way.
 
-The story is not about the characters needing to save the world from cataclysmic destruction.
+The story attempts to avoid the most egregious fantasy tropes of evil necromancers and saving the world from cataclysmic destruction.  Greater emphasis is put on the actions and motivations of characters.
 
 ### Features?
 
@@ -63,5 +63,5 @@ The story is not intended to be a grimdark misery fest.  There will be moments o
 **Middle-earth: Shadow of Mordor:** Nemesis System, Switching Power Abilities
 
 **D&D, Baldur's Gate, Mount and Blade, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum:** 
-RPG Elements: 
+Miscellaneous RPG Elements
 
