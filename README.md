@@ -6,7 +6,7 @@
 ## Production Goals and Art Style
 The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
 
-The style and medium will be determined by the art team, but will likely employ hybrid techniques.  Possible visuals references include the illustrations of Arthur Rackham, Eyvind Earle, and Brian Froud, with a mix of Grimm’s Fairy Tales and Old Norse and Icelandic Sagas.  The closest video game reference examples would probably be Baldur's Gate, The Banner Saga, and Telltale games. 
+The style and medium will be determined by the art team, but will likely employ hybrid techniques.  
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
 
@@ -16,7 +16,7 @@ Emphasis will be placed on character animation, cinematography, story, and visua
 
 The story is set in an isolated hamlet bordered by a dense forest. When the local forester doesn’t return from an ill-advised hunting foray in the woods, a search party gathers to look for him. The villagers eventually give up and turn back, but the forester's half-sister ventures deeper into the heart of the forest to continue searching.
 
-The introductory trailer is intended to establish the characters and setting for a more in-depth game production, but the animated short will stand alone as a self-contained story. The tone is intended to be ominous, mysterious, and claustrophobic. The protagonists will experience harrowing ordeals as they struggle to get out of the forest alive.
+The introductory trailer is intended to establish the characters and setting for a more in-depth game production, but the animated short will stand alone as a self-contained story.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
 
@@ -61,7 +61,7 @@ If the fundraising campaign doesn't meet the first goal, efforts will be made to
 ![male sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/Male_final.jpg)
 
 ## Further Details and Application
-For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and [Discord](https://discordapp.com/channels/326900944862314506).
+For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), [Artella](https://www.artella.com/#/project/7e749e21-8d3d-49bb-8a19-146cdf4a3030/overview), and [Discord](https://discordapp.com/channels/326900944862314506).
 
 Contact: jcongerkallas1@gmail.com
 
