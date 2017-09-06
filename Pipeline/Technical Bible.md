@@ -6,10 +6,12 @@ This is the repository for programming related issues, code, workflow optimizati
 - Milestones
 - Scrum
 
-## Version Control and Debugging
+## Version Control
 - GitHub Public Version
 - BitBucket (Free Private Git GUI)
 - SourceTree (Git GUI)
+
+## Debugging, Compression, and Optimization
 - MonoDevelop 
 - Visual Studio Tools
 - Alt In-engine debugger
