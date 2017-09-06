@@ -50,16 +50,14 @@ The character arc focuses on how the character reacts under stress in a dire sit
 ### Title Sequence
 The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a World Tree motif depending how the 3D model turns out.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
 
+[Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
+
 ### Credits
 There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins scene.  Links to a crowdfunding campaign or website might be recommended.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
 ### Experimental Animation Style Ideas
-If possible, it would be nice to try out an experimental technique or a hybrid art style.  It might be interesting to use 2D backgrounds with 3D character models, or maybe have partially hand painted around the edges to give a unique visual look to the animation.  
-
-It might be possible to automate a script that would create the lines, or else composite the effect in postproduction using some kind of filter, render pass, or matte, maybe using a lingering onion skinning effect.
-
-The lines would look like the loose sketch lines illustrators often make.  The experimental effect can be interpreted as a reflection of the character's fraying mental state at the time of the events in the story.  The flickering edges would also match the light of the lantern and add to the suspense of the forest being a sort of living entity.  It would add more subtle movement, life, and visual interest to the environment.
+If possible with the existing time constraints and budget, it would be nice to try out an experimental technique or a hybrid art style.  I'm most interested in finding a way to impliment 2D animation without compromising the efficiency of 3D models, but other suggestions are welcomed.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ### "Ruins" Trailer
