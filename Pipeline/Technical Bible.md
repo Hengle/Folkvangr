@@ -6,6 +6,14 @@ This is the repository for programming related issues, code, workflow optimizati
 - Milestones
 - Scrum
 
+## Version Control and Debugging
+- GitHub Public Version
+- BitBucket (Free Private Git GUI)
+- SourceTree (Git GUI)
+- MonoDevelop 
+- Visual Studio Tools
+- Alt In-engine debugger
+
 ## Game Engine and API
 - Unity
 - Open GL
@@ -44,11 +52,6 @@ This is the repository for programming related issues, code, workflow optimizati
 - Hard drive
 - Processor
 - Drivers
-
-## Version Control and Debugging
-- GitHub
-- SourceTree (Git GUI)
-- In-engine debugger
 
 ## Scripts and Modules
 - AI
