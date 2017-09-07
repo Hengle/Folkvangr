@@ -1,4 +1,4 @@
-The following is a theoretical model for a studio.  Likelihood of it actually taking off remains pretty small. 
+The following is a theoretical model for a studio.  Likelihood of it actually taking off remains pretty small. It would require a lot of financial security and investment.
 
 ### Studio Name
 Undecided.
@@ -40,7 +40,7 @@ Studio Rent, Local Cost of Living, Equipment, Etc.  The amount of investment rev
 Realistic implementation will require baby steps and a lot of monetary investment.  Maybe with a successful product release and some other smaller projects, a small studio might be feasible in a few years.
 
 ### Budget
-The company will need to earn at least $150,000-350,000 each year.  The bulk of this will probably come from supplimental revenue from smaller commercial commission projects, with investments in larger projects hopefully allowing gradual expansion into better markets like feature animation, television, or game development. 
+The company will need to earn at least $150,000-350,000 each year to cover salaries, equipment costs, licensing, etc.  The bulk of this will probably come from supplimental revenue from smaller commercial commission projects, with investments in larger projects hopefully allowing gradual expansion into better markets like feature animation, television, or game development. 
 
 ### Studio Ownership
 Rights to the studio and associated IP assets will belong to the core members as determined by contract.  Ownership will be need to be limited and clearly defined in contracts to avoid undesirable legal disputes between partners.
