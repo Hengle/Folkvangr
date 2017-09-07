@@ -22,7 +22,7 @@ The character arc focuses on how the character reacts under stress in a dire sit
 
 [Trello Production List](https://trello.com/b/b2Wf4KYK/folkvangr)
 
-![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
+![character](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin_widescreen.jpg)
 ### Development Schedule
 - **Script**
 - **Storyboard**
@@ -35,7 +35,7 @@ The character arc focuses on how the character reacts under stress in a dire sit
 - **Model Sheets**
 - **Rigged Models**
 
-![character](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin_widescreen.jpg)
+![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 ### Initial Stretch Goals
 - **Character Design and Environment Concepts**
 - **Begin Modeling**
@@ -48,7 +48,7 @@ The character arc focuses on how the character reacts under stress in a dire sit
 
 ![logo](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/gripping_beast_small.jpg)
 ### Title Sequence
-The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a World Tree motif depending how the 3D model turns out.  The title will display the logo with rune letters rorating one by one into recognizable alphabet letters.  
+The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a World Tree motif depending how the 3D model turns out.  The title will display the logo with rune letters rotating one by one into recognizable alphabet letters.  
 
 [Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
 
