@@ -35,7 +35,7 @@ The character arc focuses on how the character reacts under stress in a dire sit
 - **Model Sheets**
 - **Rigged Models**
 
-![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel_sample.jpg)
+![character](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin_widescreen.jpg)
 ### Initial Stretch Goals
 - **Character Design and Environment Concepts**
 - **Begin Modeling**
