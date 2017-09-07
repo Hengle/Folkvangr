@@ -14,7 +14,8 @@ This is the repository for programming related issues, code, workflow optimizati
 ## Debugging, Compression, and Optimization
 - MonoDevelop 
 - Visual Studio Tools
-- Alt In-engine debugger (to reduce spaghetti code)
+- SOLID Object-Oriented Coding Standards
+- Alt In-Engine Debugger (to reduce spaghetti code)
 - Scheduled Iterative Code Refactoring, Feature Freezing, Documentation
 
 ## Game Engine and API
