@@ -3,8 +3,7 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-*Having Technical Issues: PDF may not open in Mozilla Firefox*
-[Script Draft v.4 PDF](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/trailer_script_revisedv4.pdf)
+[Script Draft v.4](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
 
 [Scene Breakdowns](https://docs.google.com/spreadsheets/d/1O49k0T9nOEONyeSdslIZxbT2U-ZDwiXI7stlKnVHx1g/edit?usp=sharing)
 
