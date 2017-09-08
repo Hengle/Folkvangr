@@ -1,9 +1,13 @@
 ### September 2017
+- Artella Launch
 - Rough Video Pitch
+- Full Story Draft 
+- Trailer Draft Revision 4
+- Editing, Lots of Editing
 
 ### August 2017
 - Storyboard WIP
-- Model Sheets
+- Thumbnails
 - Trello
 
 ### July 2017
