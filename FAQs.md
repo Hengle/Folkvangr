@@ -17,13 +17,13 @@ Greater emphasis will be put on fleshing out the characters to be less generic t
 Not likely.
 
 ### What makes this game different from other RPGs?
-The setting will be based on historical research to simulate a post-Viking Age fantasy culture. The basis for the art style will include historical research intended to make the culture have a distinct look and feel. It won't look like a knockoff Elder Scrolls game or WOW clone.
+The setting will be based on historical research to simulate a post-Viking Age fantasy culture. The basis for the art style will be based heavily on historical research intended to make the culture have a distinct look and feel. It won't look like a knockoff Elder Scrolls game or WOW clone.
 
 The game will focus on the narrative and the sense of creating an immersive experience rather than devoting time and resources to unnecessary features like lockpicking or stat micromanagement.  
 
 ### What is the story about?
 
-The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. They travel to epic locations, add extra party members, and develop new abilities along the way.
+The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. As in most RPGs, they travel to epic locations, add extra party members, and develop new abilities along the way.
 
 The central theme focuses on deconstructing the classical monomyth and what traits define a hero.  The main characters struggle with a sense of identity and lack of purpose.  In a culture where gods and heroes are depicted as larger than life, the daily life of an average person seems so unextraordinary in comparison.  There is a constant pressure to live a life worthy of being remembered in songs.
 
