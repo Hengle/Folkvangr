@@ -1,5 +1,5 @@
 ## Contributing
-At this time, I am mainly looking to find potential collaborators who might be interested in the project.  There are no formal commitments or obligatory contracts to sign until the project is financed.  Any form of help will be accredited.
+At this time, I am mainly just looking to find potential collaborators who might be interested in the project.  There are not any  formal commitments or obligatory contracts to sign.  Any form of help will be accredited.
 
 I try to keep realistic expectations for what can be achieved with the available resources.  Without sufficient planning, support, or funding, the odds of completing a long-term project are slim.  
 
@@ -23,7 +23,7 @@ If there is a chance to establish a physical studio space, it would be based in 
 Online communication channels will be set up for dailies, reviews, posts, and updates, but the lack of a central studio is definitely going to cause some slight inconveniences.  Apologies in advance.  I will do my best to make things work.
 
 ## Application
-Please send a cover letter with some of the things you might be interested in working on.  
+Please send a short cover letter with some of the things you might be interested in working on.  
 
 Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 24 hours.
 Contact: jcongerkallas1@gmail.com
