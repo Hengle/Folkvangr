@@ -3,7 +3,7 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-[Script Draft v.3 PDF](https://github.com/jcongerkallas1/Brefhamer/blob/master/Documents/trailer_script.pdf)
+[Script Draft v.4 PDF](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/trailer_script_revisedv4.pdf)
 
 [Scene Breakdowns](https://docs.google.com/spreadsheets/d/1O49k0T9nOEONyeSdslIZxbT2U-ZDwiXI7stlKnVHx1g/edit?usp=sharing)
 
