@@ -28,9 +28,9 @@ Depending on the size of the team and the budget, production of the short promot
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
 ## Fundraising
-The crowdfunding goal is estimated around $8,000 to produce a trailer, or $10,000-35,000 to create a game alpha version.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will increase in funding scope according to how the development is  progressing, and what assets and features are being produced.  
+The crowdfunding goal is estimated around $8,000 to produce a trailer, or $10,000-35,000 to create a game alpha version.  The ultimate goal is to crowdfund the game in two or three incremental stretches.  Each campaign will leverage the funding scope according to how the development is progressing, and what assets and features are being produced.  
 
-Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a 7-10 person team producing a full game would likely take three or more years to finish. 
+Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a small team producing a full game would likely take three or more years to finish. 
 
 ![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
 
@@ -56,7 +56,7 @@ At this point, attempting to produce an entire alpha game is impractical until a
 
 If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
 
-If the fundraising campaign doesn't meet the first goal, efforts will be made to try and develop an animated short instead, which would clock in at around seven to twelve minutes.  
+If the fundraising campaign doesn't meet the first goal, other alternatives may be explored.  
 
 ![male sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/Male_final.jpg)
 
