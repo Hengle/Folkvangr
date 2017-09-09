@@ -55,7 +55,7 @@ The title will display the logo with superimposed rune letters rotating one by o
 [Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
 
 ### Credits
-There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins scene.  Links to a crowdfunding campaign or website might be recommended.
+There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins.  
 
 ![eder muniz](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/Background2.png)
 ### Experimental Animation Style Ideas
