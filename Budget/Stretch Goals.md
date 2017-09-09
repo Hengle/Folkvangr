@@ -14,7 +14,7 @@
 
 Stretch Goal: $45,000 Marshes, Healer Early Access
 
-### Part II Urnath
+### Part II: Urnath
 - Fundraising Goal: $80,000-$250,000
 - Levels 4-6 Town, Mountains, Ruins, Dungeons
 - 4 Minibosses, 3 Boss Encounters
