@@ -55,7 +55,7 @@ The current logo mockup is based on a traditional Norse motif called a gripping 
 ### Credits
 There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins scene.  Links to a crowdfunding campaign or website might be recommended.
 
-![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/storyboard_panel.jpg)
+![eder muniz](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/Background2.png)
 ### Experimental Animation Style Ideas
 If possible with the existing time constraints and budget, it would be nice to try out an experimental technique or a hybrid art style.  I'm most interested in finding a way to impliment 2D animation without compromising the efficiency of 3D models, but other suggestions are welcomed.
 
