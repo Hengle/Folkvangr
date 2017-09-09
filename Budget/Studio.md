@@ -6,7 +6,7 @@ Undecided.
 World Tree Studios, The Labyrinth, and Mote Studio appear to have already been taken.
 
 ### Studio Size
-The core team will likely be 6-12 people starting out.  A network of freelance and industry contacts will be needed for support.
+The core team will likely be 8-12 people starting out.  A network of freelance and industry contacts will be needed for support.
 
 ### Studio Location
 Atlanta looks to be one of the best markets for film and animation on the East Coast of the United States. It also is relatively close to major universities like SCAD.
@@ -14,9 +14,8 @@ Atlanta looks to be one of the best markets for film and animation on the East C
 ### Studio Goals and Revenue Generation
 If established, the studio will need to generate a constant flow of stable income for all employees.  Possible long term goals would likely focus on producing small-scope indie games, story-driven shorts, or adult-oriented animation.  Freelance commissions for commercials and animated trailers might be a option.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.  
 
-It would be nice to build contacts in the open source community and keep the studio true to the creative roots rather than become a money-driven business.
-
-The office space should be fun.  No cubicles or windowless prisons.
+### Proprietary Software
+Most studios generate a large portion of income through internal software and technology development.  This is easier said than done, especially when competing against established companies with better funding.
 
 ### Niche Audience
 A lot rests on whether the proposed video game sells well or not.  If the game doesn't overcome the sunk cost fallacy, then there likely won't be a future in the game design market.
@@ -28,6 +27,12 @@ The studio would ideally appeal to the market for adult-oriented animation mores
 The difficult part is making quality animation economically without access to the large budgets or tools of other studios.
 
 Advertising will also take some work to attract clients.
+
+
+### Office Space
+It would be nice to build contacts in the open source community and keep the studio true to the creative roots rather than become a money-driven business.
+
+The office space should be fun.  No cubicles or windowless prisons.  Lots of wall space for posting artwork.  A comfortable area for meetings.
 
 ### Pipeline
 The studio atmosphere will be more relaxed and informal than a large studio.  The goal is to create a pipeline without stiffling micromanagement where employees are respected and entrusted with a greater degree of creative freedom.  
