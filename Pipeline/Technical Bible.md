@@ -14,6 +14,7 @@ This is the repository for programming related issues, code, workflow optimizati
 ## Debugging, Compression, and Optimization
 - MonoDevelop 
 - Visual Studio Tools
+- Atlassian JIRA
 - SOLID Object-Oriented Coding Standards
 - Alt In-Engine Debugger (to reduce spaghetti code)
 - Scheduled Iterative Code Refactoring, Feature Freezing, Documentation
