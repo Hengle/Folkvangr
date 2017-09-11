@@ -23,7 +23,8 @@ If there is a chance to establish a physical studio space, it would be based in 
 Online communication channels will be set up for dailies, reviews, posts, and updates, but the lack of a central studio is definitely going to cause some slight inconveniences.  Apologies in advance.  I will do my best to make things work.
 
 ## Application
-Please send a short cover letter with some of the things you might be interested in working on.  
+Please send a short cover letter with some of the things you might be interested in working on. 
+[Application Details](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Application.md)
 
 Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 24 hours.
 Contact: jcongerkallas1@gmail.com
