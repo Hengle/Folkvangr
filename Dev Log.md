@@ -1,5 +1,5 @@
 ### September 2017
-- Artella Launch
+- Artella Launch!!!
 - Rough Video Pitch
 - Full Story Draft 
 - Trailer Draft Revision 4
@@ -7,13 +7,14 @@
 
 ### August 2017
 - Storyboard WIP
-- Thumbnails
+- Thumbnails WIP
 - Trello
 
 ### July 2017
 - Revised Trailer Script
 - Story Outline Revised
 - Updated Documentation
+- New Concept Art
 
 ### June 2017
 - Game Design Document
@@ -28,6 +29,9 @@
 - Initial Sound Design
 - Initial Environment Concept Art
 
-### 2014-2017 
+### June 2014-2017 
 - Story Development
-- Research
+- Awful First Draft that will never ever be posted because I burned it
+- Historical Research
+- Sketches
+- College Hiatus
