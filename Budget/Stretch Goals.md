@@ -3,6 +3,10 @@
 ### Trailer
 *Self-funded*
 
+### Proto-Alpha Test Demo
+- Basic Movement, Mechanics
+- Single room dungeon miniboss
+
 ### Part I: Folkvangr Alpha
 *Fundraising Goal: $8,000-15,000*
 - Base Levels 1-2, Forest and Village Hub 
