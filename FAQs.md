@@ -25,16 +25,6 @@ The game will focus on the narrative and the sense of creating an immersive expe
 
 The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. As in most RPGs, they travel to epic locations, add extra party members, and develop new abilities along the way.
 
-The central theme focuses on deconstructing the classical monomyth and what traits define a hero.  The main characters struggle with a sense of identity and lack of purpose.  In a culture where gods and heroes are depicted as larger than life, the daily life of an average person seems so unextraordinary in comparison.  There is a constant pressure to live a life worthy of being remembered in songs.
-
-The narrative seeks to go against the most egregious fantasy tropes where the Chosen One protagonist is destined to save the world from evil or cataclysmic destruction.  Greater emphasis is put on the actions and motivations of characters.  At the end of their journey the characters will have accomplished a number of achievements and goals, but they will not have become epic heroes decked out in dragonbone armor wielding a plethora of overpowered magical abilities and gear.  They do not need to have prophesies or noble bloodlines to be considered victorious.
-
-The magical object they discover is intended to be a built-in game element than a mcguffin prop, with many limitations preventing it from being used as a crutch. The object's power to prevent souls from entering the fields of the dead brings up questions and uncertainties about mortality and what the afterlife will bring.  Some see it as a pleasant place, others a perpetual cycle of battle.  There are some philosophical ruminations on regrets, on how life was spent, and whether it was spent wisely.  This aspect might be glossed over by some players who prefer gameplay action over story, but the theme of inevitable fate and death is very prevalent in Norse mythology, and it has a lot of influence on how the game works.  
-
-There is a pervasive sense of loss as civilizations rise and fall and the names of heroes are forgotten in time.  This is mostly reflected in the number of ancient ruins and artifacts found throughout the game.
-
-A lot of this stuff will be implied in the background rather than delivered through dry exposition.  The game will not be super nihilistic or grim.  There will be a balance of humor and gameplay.
-
 ### Features?
 
 Stats will be balanced enough that there won't be a wrong way to build a certain class that makes progression of defeating bosses impossible.
