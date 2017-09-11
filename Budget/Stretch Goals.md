@@ -1,7 +1,7 @@
 ![Stretch Goals](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/campaign_outline_promotional.jpg)
 
 ### Trailer
-- Self-funded
+*Self-funded*
 
 ### Part I: Folkvangr Alpha
 *Fundraising Goal: $8,000-15,000*
@@ -48,7 +48,7 @@
 
 *Stretch Goal: $210,000 More Exploration, NPCs, and Sidequests*
 
-*Stretch Goal: $210,000 Voice Actors*
+*Stretch Goal: $250,000 Mounted Combat*
 
 *Stretch Goal: $300,000 More Armor Sets, Costumes*
 
@@ -62,6 +62,8 @@
 - Localization, Porting
 
 *Stretch Goal: $100,000 Exclusive Art Book*
+
+*Stretch Goal: $125,000 Special Edition Director's Cut, Bonus Content Multiple Endings*
 
 *Stretch Goal: $150,000 Developer's Interviews/Commentary Video*
 
