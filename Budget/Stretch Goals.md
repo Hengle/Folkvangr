@@ -4,18 +4,23 @@
 - Self-funded
 
 ### Part I: Folkvangr Alpha
-- Fundraising Goal: $15,000-30,000
-- Base Levels 1-2, Forest and Village Hub, Mountains
+*Fundraising Goal: $8,000-15,000*
+- Base Levels 1-2, Forest and Village Hub 
 - 2 Minibosses, 2-4 Boss Encounters
 - UI
 - Alpha for Level 3
-- 2 Playable Characters: Rogue and Warrior
-- 2 Party Members: Hunter and Mage
+- 2 Main Playable Characters: Rogue and Warrior
 
-Stretch Goal: $45,000 Marshes, Healer Early Access
+*Stretch Goal: $20,000 - 2 Additional Party Members: Hunter and Mage*
+
+*Stretch Goal: $25,000 Mage Citadel Hub Area*
+
+*Stretch Goal: $30,000 Marshes Level Alpha, Healer Early Access* 
+
+*Stretch Goal: $45,000 Voice Actors, Patron Exclusive Content*
 
 ### Part II: Urnath
-- Fundraising Goal: $80,000-$250,000
+*Fundraising Goal: $80,000-$200,000*
 - Levels 4-6 Town, Mountains, Ruins, Dungeons
 - 4 Minibosses, 3 Boss Encounters
 - New Abilities: Enhanced Stealth and Thieving
@@ -23,16 +28,16 @@ Stretch Goal: $45,000 Marshes, Healer Early Access
 - Two New Party Members: Healer and Bard
 - More Enemy Types
 
-Stretch Goal: Two Additional Classes: Berserker and Warrior
+*Stretch Goal: $90,000 Two Additional Classes: Berserker and Warrior*
 
-Stretch Goal: Homestead Level Hub Early Access
+*Stretch Goal: $150,000 Homestead Level Hub Early Access*
 
-Stretch Goal: More Weapon Variety
+*Stretch Goal: $175,000 More Weapon Variety*
 
-Stretch Goal: More Optional Boss Encounters
+*Stretch Goal: $200,000 More Optional Boss Encounters*
 
 ### Part III: Brefhamer
-- Fundraising Goal: $300,000
+*Fundraising Goal: $200,000-300,000*
 - Largest Expansion, more geography
 - Town Hub- largest city, trade guilds and ships
 - Levels 7-8 Coast, Foothills, Plains
@@ -41,14 +46,14 @@ Stretch Goal: More Optional Boss Encounters
 - Two New Party Members
 - Improved A.I. and Combat
 
-Stretch Goal: More Exploration, NPCs, and Sidequests
+*Stretch Goal: $210,000 More Exploration, NPCs, and Sidequests*
 
-Stretch Goal: Voice Actors
+*Stretch Goal: $210,000 Voice Actors*
 
-Stretch Goal: More Armor Sets, Costumes
+*Stretch Goal: $300,000 More Armor Sets, Costumes*
 
 ### Part IV: Forsundr
-- Fundraising Goal: $180,000
+*Fundraising Goal: $80,000- 180,000*
 - Level 9, Level 8 new expanded areas
 - New Mechanics: Army AI
 - Patches
@@ -56,5 +61,11 @@ Stretch Goal: More Armor Sets, Costumes
 - Final QA
 - Localization, Porting
 
-Stretch Goal: Most Requested Features
+*Stretch Goal: $100,000 Exclusive Art Book*
+
+*Stretch Goal: $150,000 Developer's Interviews/Commentary Video*
+
+*Stretch Goal: $200,000 Most Requested Features*
+
+*Stretch Goal: $250,000 Console Porting*
 
