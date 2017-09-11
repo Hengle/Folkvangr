@@ -6,6 +6,14 @@ The [Wiki](https://github.com/jcongerkallas1/Folkvangr/wiki) is a living documen
 [Technical Design Document](https://docs.google.com/document/d/1n6o248Ov8BbkKBqlKvzQ165Qs1Pdf8bHazBc3eWPJqU/edit?usp=sharing)
  for the most current documentation.
 
+Still have lingering questions about the projected development process?  Here are some additional docs: 
+[FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/FAQs.md)  
+
+[Budget](https://github.com/jcongerkallas1/Folkvangr/blob/master/Budget/Budget%20Readme.md)
+
+[Style Guide](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Style%20Guide.md)
+
+[Pipeline](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Pipeline%20Overview.md)
 
 
  
