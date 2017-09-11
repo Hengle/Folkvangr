@@ -67,9 +67,11 @@
 
 *Stretch Goal: $100,000 Exclusive Art Book*
 
-*Stretch Goal: $125,000 Special Edition Director's Cut, Bonus Content Multiple Endings*
+*Stretch Goal: $125,000 Special Edition, Bonus Content Multiple Endings*
 
 *Stretch Goal: $150,000 Developer's Interviews/Commentary Video*
+
+*Stretch Goal: $180,000 Speedrun Mode, Secret End Boss*
 
 *Stretch Goal: $200,000 Most Requested Features*
 
