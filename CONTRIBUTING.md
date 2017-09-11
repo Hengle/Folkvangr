@@ -24,6 +24,7 @@ Online communication channels will be set up for dailies, reviews, posts, and up
 
 ## Application
 Please send a short cover letter with some of the things you might be interested in working on. 
+
 [Application Details](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Application.md)
 
 Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 24 hours.
