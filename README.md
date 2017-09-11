@@ -21,7 +21,7 @@ The introductory trailer is intended to establish the characters and setting for
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_WIP_thumbnail.jpg)
 
 ## Project Breakdown
-The projected length of the promotional trailer is six to eight minutes.
+The projected length of the promotional trailer is two to eight minutes.
 
 Depending on the size of the team and the budget, production of the short promotional trailer is anticipated to take around eight months to develop. Since unexpected production delays always happen, it’s probably realistic to add an extra few months to that number.
 
@@ -44,7 +44,7 @@ At this time, Unity is the preferred game engine.  Other middleware options may 
 ![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_final_small.jpg)
 
 ## Production Status
-The project is currently in the early pre-vis stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
+The project is currently in the early pre-production stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
 
 The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or  crowdfunding patrons will  go directly towards paying team members, minus taxes and expenses.
 
