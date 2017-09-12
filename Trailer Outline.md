@@ -48,7 +48,7 @@ The character arc focuses on how the character reacts under stress in a dire sit
 
 ![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/gripping_beast_4.jpg)
 ### Title Sequence
-The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a World Tree motif. ouroboros, raven, or an alternate pretzel-beastie design depending how the 3D mockup turns out.  
+The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a world tree motif, ouroboros, raven, or an alternate pretzel-beastie design depending how the 3D mockup turns out.  
 
 The title will display the logo with superimposed rune letters rotating one by one into recognizable alphabet letters.  
 
