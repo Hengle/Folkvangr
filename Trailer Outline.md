@@ -22,6 +22,8 @@ The character arc focuses on how the character reacts under stress in a dire sit
 
 [Trello Production List](https://trello.com/b/b2Wf4KYK/folkvangr)
 
+[Visual Reference Images](https://www.pinterest.com/jcongerkallas1/)
+
 ![character](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin_widescreen.jpg)
 ### Development Schedule
 - **Script**
