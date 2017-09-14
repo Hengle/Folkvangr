@@ -1,10 +1,14 @@
 ## Crew
 
 #### Jason Conger-Kallas
-Producer, Interim Production Manager, Writer, 3D Modeler, Animator
+Writer, Producer, Production Manager, 3D Modeler, Animator
 
 Contact: jcongerkallas1@gmail.com
 
+#### Joshua Black
+Creature Designer
+
+https://www.artstation.com/axis213
 
 ## Independent Contract Artists
 #### Dirk Kluesing
