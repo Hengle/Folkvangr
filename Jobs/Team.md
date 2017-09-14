@@ -6,7 +6,7 @@ Writer, Producer, Production Manager, 3D Modeler, Animator
 Contact: jcongerkallas1@gmail.com
 
 #### Joshua Black
-Creature Designer
+Creature Designer, Concept Artist
 
 https://www.artstation.com/axis213
 
