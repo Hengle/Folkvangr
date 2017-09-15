@@ -1,7 +1,7 @@
 ### September 2017
 - Artella Launch!!!
 - Rough Video Pitch
-- Full Story Draft 
+- Full Story Draft Completed and Partially Formatted
 - Trailer Draft Revision 4
 - Editing, Lots of Editing
 
@@ -31,7 +31,7 @@
 
 ### June 2014-2017 
 - Story Development
-- Awful First Draft that will never ever be posted because I burned it
+- Awful First Draft
 - Historical Research
 - Sketches
 - College Hiatus
