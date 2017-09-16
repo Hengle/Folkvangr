@@ -51,6 +51,10 @@ The story is not intended to be a grimdark misery fest.  There will be moments o
 
 **Legend of Zelda:** Dungeons
 
+**Shadow of the Colossus:** Bosses
+
+**Final Fantasy:** Creature Design
+
 **ES V Skyrim:** Armor Sets, Flexible Skill Trees, Background Lore, Camera Perspective
 
 **The Witcher:** Creature Design, Story, Sidequests
