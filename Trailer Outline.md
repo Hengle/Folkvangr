@@ -65,9 +65,9 @@ There might be a brief post credits scene teasing the game, if there is time lef
 If possible with the existing time constraints and budget, it would be nice to try out an experimental technique or a hybrid art style.  I'm most interested in finding a way to impliment 2D animation without compromising the efficiency of 3D models, but other suggestions are welcomed.
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
-### "Ruins" Trailer
-This narrative takes place sequentially after the events of the first trailer.  This was originally planned as the main trailer, as it provides more characterization and context that sets up the full game story.  However, it would have required a lot of additional rigging, animation, modeling, and graphical detail.  
+### Ruins Scene
+This sequence takes place after the events of the trailer.  This was originally planned as the main trailer, as it provides more characterization and context that sets up the full game story.  However, it would have required a lot of additional rigging, animation, modeling, and graphical detail.  
 
 For technical reasons, it probably makes more sense to just integrate the complex interactions and dialogue bits within the game sequences, or as 2D cutscenes.
 
-This might be a possible option for a smaller game alpha if the crowdfunding goal for the first chapter is not met.  Many of the existing assets and rigged models could be reused.
+This might be a possible option for a smaller scale game demo if the crowdfunding goal for the first chapter alpha is not met.  Many of the existing assets and rigged models could be reused.
