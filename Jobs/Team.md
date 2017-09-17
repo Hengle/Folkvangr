@@ -5,6 +5,11 @@ Writer, Producer, Production Manager, 3D Modeler, Animator
 
 Contact: jcongerkallas1@gmail.com
 
+#### Calina Sparhawk
+Keyframe Artist, Concept Designer
+
+https://www.artstation.com/calina
+
 #### Joshua Black
 Creature Designer, Concept Artist
 
