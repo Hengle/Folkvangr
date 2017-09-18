@@ -1,3 +1,4 @@
+![Ruins](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/ruins_scene_thumbnail.jpg)
 ### Logline
 
 Synopsis: Two siblings with little in common find themselves on a quest to right an unjust fate that denies souls from entering the halls of the dead. 
