@@ -4,9 +4,9 @@
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
 ## Production Goals and Art Style
-The first goal is to produce an animated short/trailer.  This can then be used to pitch a crowdfunding campaign for a longer cinematic trailer or an RPG style video game, depending on the amount of funds raised. 
+The goal is to produce an animated short/trailer. This can then be used as a proof of concept to pitch a crowdfunding campaign for a RPG style video game alpha. If it doesn't look like the funding goals will be met, the trailer can possibly be submitted to a festival screening instead.
 
-The style and medium will be determined by the art team, but will likely employ hybrid techniques.  
+The style and medium will be determined by the art team, but will likely employ 2D/3D hybrid techniques.
 
 Emphasis will be placed on character animation, cinematography, story, and visual stylization. 
 
@@ -27,38 +27,12 @@ Depending on the size of the team and the budget, production of the short promot
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
-## Fundraising
-The crowdfunding goal is estimated around $8,000-35,000 to create a game alpha for the first chapter.  The ultimate goal is to crowdfund the game in two or three incremental stretches, like an episodic game.  Each campaign will leverage the funding scope according to how the development is progressing, and what assets and features are being produced.  
+## Production Status
+The project is currently in the early pre-production stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I am receptive to alternative  suggestions, redesigns, or input from  others.
 
-Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a small team producing a full game would likely take three or more years to finish. 
+The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or crowdfunding patrons will go directly towards paying team members, minus taxes and expenses.
 
 ![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
-
-## Game Development
-Full-time production would begin following the crowdfunding campaign, assuming that doesn’t fail dismally.
-
-The game will be an RPG with a narrative storyline and unique game mechanics.  It will not be a full open world, but hopefully the budget will allow for some limited exploration.
-
-At this time, Unity is the preferred game engine.  Other middleware options may be considered depending on the preferences of the technical director.  The final decision on the game engine will be determined before the crowdfunding campaign.
-
-![female sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_final_small.jpg)
-
-## Production Status
-The project is currently in the early pre-production stages, moving into modeling and blocking.  There is a  script, some concept art,  breakdowns, and documentation that can be  used for reference.  However, I  am receptive to alternative  suggestions, redesigns, or input from  others.
-
-The project is  being self-financed until a pitch can be made on  Kickstarter.  Nobody  is expected to work for free or to commit long-term  without  compensation.  Any funds raised from sponsors or  crowdfunding patrons will  go directly towards paying team members, minus taxes and expenses.
-
-![female sketch](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/female_final.jpg)
-
-## Risk Mitigation
-
-At this point, attempting to produce an entire alpha game is impractical until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into smaller chunks so that the goals are achievable.  This way contributors can make smaller commitments, and there is less of a loss if the project doesn't work out.
-
-If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
-
-If the fundraising campaign doesn't meet the first goal, other alternatives may be explored.  
-
-![male sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/Male_final.jpg)
 
 ## Further Details and Application
 For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), [Artella](https://www.artella.com/#/project/7e749e21-8d3d-49bb-8a19-146cdf4a3030/overview), and [Discord](https://discordapp.com/channels/326900944862314506).
