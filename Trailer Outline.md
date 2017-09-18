@@ -19,7 +19,7 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 
 The character arc focuses on how the character reacts under stress in a dire situation. Despite facing a series of obstacles and low points, she displays determination and resolve to continue searching. 
 
-![character mockup](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin8.png)
+![character mockup](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/characters_final.jpg)
 
 ### Assets
 
