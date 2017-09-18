@@ -1,9 +1,7 @@
 The following is a theoretical model for a studio.  Likelihood of it actually taking off remains pretty small. It would require a lot of financial security and investment.
 
 ### Studio Name
-Undecided.
-
-World Tree Studios, The Labyrinth, and Mote Studio appear to have already been taken.
+Undecided.  
 
 ### Studio Size
 The core team will likely be 8-12 people starting out.  A network of freelance and industry contacts will be needed for support.
