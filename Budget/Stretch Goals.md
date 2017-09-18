@@ -4,6 +4,7 @@
 *Self-funded*
 
 ### Proto-Alpha Test Demo
+*Self-funded*
 - Basic Movement, Mechanics
 - Single room dungeon miniboss
 
