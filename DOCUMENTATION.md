@@ -9,7 +9,7 @@ The [Wiki](https://github.com/jcongerkallas1/Folkvangr/wiki) is a living documen
 
 For additional info on the projected development process:
 
-[FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/FAQs.md)  
+[FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/FAQs.md)  
 
 [Budget](https://github.com/jcongerkallas1/Folkvangr/blob/master/Budget/Budget%20Readme.md)
 
