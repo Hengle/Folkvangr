@@ -62,5 +62,5 @@ There might be a brief post credits scene teasing the game, if there is time lef
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ### Experimental Animation Style Ideas
-If possible with the existing time constraints and budget, it would be nice to try out an experimental technique or a hybrid art style.  I'm most interested in finding a way to impliment 2D animation without compromising the efficiency of 3D models, but other suggestions are welcomed.
+If possible with the existing time constraints and budget, it would be nice to try out an experimental technique or a hybrid art style.  I'm most interested in finding a way to impliment an illustrative/line art style without compromising the efficiency of 3D models, but other suggestions are welcomed.
 
