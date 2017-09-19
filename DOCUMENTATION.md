@@ -9,7 +9,7 @@ The [Wiki](https://github.com/jcongerkallas1/Folkvangr/wiki) is a living documen
 
 For additional info on the projected development process:
 
-[Game Overview](https://github.com/jcongerkallas1/Folkvangr/blob/master/Game%20Overview.md)
+[Game Overview](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Game%20Overview.md)
 
 [FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/FAQs.md)  
 
