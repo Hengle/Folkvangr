@@ -29,14 +29,13 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 ### Development Schedule
 - **Script**
 - **Storyboard**
-- **Color Script**
+- **Model Sheets**
 - **Pencil Tests/Story Reel**
-- **2D or 3D**
+- **Color Script**
 - **Art Style Guidelines**
 - **Color Palettes**
-- **Dope Sheet**
-- **Model Sheets**
 - **Rigged Models**
+- **Exposure Sheet**
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 ### Initial Stretch Goals
