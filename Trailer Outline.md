@@ -41,9 +41,9 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 ### Initial Stretch Goals
 - **Character Design and Environment Concepts**
+- **Begin Blocking**
 - **Begin Modeling**
 - **Rigging**
-- **Begin Blocking**
 - **Finalize Backgrounds**
 - **Finalize Assets**
 - **Review and Refine Animation**
