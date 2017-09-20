@@ -13,7 +13,7 @@ The core focus will be on creating a game that is thoughtfully crafted, challeng
 
 Many indie games have shortcomings when too much focus is put on the art direction to the detriment of the actual gameplay controls.  Hopefully that can be avoided by putting equal emphasis on refining the basic movement and controls before adding in extra features.
 
-Try to keep the game length manageable.  Any features that are not absolutely essential should be cut, and not add superfluous padding.
+The game length needs to  be kept manageable.  Any features that are not absolutely essential should be cut, and not add superfluous padding.
 
 ## Balance
 Unlike most video games that provide lots of customization, power-ups, armor sets, and leveling, the game will keep the base power levels scaled throughout. Leveling will unlock extra abilities options and access to more powerful items, but players will not be overpowered relative to certain enemy types.  So if a player is facing three bandits or an armored opponent, the opponents will have a distinct advantage, but they can still be beaten by skill.  The playable characters are not super-powered or larger than life, so their abilities are kept believable.  They won't mow through hundreds of expendable grunts without using magical artifacts or unique weapons.
@@ -100,7 +100,7 @@ Grinding and fetch quests will not be a major focus of the game.  Side quests an
 NPCs will award items based on their social status, so nobles and merchants will offer better wares than peasants.  However, assisting the needy will boost other skill areas and reputation more than mercenary work.
 
 ## Game Length
-The story campaign will hopefully be around 7-15 hours, maybe longer with sidequests
+The story campaign will hopefully be around 12-20 hours, maybe longer with sidequests
 
 ## UI
 The menu will allow access to settings and stats
@@ -110,12 +110,10 @@ The UI will display a world map and local area map, health bar, inventory, and q
 Options should include widescreen settings, gamepad compatibility, Steam API, F12 Screenshot, configure Keyboard shortcut settings
 
 ## Replayability
-Considering options for difficulty modes, unlockable quests, collectible items, or an arena mode to extend gameplay lifespan
+Options for difficulty modes, unlockable quests, collectible items, or an arena mode will be considered in an effort to extend gameplay lifespan
 
 ## DLC
 If possible, there may be an opportunity to add Multiplayer Mode or other features.  This will depend on if the game is successful or not.
 
 ## Minigames
-Potentially create working version of an in-universe strategic board game for crowdfunding campaign.  Creating a mini game requires less complex programming to set up than an alpha of the full game. 
-
 Minigames and puzzles will not play a large role in advancing the gameplay, but some may be optional to unlock extra items.
