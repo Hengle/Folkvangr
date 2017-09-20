@@ -15,10 +15,12 @@ The game will touch upon technology, social status, warfare, superstition, and b
 
 [Wiki](https://github.com/jcongerkallas1/Folkvangr/wiki)
 
-[Documentation](https://github.com/jcongerkallas1/Folkvangr/blob/master/DOCUMENTATION.md)
-
 [Budget](https://github.com/jcongerkallas1/Folkvangr/blob/master/Budget/Budget%20Readme.md)
+
+[Mechanics](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Game%20Mechanics.md)
 
 [Style Guide](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Style%20Guide.md)
 
 [Pipeline](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Pipeline%20Overview.md)
+
+[Documentation](https://github.com/jcongerkallas1/Folkvangr/blob/master/DOCUMENTATION.md)
