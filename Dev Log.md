@@ -1,4 +1,6 @@
 ### September 2017
+- Keyframes
+- Script Edit Feedback
 - Artella Launch!!!
 - Rough Video Pitch
 - Full Story Draft Completed and Partially Formatted
