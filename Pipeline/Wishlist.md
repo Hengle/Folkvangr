@@ -1,7 +1,7 @@
 # Overview
-This is a backlog for requests that may not be on the schedule.
+This is a backlog for requested features.
 
-## Current Requests
+## High Priority
 1. Concept Sketches (characters, environments, weapons, etc)
 2. Rough Concept Mockups, builds, models
 3. Suggestions for improving the development process to reduce stress and maximize collaboration
@@ -12,8 +12,6 @@ This is a backlog for requests that may not be on the schedule.
 3. Assets for Creative Commons
 
 ## Advanced Technical Challenges
-Do something different with the project to make it stand out, either with technology or art style
-
 1. Misc. Custom Proprietary Software- can be sold for extra revenue, might encourage more investors
 2. Character Creation System
 3. Level Editor
