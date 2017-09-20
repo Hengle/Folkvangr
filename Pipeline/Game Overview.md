@@ -1,7 +1,7 @@
 ![Ruins](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/ruins_scene_thumbnail.jpg)
 ### Logline
 
-Synopsis: Two siblings with little in common find themselves on a quest to right an unjust fate that denies souls from entering the halls of the dead. 
+Synopsis: Two siblings with little in common find themselves on a journey to right an unjust fate that denies trapped souls from entering the halls of the dead. 
 
 In terms of game style, picture if Rohan from *The Lord of the Rings* was the setting of a full video game, with the exploration and party system of an old school RPG.
 
