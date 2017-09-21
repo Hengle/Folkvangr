@@ -1,8 +1,8 @@
 ### Cinematography
 
-The cinematography for the attack scene is inspired by the Velociraptor scene in Jurassic Park and the visceral bear attack scene in The Revenant.
+The cinematography for the attack scene is inspired by the velociraptor kitchen scene in Jurassic Park and the visceral bear attack scene in The Revenant.
 
-The end sequence is similar to the end of Big Hero 6 when Hiro realizes what Baymax is planning to do.
+The end sequence is intended to be tonally similar to the end of Big Hero 6 when Hiro realizes that Baymax is planning to sacrifice himself to save him.
 
 ### Character Development
 The main thing that needs to be conveyed in the brief intro is that the two siblings are foils of eachother.  She is pragmatic, determined, and hardworking, while he is not really committed to doing anything useful with his time.  Instead of harvesting crops for winter, he is wandering around in the forest, unlikely to actually catch anything.
