@@ -7,13 +7,17 @@ The end sequence is similar to the end of Big Hero 6 when Hiro realizes what Bay
 ### Character Development
 The main thing that needs to be conveyed in the brief intro is that the two siblings are foils of eachother.  She is pragmatic, determined, and hardworking, while he is not really committed to doing anything useful with his time.  Instead of harvesting crops for winter, he is wandering around in the forest, unlikely to actually catch anything.
 
-In the short, it would be difficult to convey any more backstory without flashbacks.
+Despite their differences, he is still her family, so she has an obligation to try and find him even when the other villagers won't risk their lives on his account.
+
+In the short, it would be difficult to convey any significant backstory without flashback sequences which are an unnecessary amount of extra work.  One thing that might work is if it is somehow made clear that her pendant necklace was a gift from her brother a long time ago, and she still wears it.  The pendant is old, made of pitted iron, and is kind of worn because it was buried in the ground. He gave the useless trinket to her because it had runes carved on it, and he knows she has an interest in old stuff.
 
 ### Theme
 
 The story arc is about how the characters kind of start off being jerks to eachother because they are siblings, but this is resolved by Regin's sacrifices to try and help her brother.  He realizes that he was taking her for granted.
 
-The ending is intended to subvert the objective of the story.  Regin's goal is to find her brother, but despite overcoming many obstacles, she technically fails to locate him.  However, when Heyward finds her, the realization what she did is a victory that brings the characters closer together and shows that they actually care for each other very much.
+The ending is intended to subvert the objective of the story.  Regin's goal is to find her brother, but despite overcoming many obstacles, she technically fails to locate him.  She gives up in the end, but holds out the small hope that he will find her when she symbolically puts the pendant in her hand.  However, when Heyward finds her, the realization what she did for him brings the characters closer together and shows that they actually care for each other very much.
+
+Hopefully by the end of the short, after seeing the character go through a really rough time and gradually have her spirit broken down, it will make her apparent death seem more tragic.  The audience expected her to find her brother in the end, not the other way around.
 
 ### Setting
 The homestead and search party are the only real glimpses at the culture of the world.  Costume designs and architecture will need to reflect the agrarian society.  The constant background presense of old ruins and carved rune stones suggests that a more advanced ancient culture once existed, but has collapsed over time.  The villagers are kind of superstitious and afraid of these ruins and markings, which they associate with magic.
