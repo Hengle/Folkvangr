@@ -1,9 +1,51 @@
 
 EXT. FOREST - MORNING
 
-REGIN is working in a field on her homestead.  She sees HEYWARD carrying a pack and some hunting gear from afar.  He A forester is seen venturing into the woods. A static shot
-of shadows falling on the treeline indicates time passes.
-The forester is not shown leaving the forest.  
+REGIN is working in a fields on her homestead.  She pauses briefly 
+from her labor to lean on her PITCHFORK and wipe her brow, when she 
+notices her brother HEYWARD nonchalantly heading towards the edge of 
+the forest on the far edge of the fields.  He is carrying a large 
+PACK and some HUNTING GEAR. 
+
+She gives a sharp shout to get his attention.  He turns.  She makes 
+an exaggerated snarky gesture.  [Where he is going?] 
+
+He is far away, so he just raises his BOW above his head to indicate 
+that he is going hunting.
+
+She incredulously gestures at the fields around her.  
+[He promised to help her with the harvest.]
+
+He doesn't see her, because he has already turned around 
+and is entering the forest.
+
+She is exasperated and makes a rude gesture at his back.  
+She watches as he disappears into the dark woods. 
+
+Hold on this shot for a few seconds for added emphasis.  
+
+Regin continues the harvest with a little more frustration 
+than before, gritting her teeth and thrusting the pitchfork 
+violently into the rows of wheat.
+
+Grey clouds in the sky move to cover the sun, and a slight stormy 
+wind starts to ripple across the fields.  
+
+Shadows fall and it looks like it will start to rain.  
+Regin eventually retires from the fields, covering up a tiny 
+pile of harvested crops all she has to show for her efforts.
+There are many acres left to cut.  She glances worriedly at 
+the forest where Heyward entered.  He still has not returned.
+A screeching cry from a bird, or something else, emanates from 
+the forest.  The high-pitched wail sounds eerily like a dirge.
+
+Regin sits outside waiting with a candle that has burned 
+to the wick.  She shields the tiny flame from the elements as 
+it flickers rapidly in the cold wind, illuminating the look of 
+concern on her face.  
+
+The camera cuts to a still shot of the swaying line of trees.  
+Heyward is not shown leaving the forest.  
 
                                              FADE.
 
@@ -19,18 +61,21 @@ focus of the story.
 
 The forester's sister REGIN stands apart facing them in a
 better lit area.  She holds a PACK and LANTERN.  She is
-arguing with the group and gesturing angrily. 
+arguing with the group and gesturing angrily, pointing 
+towards the deeper part of the forest. 
 
 Several stragglers in the back of the group start to leave. 
 After a brief discussion among themselves, the rest of the
-group turns around and heads out of frame. 
+group turns around and heads out of frame, ignoring Regin's 
+pleas. 
 
 One of the searchers lingers behind to put a consoling hand
 on Regin's shoulder.  The figure then follows the rest of
 the group.
 
 Regin stares despondently after the search party.  Then she
-turns around to face towards the heart of the forest.
+turns around to face towards the heart of the forest.  She 
+readies her lantern and steps forward.
 
                                              TITLE MUSIC PLAYS.  
 
@@ -190,7 +235,8 @@ refuse to retain hold of the grip. She fumbles and drops it.
 
 The fight becomes more desperate as she tries to keep out of
 the creature's grasp.  It is a futile effort since she is
-unarmed and the creature is far stronger and larger.
+unarmed and the creature is far stronger and larger.  It shakes 
+her around and slams her into the rocks a few times.
 
 She breaks free again and reaches the knife with her left
 hand.  She lashes out at the creature and injures it.  Now
@@ -219,28 +265,34 @@ EXT. FOREST CLEARING - SUNRISE
 
 Time passes.
 
-She staggers up a hillcrest into view of a clearing with
+The camera pans, following a trail of blood.
+
+Regin staggers up a hillcrest into view of a clearing with
 tall golden brown grass.  The sun is rising over the
 treeline, indicating yet another day has passed without
-success. She looks at the sun and slumps down in defeat.
+success. She stumbles and collapses.
 
-At the moment when she has practically given up all hope,
-she sees the a figure moving through the underbrush across
-the edge of the opposite side of the clearing.  She rises to
-her feet.  The figure notices her and stops.
+At this moment she has practically given up all hope.  She is 
+badly injured from her fight with the forest creature, far 
+worse than believed earlier.  The injuries probably occured 
+when she was swung into the rocks.  She also lost her pack and 
+all her supplies.
 
-They just stand and stare across the clearing for a long
-time.
+She looks at the sun wearily. Her eyes close, and her ragged breathing slows.
 
-Closeup shots.  They are both haggard and clearly struggling
-to not break down.  
+The camera shifts to a far perspective that makes her crumpled 
+form look small and still.  It lingers on this view. Time passes. 
 
-She breaks into a sprint down the hill.  He limps towards
-her. They embrace in the final shot.  
+Heyward is seen appoaching into the frame.  He sees Regin on the 
+hill, and rushes to her side.  He desperately attempts to wake her, 
+but she does not move.  
+
+Soft solemn music starts to play.
+ 
 
                                              CUT TO CREDITS.
 
-EXT. FOREST RUINS- POST CREDITS (OPTIONAL)
+
 
 
 
