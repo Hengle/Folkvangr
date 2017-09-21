@@ -4,9 +4,14 @@ The cinematography for the attack scene is inspired by the Velociraptor scene in
 
 The end sequence is similar to the end of Big Hero 6 when Hiro realizes what Baymax is planning to do.
 
+### Character Development
+The main thing that needs to be conveyed in the brief intro is that the two siblings are foils of eachother.  She is pragmatic, determined, and hardworking, while he is not really committed to doing anything useful with his time.  Instead of harvesting crops for winter, he is wandering around in the forest, unlikely to actually catch anything.
+
+In the short, it would be difficult to convey any more backstory without flashbacks.
+
 ### Theme
 
-The story arc is about how the characters kind of start off being jerks to eachother because they are siblings, but this is resolved by Regin's sacrifices to try and help her brother.
+The story arc is about how the characters kind of start off being jerks to eachother because they are siblings, but this is resolved by Regin's sacrifices to try and help her brother.  He realizes that he was taking her for granted.
 
 The ending is intended to subvert the objective of the story.  Regin's goal is to find her brother, but despite overcoming many obstacles, she technically fails to locate him.  However, when Heyward finds her, the realization what she did is a victory that brings the characters closer together and shows that they actually care for each other very much.
 
