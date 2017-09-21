@@ -1,7 +1,7 @@
 
 EXT. FOREST - MORNING
 
-A forester is seen venturing into the woods. A static shot
+REGIN is working in a field on her homestead.  She sees HEYWARD carrying a pack and some hunting gear from afar.  He A forester is seen venturing into the woods. A static shot
 of shadows falling on the treeline indicates time passes.
 The forester is not shown leaving the forest.  
 
