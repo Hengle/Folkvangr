@@ -1,5 +1,4 @@
-## Crew
-
+## Contributors
 #### Jason Conger-Kallas
 Writer, Producer, Production Manager, 3D Modeler, Animator
 
@@ -15,7 +14,6 @@ Creature Designer, Concept Artist
 
 https://www.artstation.com/axis213
 
-## Independent Contract Artists
 #### Dirk Kluesing
 Composer/Sound Designer
 
