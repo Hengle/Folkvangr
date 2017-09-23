@@ -9,6 +9,11 @@ Keyframe Artist, Concept Designer
 
 https://www.artstation.com/calina
 
+#### Alberto Huete
+Character Designer, Concept Artist
+
+http://alberhuete.artstation.com/
+
 #### Joshua Black
 Creature Designer, Concept Artist
 
