@@ -1,5 +1,5 @@
 # Folkvangr
-## Cinematic Trailer/Narrative RPG Game Design Project
+## Cinematic Trailer/Game Design Project
 
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
