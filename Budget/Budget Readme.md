@@ -8,7 +8,7 @@ The budget will likely undergo significant revision closer to a crowdfunding cam
 [Crowdfunding Stretch Goals](https://github.com/jcongerkallas1/Folkvangr/blob/master/Budget/Stretch%20Goals.md)
 
 ## Fundraising
-The crowdfunding goal is estimated around $8,000-35,000 to create a game alpha for the first chapter.  The ultimate goal is to crowdfund the game in two or three incremental stretches, like an episodic game.  Each campaign will leverage the funding scope according to how the development is progressing, and what assets and features are being produced.  
+The crowdfunding goal is estimated around $8,000-15,000 to create a game alpha for the first chapter (Levels 1-2).  The ultimate goal is to crowdfund the game in two or three incremental stretches, like an episodic game.  Each campaign will leverage the funding scope according to how the development is progressing, and what assets and features are being produced.  
 
 Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a small team producing a full game would likely take three or more years to finish.
 
