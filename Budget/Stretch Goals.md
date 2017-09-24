@@ -7,6 +7,8 @@
 *Self-funded*
 - Basic Movement, Mechanics
 - Single room dungeon miniboss
+- Early Art Style Test
+- Logo and Banner Image
 
 ### Part I: Folkvangr Alpha
 *Fundraising Goal: $8,000-15,000*
