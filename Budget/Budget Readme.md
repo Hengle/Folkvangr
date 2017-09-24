@@ -18,5 +18,10 @@ Attempting to produce an entire alpha game is impractical until a trailer is rea
 
 If things progress well with the trailer and networking, preliminary discussions will begin for assembling a technical lead, director, management crew, and game development team.  The team commitments will need to be finalized several months before the crowdfunding campaign begins.
 
-If the fundraising campaign doesn't meet the first goal, other alternatives may be explored. Options include submitting to festivals or creating a board game. 
+## Contingency Plan
+If the fundraising campaign doesn't meet the first goal, other alternatives may be explored. 
+
+The most likely option will be to submitting the animated short to festivals.
+
+Creating a board game, card game, webcomic, etc. might be other options. 
 
