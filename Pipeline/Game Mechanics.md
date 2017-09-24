@@ -6,7 +6,7 @@ The party system will allow the player to control 4-8 characters for planning ou
 There will also be the standard power ups and armors that offer boosts to different abilities.
 
 ## Leveling
-The leveling system will be based on using wits to outmaneuver stronger opponents.
+The leveling system will be based on exploration XP points, completing sidequests or objectives, etc.  Unlocking runes will open up new skill trees and special abilities.  The combat system will require the player to use their resources wisely to  outmaneuver stronger opponents.
 
 ## Focus
 The core focus will be on creating a game that is thoughtfully crafted, challenging, and fun.
