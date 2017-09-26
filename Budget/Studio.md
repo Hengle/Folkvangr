@@ -43,11 +43,11 @@ Studio Rent, Local Cost of Living, Equipment, Etc.  The amount of investment rev
 
 Realistic implementation will require baby steps and a lot of monetary investment.  Maybe with a successful product release and some other smaller projects, a small studio might be feasible in a few years.
 
-Monthly costs for an 11 person team is around $40,000, excluding studio rental.
+Monthly costs for a 12 person team is around $40,000, excluding studio rental.
 http://www.eurogamer.net/articles/2017-09-25-the-doors-close-on-the-chinese-room-for-now
 
 ### Development Schedule
-Ideas for future projects can be decided by the team. 1-2 full games should be in development at any given time, with smaller productions supplementing income to cover operation expenses.
+Ideas for future projects can be decided by the team. 1-2 full games should be in development at any given time, with smaller productions supplementing income to cover operation expenses.  Networking with production studios is essential to secure deals and funds.
 
 ### Budget
 The company will need to earn at least $150,000-350,000 each year to cover salaries, equipment costs, licensing, etc.  The bulk of this will probably come from supplimental revenue from smaller commercial commission projects, with investments in larger projects hopefully allowing gradual expansion into better markets like feature animation, television, or game development. 
