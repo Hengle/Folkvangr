@@ -26,11 +26,12 @@ The difficult part is making quality animation economically without access to th
 
 Advertising will also take some work to attract clients.
 
-
 ### Office Space
 It would be nice to build contacts in the open source community and keep the studio true to the creative roots rather than become a money-driven business.
 
 The office space should be fun.  No cubicles or windowless prisons.  Lots of wall space for posting artwork.  A comfortable area for meetings.
+
+9:00-5:00rs, weekends off
 
 ### Pipeline
 The studio atmosphere will be more relaxed and informal than a large studio.  The goal is to create a pipeline without stiffling micromanagement where employees are respected and entrusted with a greater degree of creative freedom.  
@@ -41,6 +42,12 @@ Deadlines tend to be shorter in the commercial world, so there may still be some
 Studio Rent, Local Cost of Living, Equipment, Etc.  The amount of investment revenue will be determined by the earnings of the successful release of the game.
 
 Realistic implementation will require baby steps and a lot of monetary investment.  Maybe with a successful product release and some other smaller projects, a small studio might be feasible in a few years.
+
+Monthly costs for an 11 person team is around $40,000, excluding studio rental.
+http://www.eurogamer.net/articles/2017-09-25-the-doors-close-on-the-chinese-room-for-now
+
+### Development Schedule
+Ideas for future projects can be decided by the team. 1-2 full games should be in development at any given time, with smaller productions supplementing income to cover operation expenses.
 
 ### Budget
 The company will need to earn at least $150,000-350,000 each year to cover salaries, equipment costs, licensing, etc.  The bulk of this will probably come from supplimental revenue from smaller commercial commission projects, with investments in larger projects hopefully allowing gradual expansion into better markets like feature animation, television, or game development. 
