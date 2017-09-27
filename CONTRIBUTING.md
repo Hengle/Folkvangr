@@ -3,7 +3,9 @@ At this time, I am mainly just looking to find potential collaborators who might
 
 I try to keep realistic expectations for what can be achieved with the available resources.  Without sufficient planning, support, or funding, the odds of completing a long-term project are slim.  
 
-Unless certain key factors fall into place for raising funds to fairly compensate the team contributors, I will not ask other people to pour their time and energy into a high-risk project. 
+Unless certain key factors fall into place for raising funds to fairly compensate the team contributors, I will not ask other people to pour their time and energy into a high-risk project.
+
+[Project Overview](https://github.com/jcongerkallas1/Folkvangr/blob/master/DOCUMENTATION.md)
 
 ## Milestones and Collaboration
 I believe that the best ideas are usually the product of many different people contributing their creativity and ideas.  Hopefully that will prove true for this project.  
@@ -27,7 +29,7 @@ Please send a short cover letter with some of the things you might be interested
 
 [Application Details](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Application.md)
 
-Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 24 hours.
+Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 48 hours.
 Contact: jcongerkallas1@gmail.com
 
 ## Open Positions
