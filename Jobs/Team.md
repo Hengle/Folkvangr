@@ -1,6 +1,6 @@
 ## Contributors
 #### Jason Conger-Kallas
-Writer, Producer, Production Manager, 3D Modeler, Animator
+Writer, Production Manager, 3D Modeler, Animator
 
 Contact: jcongerkallas1@gmail.com
 
@@ -8,11 +8,6 @@ Contact: jcongerkallas1@gmail.com
 Keyframe Artist, Concept Designer
 
 https://www.artstation.com/calina
-
-#### Alberto Huete
-Character Designer, Concept Artist
-
-http://alberhuete.artstation.com/
 
 #### Joshua Black
 Creature Designer, Concept Artist
@@ -41,3 +36,7 @@ Concept Artist
 
 https://www.artstation.com/ludvikskp
 
+#### Alberto Huete
+Concept Artist
+
+http://alberhuete.artstation.com/
