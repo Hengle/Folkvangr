@@ -38,7 +38,7 @@ The antagonists will be fleshed out as unique characters in the game, not just b
 The story is not intended to be a grimdark misery fest.  There will be moments of humor to counterbalance the dramatic moments.
 
 ### Will content be cut?
-Undoubtedly.  The current game outline would need to be split into at least three parts to be remotely feasible for a small team to ever hope to complete.  More editing will reduce the game to a manageable scale if there is more progress made towards that goal.  For now, the animated trailer is the main focus.
+Undoubtedly.  The current game outline would need to be split into at least three parts to be remotely feasible for a small team to ever hope to complete.  More editing will reduce the game to a manageable scale if there is more progress made towards that goal.  For now, completing an animated trailer and alpha is the main focus.
 
 ### Inspiration and Influences?
 
