@@ -2,7 +2,7 @@
 ### Will the game be a true open world RPG?
 The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  Due to the limits of funding and scope, there will be some limits with map sizes and graphics quality.  
 
-The goal is to create compact well-designed maps rather than large open maps that feel kind of empty, in the vein of level design in Dark Souls or Dishonored.  Level sections will have unique visual usuals to distinguish from the other areas.
+The goal is to create compact well-designed maps rather than large open maps that feel kind of empty, in the vein of level design in *Dark Souls* or *Dishonored*.  Level sections will have unique visuals to distinguish from the other areas.
 
 ### What will the gameplay be like?
 Combat will be faster paced so that players can play in real time or pause combat to plan tactics.  
@@ -29,7 +29,7 @@ The core story follows two main protagonists, a brother and sister.  The charact
 
 Stats will be balanced enough that there won't be a wrong way to build a certain class that makes progression of defeating bosses impossible.
 
-Difficulty settings will be adjustable.  It is not another Dark Souls clone or roguelike game.
+The normal difficulty is not indented to be on the level of a Souls-like clone or roguelike game.  If players want a challenge, difficulty settings will be adjustable.  
 
 Sidequests will serve a purpose, have decent rewards and stories, and will not be grinding fetch quests.
 
