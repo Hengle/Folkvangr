@@ -1,6 +1,8 @@
 ![Stream](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/Folkvangr_stream_small.jpg)
 ### Will the game be a true open world RPG?
-The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  Due to the limits of funding and scope, there will be some limits with map sizes and graphics quality.  The goal is to create compact well-designed maps rather than large open maps that feel kind of empty, similar to level design in Dark Souls or Dishonored.
+The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  Due to the limits of funding and scope, there will be some limits with map sizes and graphics quality.  
+
+The goal is to create compact well-designed maps rather than large open maps that feel kind of empty, in the vein of level design in Dark Souls or Dishonored.  Level sections will have unique visual usuals to distinguish from the other areas.
 
 ### What will the gameplay be like?
 Combat will be faster paced so that players can play in real time or pause combat to plan tactics.  
@@ -42,7 +44,9 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 
 **Prose Edda:** Mythology References
 
-**Icelandic Sagas (Grettis Saga, Njáls Saga, Laxdæla Saga, Egils Saga, Gísla Saga, Hrafnkels Saga)** Narrative Themes
+**Icelandic Sagas (Grettis Saga, Njáls Saga, Laxdæla Saga, Egils Saga, Gísla Saga, Hrafnkels Saga):** Narrative Themes
+
+**Beowulf, The Ring Cycle:** Mythology References
 
 **The Hero with a Thousand Faces by Joseph Campbell:** Monomyth
 
