@@ -3,6 +3,8 @@
 ## Budget Readme
 The budget will likely undergo significant revision closer to a crowdfunding campaign date.  Current proposal amounts may not be accurate.
 
+Flexible milestones and stretch goals will be adjusted prior to crowdfunding.
+
 [Budget Proposal](https://docs.google.com/spreadsheets/d/1GkCL7yzXFakqMCULWRrPxNCTeMgtRffrsgK5qt7yyoU/edit?usp=sharing)
 
 [Crowdfunding Stretch Goals](https://github.com/jcongerkallas1/Folkvangr/blob/master/Budget/Stretch%20Goals.md)
