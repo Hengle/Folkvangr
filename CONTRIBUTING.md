@@ -10,19 +10,15 @@ Unless certain key factors fall into place for raising funds to fairly compensat
 ## Milestones and Collaboration
 I believe that the best ideas are usually the product of many different people contributing their creativity and ideas.  Hopefully that will prove true for this project.  
 
-To avoid miserable experience of crunch and micromanagement, flexible milestones and stretch goals will be set prior to crowdfunding.
-
-Dailies, a chatboard (Discord), Trello, and an alternating scrum system will help keep the project members updated and aware of progress.
+A chatboard (Discord), Trello, and posts will help keep the project members updated and aware of progress.
 
 ## Payment
 Terms will be negotiated privately.  At this point in time, most of my personal savings have already been used up, so full-time payment will only be feasible after crowdfunding.
 
 ## Studio and Remote Work
-The project will be managed remotely.  I live in the middle of nowhere in North Carolina, far from any industry centers.  This means that software, artist tools, and studio space will be the contributor's responsibility, at least until there are a few core team members and a little budget money to go around.
+The project will be managed remotely.  I live in the middle of nowhere in North Carolina, far from any industry centers.  This means that software, artist tools, and studio space will be the contributor's responsibility.
 
-If there is a chance to establish a physical studio space, it would be based in Atlanta or Raleigh in central NC, close to the headquarters for Epic Games.  A secondary unit in California, NY, Texas, or Canada might be more convenient for some team members.
-
-Online communication channels will be set up for dailies, reviews, posts, and updates, but the lack of a central studio is definitely going to cause some slight inconveniences.  Apologies in advance.  I will do my best to make things work.
+Online communication channels will be set up, but the lack of a central studio is definitely going to cause some slight inconveniences.  Apologies in advance.  I will do my best to make things work.
 
 ## Application
 Please send a short cover letter with some of the things you might be interested in working on. 
@@ -64,7 +60,7 @@ Currently only pre-vis designers and project leads are needed.  However, any pro
 - Paralegal Advisor
 - Historians
 
-## Preferred Software Skills
+### Preferred Software Skills
 - Unity
 - Autodesk Maya
 - Blender
