@@ -7,6 +7,8 @@ Undecided.
 The core team will likely be 8-12 people starting out.  A network of freelance and industry contacts will be needed for support.
 
 ### Studio Location
+If there is a chance to establish a physical studio space, it would be based in Atlanta or Raleigh in central NC, close to the headquarters for Epic Games.  A secondary unit in California, NY, Texas, or Canada might be more convenient for some team members.
+
 Atlanta looks to be one of the best markets for film and animation on the East Coast of the United States. It also is relatively close to major universities like SCAD.
 
 ### Studio Goals and Revenue Generation
@@ -34,7 +36,7 @@ The office space should be fun.  No cubicles or windowless prisons.  Lots of wal
 9:00-5:00rs, weekends off
 
 ### Pipeline
-The studio atmosphere will be more relaxed and informal than a large studio.  The goal is to create a pipeline without stiffling micromanagement where employees are respected and entrusted with a greater degree of creative freedom.  
+The studio atmosphere will be more relaxed and informal than a large studio.  The goal is to create a pipeline without stiffling micromanagement or crunch, where employees are respected and entrusted with a greater degree of creative freedom.  
 
 Deadlines tend to be shorter in the commercial world, so there may still be some real-world limitations.  Dailies and deliverables would serve to keep everyone updated and on track.
 
