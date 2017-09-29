@@ -1,8 +1,8 @@
 ### Cinematography
 
-The cinematography for the attack scene is inspired by the velociraptor kitchen scene in Jurassic Park and the visceral bear attack scene in The Revenant.
+The cinematography for the attack scene is inspired by the velociraptor kitchen scene in *Jurassic Park* and the visceral bear attack scene in *The Revenant.*
 
-The end sequence is intended to be tonally similar to the end of Big Hero 6 when Hiro realizes that Baymax is planning to sacrifice himself to save him.
+The end sequence is intended to be tonally similar to the end of *Big Hero 6* when Hiro realizes that Baymax is planning to sacrifice himself to save him.
 
 ### Character Development
 The main thing that needs to be conveyed in the brief intro is that the two siblings are foils of eachother.  She is pragmatic, determined, and hardworking, while he is not really committed to doing anything useful with his time.  Instead of harvesting crops for winter, he is wandering around in the forest, unlikely to actually catch anything.
@@ -32,8 +32,11 @@ Since so many scenes are just the character wandering in the forest, the backgro
 The level design will also play an important role in the action sequence, as the character has to use the environment to her advantage.  In this situation, the forest that has so far been a major hindrance to her search is now ironically helping keep her alive.
 
 ### Continuity
+The ending of the short implies Regin could still be alive.  This will be left to the interpretation of the audience.
 
-The canonical events after the ending would be tied into the video game.  Heyward carries Regin out of the forest back to the homestead.  She recovers and immediately begins to berate him for his actions that nearly got her killed.  She demands to know what happened to him for the past few days, and why didn't he return.  He then explains his side of the story.
+Canonically, she lives.
+
+The events after the ending would be tied into the video game, if that gets made.  Heyward carries Regin out of the forest back to the homestead.  She recovers and immediately begins to berate him for his actions that nearly got her killed.  She demands to know what happened to him for the past few days, and why didn't he return.  He then explains his side of the story.
 
 
 
