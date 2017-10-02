@@ -10,7 +10,7 @@ Unless certain key factors fall into place for raising funds to fairly compensat
 ## Milestones and Collaboration
 I believe that the best ideas are usually the product of many different people contributing their creativity and ideas.  Hopefully that will prove true for this project.  
 
-A chatboard (Discord), Trello, and posts will help keep the project members updated and aware of progress.
+A chatboard (Discord), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and posts will help keep the project members updated and aware of progress.
 
 ## Payment
 Terms will be negotiated privately.  At this point in time, most of my personal savings have already been used up, so full-time payment will only be feasible after crowdfunding.
@@ -20,6 +20,13 @@ The project will be managed remotely.  I live in the middle of nowhere in North 
 
 Online communication channels will be set up, but the lack of a central studio is definitely going to cause some slight inconveniences.  Apologies in advance.  I will do my best to make things work.
 
+## Open Positions
+Currently only pre-vis designers and project leads are needed.  However, any programmers, game artists, voice actors, etc. are welcome to get in contact or join the project.  Just be aware that there might not be much for technical positions to do until more assets have been developed.
+
+[Available Positions](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Available%20Positions.md)
+
+[Game Dev Positions](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Game%20Dev%20Positions.md)
+
 ## Application
 Please send a short cover letter with some of the things you might be interested in working on. 
 
@@ -27,47 +34,4 @@ Please send a short cover letter with some of the things you might be interested
 
 Thanks for reading this far.  If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 48 hours.
 Contact: jcongerkallas1@gmail.com
-
-## Open Positions
-Currently only pre-vis designers and project leads are needed.  However, any programmers, game artists, voice actors, etc. are welcome to get in contact or join the project.  Just be aware that there might not be much for technical positions to do until more assets have been developed.
-
-### Pre-Vis
-- Art Director
-- Co-Director
-- Production Manager 
-- Illustrators
-- Concept Artist (Environments)
-- Concept Artist (Characters)
-- Storyboard Artist
-- Sound Designer
-- Writers
-
-### Crowdfunding
-- Campaign Manager
-
-### Production
-- Technical Director
-- Programmers
-- Lead Animator
-- Animators
-- Assistant Animators
-- VFX and Compositing Specialists
-
-### Independent Contractors
-- Voice Actors
-- Quality Assurance Testers
-- Accountant
-- Paralegal Advisor
-- Historians
-
-### Preferred Software Skills
-- Unity
-- Autodesk Maya
-- Blender
-- zBrush
-- After Effects
-- Photoshop
-- Substance Designer
-- Anime Studio Pro
-- ToonBoom
 
