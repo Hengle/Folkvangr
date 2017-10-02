@@ -50,11 +50,11 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 
 ### Trailer
 *Self-funded*
-- Story Reel/Demo Shots
-- Two Minute Teaser
+- **Story Reel/Demo Shots**
+- **Two Minute Teaser**
 
-*Goal- Patreon Supplemental Funds*
-- Six-Eight Minute Trailer
+*Crowdfunding Goal- Patreon Supplemental Funds*
+- **Six-Eight Minute Trailer**
 
 ![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/gripping_beast_4.jpg)
 ### Title Sequence
