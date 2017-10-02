@@ -42,11 +42,11 @@ The project is  being self-financed until a pitch can be made on  Kickstarter.  
 ![forest scene wip2](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail.jpg)
 
 ## Further Details and Application
-For more information, additional mockups and the Game Design Document files are being temporarily stored on [GitHub](https://github.com/jcongerkallas1/Brefhamer), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), [Artella](https://www.artella.com/#/project/7e749e21-8d3d-49bb-8a19-146cdf4a3030/overview), and [Discord](https://discordapp.com/channels/326900944862314506).
+For more information, additional mockups and the Game Design Document files are being temporarily stored on [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), [Artella](https://www.artella.com/#/project/7e749e21-8d3d-49bb-8a19-146cdf4a3030/overview), and [Discord](https://discordapp.com/channels/326900944862314506).
 
 Contact: jcongerkallas1@gmail.com
 
 
-*Cover art and environments by [Marius Janusonis](http://www.artofmarius.com/). Concept sketches by [Ludvik Skopalik](https://www.artstation.com/ludvikskp) and [Christof Grobelski](https://www.artstation.com/gloominati). Sound design by [Dirk Kluesing](https://soundcloud.com/irkluesing).*
+*Cover art and environments by [Marius Janusonis](http://www.artofmarius.com/), [Calina Sparhawk](https://www.artstation.com/calina), and [Ludvik Skopalik](https://www.artstation.com/ludvikskp).  Concept sketches by [Joshua Black](https://www.artstation.com/axis213) and [Christof Grobelski](https://www.artstation.com/gloominati). Sound design by [Dirk Kluesing](https://soundcloud.com/irkluesing).*
 
 
