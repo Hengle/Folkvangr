@@ -48,6 +48,14 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 - **Review and Refine Animation**
 - **Sound Design**
 
+### Trailer
+*Self-funded*
+- Story Reel/Demo Shots
+- Two Minute Teaser
+
+*Goal- Patreon Supplemental Funds*
+- Six-Eight Minute Trailer
+
 ![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/gripping_beast_4.jpg)
 ### Title Sequence
 The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a world tree motif, ouroboros, raven, or an alternate pretzel-beastie design depending how the 3D mockup turns out.  
