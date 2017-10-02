@@ -3,6 +3,8 @@
 
 ### October 2017
 - Scale Back Production Milestones
+- Updated breakdowns
+- Removed some cheesy parts from script v.5
 
 ### September 2017
 - Script Draft 5
