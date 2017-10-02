@@ -40,3 +40,7 @@ https://www.artstation.com/ludvikskp
 Concept Artist
 
 http://alberhuete.artstation.com/
+
+#### Sarah P.
+Editing
+
