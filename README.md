@@ -3,6 +3,13 @@
 
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
+## Project Overview
+In-depth production and story details can be found here.
+
+[Documentation](https://github.com/jcongerkallas1/Folkvangr/blob/master/DOCUMENTATION.md)
+
+![Chase](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/folkvangr_chase2.jpg)
+
 ## Production Goals and Art Style
 The goal is to produce an animated short/trailer. This can then be used as a proof of concept to pitch a crowdfunding campaign for a RPG style video game alpha. If it doesn't look like the funding goals will be met, the trailer can possibly be submitted to a festival screening instead.
 
