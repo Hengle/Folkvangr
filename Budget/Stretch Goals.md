@@ -2,9 +2,13 @@
 
 ### Trailer
 *Self-funded*
+- Two Minute Teaser
+
+*Patreon Goal- Supplemental Funds*
+- Six-Eight Minute Trailer
 
 ### Proto-Alpha Test Demo
-*Self-funded*
+*Patreon Goal- Supplemental Funds*
 - Basic Movement, Mechanics
 - Single room dungeon miniboss
 - Early Art Style Test
