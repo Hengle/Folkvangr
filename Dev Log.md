@@ -1,3 +1,9 @@
+### Special Thanks to All Project Contributors!
+[Contributors](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Team.md)
+
+### October 2017
+- Scale Back Production Milestones
+
 ### September 2017
 - Script Draft 5
 - Keyframes
