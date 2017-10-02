@@ -1,4 +1,4 @@
-![Stretch Goals](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/campaign_outline_promotional.jpg)
+![Stretch Goals](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/campaign_outline_promotional2.jpg)
 
 ### Trailer
 *Self-funded*
@@ -59,11 +59,11 @@
 
 *Stretch Goal: $210,000 More Exploration, NPCs, and Sidequests*
 
-*Stretch Goal: $250,000 Mounted Combat*
+*Stretch Goal: $250,000 More Armor Sets, Costumes*
 
-*Stretch Goal: $300,000 More Armor Sets, Costumes*
+*Stretch Goal: $300,000 Mounted Combat*
 
-### Part IV: Forsundr
+### Part IV: Gelion
 *Fundraising Goal: $80,000- 180,000*
 - Level 9, Level 8 new expanded areas
 - New Mechanics: Army AI
@@ -72,15 +72,17 @@
 - Final QA
 - Localization, Porting
 
-*Stretch Goal: $100,000 Exclusive Art Book*
-
-*Stretch Goal: $125,000 Special Edition, Bonus Content Multiple Endings*
-
-*Stretch Goal: $150,000 Developer's Interviews/Commentary Video*
+*Stretch Goal: $100,000 Character Creation Customization*
 
 *Stretch Goal: $180,000 Speedrun Mode, Secret End Boss*
 
 *Stretch Goal: $200,000 Most Requested Features*
 
-*Stretch Goal: $250,000 Console Porting*
+*Stretch Goal: $235,000 Special Edition, Bonus Content Multiple Endings*
+
+*Stretch Goal: $240,000 Developer's Interviews/Commentary Video*
+
+*Optional Stretch Goal: $245,000 Exclusive Art Book*
+
+*Optional Stretch Goal: $250,000 Console Porting*
 
