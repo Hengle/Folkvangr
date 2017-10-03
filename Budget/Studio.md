@@ -12,7 +12,9 @@ If there is a chance to establish a physical studio space, it would be based in 
 Atlanta looks to be one of the best markets for film and animation on the East Coast of the United States. It also is relatively close to major universities like SCAD.
 
 ### Studio Goals and Revenue Generation
-If established, the studio will need to generate a constant flow of stable income for all employees.  Possible long term goals would likely focus on producing small-scope indie games, story-driven shorts, or adult-oriented animation.  Freelance commissions for commercials and animated trailers might be a option.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.  
+If established, the studio will need to generate a constant flow of stable income for all employees.  Possible long term goals would likely focus on producing small-scope indie games, experimental story-driven shorts, or animated content that strives to go in a different direction.  
+
+Freelance commissions for commercials and animated trailers might be a option.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.  
 
 ### Proprietary Software
 Most studios generate a large portion of income through internal software and technology development.  This is easier said than done, especially when competing against established companies with better funding.
