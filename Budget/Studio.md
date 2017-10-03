@@ -12,12 +12,14 @@ If there is a chance to establish a physical studio space, it would be based in 
 Atlanta looks to be one of the best markets for film and animation on the East Coast of the United States. It also is relatively close to major universities like SCAD.
 
 ### Studio Goals and Revenue Generation
-If established, the studio will need to generate a constant flow of stable income for all employees.  Possible long term goals would likely focus on producing small-scope indie games, experimental story-driven shorts, or animated content that strives to go in a different direction.  
+If established, the studio will need to generate a constant flow of stable income for all employees.  Possible long term goals would likely focus on producing small-scope indie games. 
 
-Freelance commissions for commercials and animated trailers might be a option.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.  
+Freelance commissions for commercials and animated trailers might be a option.  The studio will emphasize multimedia and hybrid technology rather than pure 3D animation.   If possible it would be nice to keep in touch with experimental story-driven shorts, or animated content that strives to go in a different direction.  Maybe cinematic trailers might be an option.
 
 ### Proprietary Software
-Most studios generate a large portion of income through internal software and technology development.  This is easier said than done, especially when competing against established companies with better funding.
+Most studios generate a large portion of income through internal software and technology development.  This is easier said than done, especially when competing against established companies with better funding.  
+
+An open-source game engine with documentation and tutorial support would be the most obvious choice, though a character creation system, automated rigging tools, or level builders might be more specialized.  There isn't really any way to build a better engine than Unreal or Unity.
 
 ### Niche Audience
 A lot rests on whether the proposed video game sells well or not.  If the game doesn't overcome the sunk cost fallacy, then there likely won't be a future in the game design market.
