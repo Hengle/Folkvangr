@@ -35,7 +35,7 @@ It would be nice to build contacts in the open source community and keep the stu
 
 The office space should be fun.  No cubicles or windowless prisons.  Lots of wall space for posting artwork.  A comfortable area for meetings.
 
-9:00-5:00rs, weekends off
+9:00-5:00 hours, weekends off.
 
 ### Pipeline
 The studio atmosphere will be more relaxed and informal than a large studio.  The goal is to create a pipeline without stiffling micromanagement or crunch, where employees are respected and entrusted with a greater degree of creative freedom.  
