@@ -13,7 +13,7 @@
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 ### Synopsis
-The story focuses on the deuteragonist Regin as she searches for her missing brother who has vanished in the forest.  The events take place over the course of five days.  The timeline will be condensed with a series of atmospheric montage shots, with the primary action of the story taking place on the fourth day.
+The story primarily follows Regin's perspective as she searches for her missing brother who has vanished in the forest.  The events take place over the course of five or seven days.  The timeline will be condensed with a series of atmospheric montage shots, with the primary action of the story taking place on the fourth day.
 
 Since there isn't any dialogue or backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in seeing her overcome obstacles.  Despite facing a series of struggles, she displays determination and resolve to continue searching. 
 
@@ -65,7 +65,7 @@ The title will display the logo with superimposed rune letters rotating one by o
 [Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
 
 ### Credits
-There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins. If submitted to a film festival, the post-credits shots wouldn't be included. 
+There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins. If submitted to an animation festival, the post-credits shots wouldn't be included. 
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ### Experimental Animation Style Ideas
