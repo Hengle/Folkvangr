@@ -28,7 +28,7 @@ Currently only pre-vis designers and project leads are needed.  However, any pro
 [Game Dev Positions](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Game%20Dev%20Positions.md)
 
 ## Application
-Please send a short cover letter with some of the things you might be interested in working on. 
+Please send a short cover letter indicating what aspects of the project you might be interested in working on. 
 
 [Application Details](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Application.md)
 
