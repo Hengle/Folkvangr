@@ -25,5 +25,4 @@ If the fundraising campaign doesn't meet the first goal, other alternatives may 
 
 The most likely option will be to submitting the animated short to festivals.
 
-Creating a board game, card game, webcomic, etc. might be other options. 
 
