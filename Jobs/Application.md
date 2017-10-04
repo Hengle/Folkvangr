@@ -15,13 +15,14 @@ Below are some things that might optionally be nice to include in a cover letter
 
 It is preferable to avoid sending generic template resumes and long CVs, but if sent I'll take a look at them anyway.
 
-**List any software skills, preferred art medium, or other relevant experience and skills.**
-
-**Relevent Interests, Hobbies?**
+**List any software skills, preferred style/medium, or other relevant experience and skills.**
 
 **(Optional) General Regional Location/Time Zone:**
 
 **(Optional) Schedule/Hours Available?**
+
+**(Optional) Relevent Interests, Hobbies?**
+
 
 ## Contact
 If there are any questions about the project, feel free to contact me by email.  I generally try to reply within 48 hours.
