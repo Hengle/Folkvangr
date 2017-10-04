@@ -4,18 +4,13 @@
 ![forest](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/thumbnail_forest.jpg)
 
 ## Project Overview
-In-depth production and story details can be found here.
-
-[Pitch](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Pitch.md)
-
-![Chase](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/folkvangr_chase2.jpg)
-
-### Animated Trailer
-See annotated outline [here](https://github.com/jcongerkallas1/Folkvangr/blob/master/Trailer%20Outline.md).  Production files are being managed on [Trello](https://trello.com/b/b2Wf4KYK/folkvangr).  To track major project updates, visit the super exciting [Dev Log](https://github.com/jcongerkallas1/Folkvangr/blob/master/Dev%20Log.md) or [Discord](https://discordapp.com/channels/326900944862314506).
+In-depth production and story outline details can be found [here](https://github.com/jcongerkallas1/Folkvangr/blob/master/Trailer%20Outline.md).  Production files are being managed on [Trello](https://trello.com/b/b2Wf4KYK/folkvangr).  To track major project updates, visit the super exciting [Dev Log](https://github.com/jcongerkallas1/Folkvangr/blob/master/Dev%20Log.md) or [Discord](https://discordapp.com/channels/326900944862314506).
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/monastary_ruins_sketch_small.jpg)
 
 ### Game Development
+Development of a game is on hold until sufficient funds can be raised for production.  
+
 [Game Documentation](https://github.com/jcongerkallas1/Folkvangr/edit/master/DOCUMENTATION.md)
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
