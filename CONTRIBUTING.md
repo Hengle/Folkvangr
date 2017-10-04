@@ -10,7 +10,7 @@ Unless certain key factors fall into place for raising funds to fairly compensat
 ## Milestones and Collaboration
 I believe that the best ideas are usually the product of many different people contributing their creativity and ideas.  Hopefully that will prove true for this project.  
 
-A chatboard (Discord), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and posts will help keep the project members updated and aware of progress.
+A chatboard [Discord](https://discordapp.com/channels/326900944862314506), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and posts on Artella will help keep project members updated and aware of progress.
 
 ## Payment
 Terms will be negotiated privately.  At this point in time, most of my personal savings have already been used up, so full-time payment will only be feasible after crowdfunding.
