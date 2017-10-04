@@ -16,7 +16,7 @@ Development of a game is on hold until sufficient funds can be raised for produc
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/unused_forest_thumbnail2.jpg)
 
 ## Further Details and Application
-For more information, additional mockups and files are being temporarily stored on [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), [Artella](https://www.artella.com/#/project/7e749e21-8d3d-49bb-8a19-146cdf4a3030/overview), and [Discord](https://discordapp.com/channels/326900944862314506).
+For more information, check out the project pages on [Artella](https://www.artella.com/#/project/7e749e21-8d3d-49bb-8a19-146cdf4a3030/overview) or [Discord](https://discordapp.com/channels/326900944862314506).  If you want to get involved, just send a message or email. 
 
 Contact: jcongerkallas1@gmail.com
 
