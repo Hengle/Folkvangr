@@ -10,10 +10,14 @@ Unless certain key factors fall into place for raising funds to fairly compensat
 ## Milestones and Collaboration
 I believe that the best ideas are usually the product of many different people contributing their creativity and ideas.  Hopefully that will prove true for this project.  
 
-A chatboard [Discord](https://discordapp.com/channels/326900944862314506), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and posts on Artella will help keep project members updated and aware of progress.
+A chatboard on [Discord](https://discordapp.com/channels/326900944862314506), [Trello](https://trello.com/b/b2Wf4KYK/folkvangr), and posts on Artella will help keep project members updated and aware of progress.
 
 ## Payment
+The project is being self-financed until a pitch can be made on Kickstarter. Nobody is expected to work for free or to commit long-term without compensation.
+
 Terms will be negotiated privately.  At this point in time, most of my personal savings have already been used up, so full-time payment will only be feasible after crowdfunding.
+
+[Terms and Conditions](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Terms%20and%20Conditions.md)
 
 ## Studio and Remote Work
 The project will be managed remotely.  I live in the middle of nowhere in North Carolina, far from any industry centers.  This means that software, artist tools, and studio space will be the contributor's responsibility.
