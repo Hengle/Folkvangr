@@ -2,6 +2,12 @@
 ### Animated Trailer
 See annotated outline [here](https://github.com/jcongerkallas1/Folkvangr/blob/master/Trailer%20Outline.md).  Production files are being managed on [Trello](https://trello.com/b/b2Wf4KYK/folkvangr).  To track major project updates, visit the super exciting [Dev Log](https://github.com/jcongerkallas1/Folkvangr/blob/master/Dev%20Log.md) or [Discord](https://discordapp.com/channels/326900944862314506).
 
+[Script](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
+
+[Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Art_Direction.md)
+
+[Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script_notes.md)
+
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ### Game Development
 The [Wiki](https://github.com/jcongerkallas1/Folkvangr/wiki) is a living document that will be updated throughout production to reflect the ongoing developments.  Please consult the [Game Design Document](https://docs.google.com/document/d/14NL6Ybq0--aWO0dLyGVvOm7W_1fBtnR-dtbBz1jaMoc/edit?usp=sharing) or the 
