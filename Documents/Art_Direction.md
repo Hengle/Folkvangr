@@ -1,25 +1,37 @@
 # Production Design
+The art style spans historical Scandinavian, Anglo-Saxon, Bronze Age, and Early Medieval cultures.  The goal  is to include as much historical accuracy as possible.  Fantasy elements will be present, so this is not a hard rule that must be followed all the time.
+
+Historical reference will be used for inspiration for tools, weapons, costumes, architecture, and other designs.
 
 ## Visual Story Telling
 [Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script_notes.md)
+
+## Visual Style
+The forest section is much darker than other segments of the story, so tonally it is more claustrophobic and warped than the actual game would be if produced.
+
+Arthur Rackham, Eyvind Earle, Brian Froud, John Howe, and Alan Lee are some suggested influences for the visual art style.
+
+Possible game design influences include Telltale Games, The Secret of Kells, and The Banner Saga.  Narratively, this game will be very different from these titles.  
 
 ### Setting
 The homestead and search party are the only real glimpses at the culture of the world in the lmited scope of the short trailer.  Costume designs and architecture will need to reflect the agrarian society.  The constant background presense of old ruins and carved rune stones suggests that a more advanced ancient culture once existed, but has collapsed over time.  The villagers are kind of superstitious and afraid of these ruins and markings, which they associate with magic.
 
 The forest setting is the first initial hint at the scale of the larger world.  It needs to convey a sense of awe, as well as a looming sense of fear or dread.  There are many beautiful settings, but the forest is also a dangerous place that can prove fatal just as easily as it can inspire a sense of wonder.  
 
-## Visual Style
+### Knots
 A common theme in the first area is that the trees are twisted and interwoven like knotwork.  This will add some technical complexity to scenes.
 
 Knotwork patterns are reflected in many aspects of the society.  Knot styles can be found in the clothing motifs.  Knots symbolize fate and the bonds of kinship.
+
+### Runes, Ruins, and Artifacts
 
 Ruins and runes also play an important role.  The culture is based on Viking/Icelandic society before the rise of kingdoms.  The people still live in small close knit communities and clans.  There are not any large cities or stone buildings.  
 
 The lands are scattered with ancient ruins built by an ancient society.  Runestone markers were left behind.  The native descendents have assimilated and forgotten the language, so runes are viewed with suspicion, fear, and distrust, or alternatively reverence by those who remember the past.  
 
-Regin is notable for being one of the few truly interested in runes and the stories they tell.  Heyward has no real opinion on old artifacts at first.  He sees the objects as old and worthless, petty trinkets that peddlers sell.  Regin collects artifacts, so Heyward brings her rusty spearheads and and bits of stone wth runes on them when he happens to find the artifacts scattered around in fields or the forest.
+Regin is notable for being one of the few truly interested in runes and the stories they tell.  Heyward has no real opinion on old artifacts at first.  He sees the objects as old and worthless, petty trinkets that peddlers sell.  Regin collects artifacts, so Heyward brings her rusty spearheads and and bits of stone wth runes on them when he happens to find the artifacts scattered around in fields or the forest.  Most of the relics are fairly common and not worth much.  Regin is most interested in objects that have complete runes on them, because of the challenge of deciphering the text.
 
-## Low Fantasy
+### Low Fantasy
 While there are many aspects that would typify the story as a high fantasy, such as the presence of magic, prophesies, and mythical creatures, the story seeks to remain grounded in reality.  There are rules that prevent magic from being overused or overpowered, which would distract from the emphasis on the characters.
 
 ### Experimental Art Style
