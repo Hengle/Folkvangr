@@ -5,6 +5,10 @@
 
 [Revised Script Draft v.6](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
 
+[Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Art_Direction.md)
+
+[Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script_notes.md)
+
 [Scenes](https://docs.google.com/spreadsheets/d/1soiSnhoUNk8RovoLnLDJ6DYIq36NbLedOZQUKWtnhjE/edit?usp=sharing)
 
 [Scene Breakdowns](https://docs.google.com/spreadsheets/d/1O49k0T9nOEONyeSdslIZxbT2U-ZDwiXI7stlKnVHx1g/edit?usp=sharing)
