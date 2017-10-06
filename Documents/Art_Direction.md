@@ -3,10 +3,10 @@ The art style spans historical Scandinavian, Anglo-Saxon, Bronze Age, and Early 
 
 Historical reference will be used for inspiration for tools, weapons, costumes, architecture, and other designs.
 
-## Visual Story Telling
+### Visual Story Telling
 [Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script_notes.md)
 
-## Visual Style
+### Visual Style
 The forest section is much darker than other segments of the story, so tonally it is more claustrophobic and warped than the actual game would be if produced.
 
 Arthur Rackham, Eyvind Earle, Brian Froud, John Howe, and Alan Lee are some suggested influences for the visual art style.
