@@ -8,7 +8,7 @@ The medium for the game has yet to be established.  It is anticipated that chara
 
 The art style spans historical Scandinavian, Anglo-Saxon, Bronze Age, and Early Medieval cultures.  The goal  is to include as much historical accuracy as possible.  Fantasy elements will be present, so this is not a hard rule that must be followed all the time.
 
-Eyvind Earle, Brian Froud, Arthur Rackham, John Howe, and Alan Lee are some suggested influences for the visul art style.
+Eyvind Earle, Brian Froud, Arthur Rackham, John Howe, and Alan Lee are some suggested influences for the visual art style.
 
 Possible design influences include Telltale Games, The Secret of Kells, and The Banner Saga.  Narratively, this game will be very different from these titles.  
 
