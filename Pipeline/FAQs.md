@@ -76,6 +76,6 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 
 **Middle-earth: Shadow of Mordor:** Nemesis System, Switching Power Abilities
 
-**D&D, Baldur's Gate, Mount and Blade, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum:** 
+**D&D, Baldur's Gate, Mount and Blade, Magic: The Gathering, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum, etc.:** 
 Miscellaneous RPG Elements
 
