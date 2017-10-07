@@ -8,7 +8,7 @@ Professional quality standards apply.  Good communication skills are probably th
 
 Main paid positions will likely go to those with the right skills for the job.  In most cases this will boil down to portfolios, qualifications, and experience, but I try not to flatly deny people who are willing to help out in some way.  
 
-There may be assistant or junior-level positions available during certain points of the production, with opportunities for compensation or networking.
+There may be assistant or junior-level positions available during certain points of the production. 
 
 ### Artist Rights
 
@@ -21,7 +21,7 @@ Contributors may display artwork on their personal portfolios.  It is preferable
 ### Contracts
 Individuals can always request or negotiate terms or contracts.
 
-A Non-Disclosure agreement may be used during official production after the first crowdfunding campaign.  This may or may not be required.
+A Non-Disclosure agreement may be used during official production after the first crowdfunding campaign.  This may not be required.
 
 Artists may be asked to sign a permission form to allow use of cetain production designs for rewards in crowdfunding campaigns.
 
