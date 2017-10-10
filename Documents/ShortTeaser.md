@@ -1,9 +1,11 @@
 ![Mood Board](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/scenes_mood_board.jpg)
-*The trailer should be quick.  30 seconds max.  Atmospheric, Non-linear.  It will use some of the scenes that are listed in the script for the animated short.*
+*The trailer should be quick.  30 seconds max.  Atmospheric, Non-linear.  It will use some of the scenes that are listed in the [script](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb) for the animated short.*
 
-### Music
+### Teaser Part 1
 
-Shot 1:  The main character raises a lantern to illuminate the darkness around her.  She is small and alone in the middle of a forest.  
+Music begins to play.
+
+Shot 1:  The main character raises a lantern to illuminate the darkness around her.  She appears small and alone in the middle of an endless forest.  
 
 Fade out.
 
@@ -17,8 +19,8 @@ The music should end with the title, so that the post credits scene is silent as
 
 ### Cliffhanger Teaser
 
-Shot of the protagonist running and looking over her shoulder at the patch of trees behind her.  Pause for dramatic tension on the establishing shot on treeline.  The creature bursts out of the trees.  
+The protagonist is running when she bursts into a clearing area, where she pauses to catch her breath look over her shoulder at the patch of trees behind her.  Pause for dramatic tension on the establishing shot of the treeline.  Rustling and snapping branches can be heard.  The creature suddenly bursts out of the trees.  
 
-Final cutaway shot pans to follow the dynamic action as the protagonist starts running as if her life depended on it, dodging branches and jumping over fallen logs.  The creature starts to bound after her.
+Final cutaway shot pans to follow the dynamic action as the protagonist resumes running as if her life depended on it, dodging branches and jumping over fallen logs.  The creature starts to bound after her at a much faster rate than she can sprint.
 
-Sharp cut to end of teaser with blurb about crowdfunding and misc. website links.
+Sharp cut to end of teaser.  Info about the crowdfunding page and misc. website links will be displayed.
