@@ -1,8 +1,10 @@
+![Mood Board](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/scenes_mood_board.jpg)
 *The trailer should be quick.  30 seconds max.  Atmospheric, Non-linear.  It will use some of the scenes that are listed in the script for the animated short.*
 
 ### Music
 
 Shot 1:  The main character raises a lantern to illuminate the darkness around her.  She is small and alone in the middle of a forest.  
+
 Fade out.
 
 Cycle through a series of cinematic shots of the protagonist searching the forest.  Emphasize the environments and exploration aspect.  There will be a very loose sense of a story, but the visuals are the main focus of a teaser trailer.
@@ -17,6 +19,6 @@ The music should end with the title, so that the post credits scene is silent as
 
 Shot of the protagonist running and looking over her shoulder at the patch of trees behind her.  Pause for dramatic tension on the establishing shot on treeline.  The creature bursts out of the trees.  
 
-Final shot of her being chased.
+Final cutaway shot pans to follow the dynamic action as the protagonist starts running as if her life depended on it, dodging branches and jumping over fallen logs.  The creature starts to bound after her.
 
 Sharp cut to end of teaser with blurb about crowdfunding and misc. website links.
