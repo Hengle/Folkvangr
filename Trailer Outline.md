@@ -3,6 +3,8 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
+[Short 30 Second Teaser](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/ShortTeaser.md)
+
 [Revised Script Draft v.6](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
 
 [Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Art_Direction.md)
@@ -52,13 +54,14 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 - **Review and Refine Animation**
 - **Sound Design**
 
-### Trailer
+### Teaser Trailer
 *Self-funded*
 - **Story Reel/Demo Shots**
-- **Two Minute Teaser**
+- **30 Second Teaser**
 
+### Animated Short/Proof of Concept
 *Crowdfunding Goal- Patreon Supplemental Funds*
-- **Six-Eight Minute Trailer**
+- **Six-Eight Minute Trailer** or **Game Proto-Alpha**
 
 ![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/gripping_beast_4.jpg)
 ### Title Sequence
