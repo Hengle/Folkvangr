@@ -14,7 +14,7 @@ Arthur Rackham, Eyvind Earle, Brian Froud, John Howe, and Alan Lee are some sugg
 Possible game design influences include Telltale Games, The Secret of Kells, and The Banner Saga.  Narratively, this game will be very different from these titles.  
 
 ### Setting
-The homestead and search party are the only real glimpses at the culture of the world in the lmited scope of the short trailer.  Costume designs and architecture will need to reflect the agrarian society.  The constant background presense of old ruins and carved rune stones suggests that a more advanced ancient culture once existed, but has collapsed over time.  The villagers are kind of superstitious and afraid of these ruins and markings, which they associate with magic.
+The homestead and search party are the only real glimpses at the culture of the world in the limited scope of the short trailer.  Costume designs and architecture will need to reflect the agrarian society.  The constant background presense of old ruins and carved rune stones suggests that a more advanced ancient culture once existed, but has collapsed over time.  The villagers are kind of superstitious and afraid of these ruins and markings, which they associate with magic.
 
 The forest setting is the first initial hint at the scale of the larger world.  It needs to convey a sense of awe, as well as a looming sense of fear or dread.  There are many beautiful settings, but the forest is also a dangerous place that can prove fatal just as easily as it can inspire a sense of wonder.  
 
@@ -27,7 +27,7 @@ Knotwork patterns are reflected in many aspects of the society.  Knot styles can
 
 Ruins and runes also play an important role.  The culture is based on Viking/Icelandic society before the rise of kingdoms.  The people still live in small close knit communities and clans.  There are not any large cities or stone buildings.  
 
-The lands are scattered with ancient ruins built by an ancient society.  Runestone markers were left behind.  The native descendents have assimilated and forgotten the language, so runes are viewed with suspicion, fear, and distrust, or alternatively reverence by those who remember the past.  
+The lands are scattered with ancient ruins built by an ancient culture, usually attributed to giants, dwarves, or elves.  Runestone markers were left behind.  The native descendents have assimilated and forgotten the language, so runes are viewed with suspicion, fear, and distrust, or alternatively reverence by those who remember the past.  
 
 Regin is notable for being one of the few truly interested in runes and the stories they tell.  Heyward has no real opinion on old artifacts at first.  He sees the objects as old and worthless, petty trinkets that peddlers sell.  Regin collects artifacts, so Heyward brings her rusty spearheads and and bits of stone wth runes on them when he happens to find the artifacts scattered around in fields or the forest.  Most of the relics are fairly common and not worth much.  Regin is most interested in objects that have complete runes on them, because of the challenge of deciphering the text.
 
