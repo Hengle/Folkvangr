@@ -20,6 +20,6 @@ Details on how to get involved on the project can be found [here.](https://githu
 
 Contact: jcongerkallas1@gmail.com
 
-*Cover art and environments by [Marius Janusonis](http://www.artofmarius.com/), [Calina Sparhawk](https://www.artstation.com/calina), and [Ludvik Skopalik](https://www.artstation.com/ludvikskp).  Concept sketches by [Joshua Black](https://www.artstation.com/axis213) and [Christof Grobelski](https://www.artstation.com/gloominati). Sound design by [Dirk Kluesing](https://soundcloud.com/irkluesing).*
+*Cover art and environments by [Marius Janusonis](http://www.artofmarius.com/), [Calina Sparhawk](https://www.artstation.com/calina), and [Ludvik Skopalik](https://www.artstation.com/ludvikskp).  Concept sketches by [Christof Grobelski](https://www.artstation.com/gloominati).  Creature design by [Joshua Black](https://www.artstation.com/axis213).  Sound design by [Dirk Kluesing](https://soundcloud.com/irkluesing).*
 
 
