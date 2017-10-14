@@ -17,7 +17,7 @@ Title Overlay Credits
 
 The music should end with the title, so that the post credits scene is silent aside from the sound effects.
 
-### Cliffhanger Teaser
+### Teaser Part 1: Cliffhanger
 
 The protagonist is running when she bursts into a clearing area, where she pauses to catch her breath look over her shoulder at the patch of trees behind her.  Pause for dramatic tension on the establishing shot of the treeline.  Rustling and snapping branches can be heard.  The creature suddenly bursts out of the trees.  
 
