@@ -54,6 +54,7 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 - **Review and Refine Animation**
 - **Sound Design**
 
+![creature design](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/ettin_highpoly_closeup.jpg)
 ### Teaser Trailer
 *Self-funded*
 - **Story Reel/Demo Shots**
