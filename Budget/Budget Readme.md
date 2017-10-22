@@ -14,6 +14,13 @@ The crowdfunding goal is estimated around $8,000-15,000 to create a game alpha f
 
 Milestone markers and community updates would be scheduled to occur at regular intervals during development.  A conservative estimate for a small team producing a full game would likely take three or more years to finish.
 
+## Funding Amount
+The funding goals will be adjusted to the scope of the project and the collective experience of the team.
+
+$30,000 is a more reasonable scope for a small indie team.
+
+$400,000+ assumes prior establishment of a studio, pipeline, experienced developers, and other overhead costs.
+
 ## Risk Mitigation
 
 Attempting to produce an entire alpha game is impractical until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into smaller chunks so that the goals are achievable.  This way contributors can make smaller commitments, and there is less of a loss if the project doesn't work out.
