@@ -4,6 +4,11 @@ Writer, Production Manager, 3D Modeler, Animator
 
 Contact: jcongerkallas1@gmail.com
 
+#### Margot Lathiere
+Storyboard Artist, Illustrator
+
+https://margotlathiere.jimdo.com/
+
 #### Calina Sparhawk
 Keyframe Artist, Concept Designer
 
