@@ -74,6 +74,8 @@ The title will display the logo with superimposed rune letters rotating one by o
 
 [Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
 
+![Runestone](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/fallen_tree_runestone.jpg)
+
 ### Credits
 There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins. If submitted to an animation festival, the post-credits shots wouldn't be included. 
 
