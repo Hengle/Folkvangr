@@ -5,9 +5,10 @@ The game will embrace classic RPG tactics and class systems, but it will focus m
 The goal is to create compact well-designed maps rather than large open maps that feel kind of empty, in the vein of level design in *Dark Souls* or *Dishonored*.  Level sections will have unique visuals to distinguish from the other areas.
 
 ### What will the gameplay be like?
-Combat will be faster paced so that players can play in real time or pause combat to plan tactics.  
 
-The party will support 2-8 party members, but will generally be split up to into smaller 2-4 person teams.
+The party will support 2-8 party members, but will generally be split up to into smaller 2-4 person teams.  The player can switch between the characters.
+
+The combat will implement a hybrid system. The player can choose fast-paced real time combat or pause combat to plan tactics and direct party members.  
 
 Customization and exploration will be more limited, but the game levels and encounters will be crafted to be more balanced as a result.
 
