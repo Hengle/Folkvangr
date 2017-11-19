@@ -1,4 +1,4 @@
-![Mood Board](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/scenes_mood_board.jpg)
+![Mood Board](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/mood_board.jpg)
 *The trailer should be quick.  30 seconds max.  Atmospheric, Non-linear.  It will use some of the scenes that are listed in the [script](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb) for the animated short.*
 
 ### Teaser Part 1
@@ -17,7 +17,7 @@ Title Overlay Credits
 
 The music should end with the title, so that the post credits scene is silent aside from the sound effects.
 
-### Teaser Part 1: Cliffhanger
+### Teaser Part 2: Cliffhanger
 
 The protagonist is running when she bursts into a clearing area, where she pauses to catch her breath look over her shoulder at the patch of trees behind her.  Pause for dramatic tension on the establishing shot of the treeline.  Rustling and snapping branches can be heard.  The creature suddenly bursts out of the trees.  
 
