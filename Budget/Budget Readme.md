@@ -21,6 +21,10 @@ $30,000 is a more reasonable scope for a small indie team.
 
 $400,000+ assumes prior establishment of a studio, pipeline, experienced developers, and other overhead costs.
 
+## Reasonable Scope
+
+The amount of content and features that will go into the game relies entirely on the number of available crew and the time the crew is able to dedicate to working on the project.  Quality games take a long time to produce, so some of the higher requested funding amounts reflect fair full-time salaries rather than part-time contracts.
+
 ## Risk Mitigation
 
 Attempting to produce an entire alpha game is impractical until a trailer is ready and showing promising signs of being funded.  The plan is to focus on breaking the project down into smaller chunks so that the goals are achievable.  This way contributors can make smaller commitments, and there is less of a loss if the project doesn't work out.
