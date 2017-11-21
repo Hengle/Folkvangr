@@ -21,7 +21,7 @@ Contributors may display artwork on their personal portfolios.  It is preferable
 ### Contracts
 Individuals can always request or negotiate terms or contracts.
 
-A Non-Disclosure agreement may be used during official production after the first crowdfunding campaign.  This may not be required.
+A Non-Disclosure agreement may be used during official production after the first crowdfunding campaign.  This may not be required.  I'm not really a big fan of NDAs or the constraints they place on production crews, so if they can potentially be avoided, that might happen. Spoilers and early negative reviews aren't exactly a major concern since the game would be completed in installments, with patches being worked into the development schedule.
 
 Artists may be asked to sign a permission form to allow use of cetain production designs for rewards in crowdfunding campaigns.
 
