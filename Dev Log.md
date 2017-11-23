@@ -1,6 +1,12 @@
 ### Special Thanks to All Project Contributors!
 [Contributors](https://github.com/jcongerkallas1/Folkvangr/blob/master/Jobs/Team.md)
 
+### November 2017
+- Mood Board
+- Storyboard
+- Costume Design
+- Story Revisions
+
 ### October 2017
 - Scale Back Production Milestones
 - Updated breakdowns
