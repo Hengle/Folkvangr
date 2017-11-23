@@ -62,22 +62,20 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 - **Story Reel/Demo Shots**
 - **30 Second Teaser**
 
+![Runestone](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/fallen_tree_runestone.jpg)
+
 ### Animated Short/Proof of Concept
 *Crowdfunding Goal- Patreon Supplemental Funds*
 - **Six-Eight Minute Trailer** or **Game Proto-Alpha**
 
-![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/gripping_beast_4.jpg)
+![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/title_v1.jpg)
+
 ### Title Sequence
 The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a world tree motif, ouroboros, raven, or an alternate pretzel-beastie design depending how the 3D mockup turns out.  
 
 The title will display the logo with superimposed rune letters rotating one by one into recognizable alphabet letters.  
 
 [Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
-
-![Runestone](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/fallen_tree_runestone.jpg)
-
-### Credits
-There might be a brief post credits scene teasing the game, if there is time leftover to squeeze in a shot of the ruins. If submitted to an animation festival, the post-credits shots wouldn't be included. 
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_scene_pencil_sketch.jpg)
 ### Experimental Animation Style Ideas
