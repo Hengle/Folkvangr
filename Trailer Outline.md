@@ -71,9 +71,9 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 ![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/title_v1.jpg)
 
 ### Title Sequence
-The current logo mockup is based on a traditional Norse motif called a gripping beast.  It might get changed to a world tree motif, ouroboros, raven, or an alternate pretzel-beastie design depending how the 3D mockup turns out.  
+If animated, the title will display the logo with superimposed rune letters rotating one by one into recognizable alphabet letters.  
 
-The title will display the logo with superimposed rune letters rotating one by one into recognizable alphabet letters.  
+The previous logo mockup was based on a traditional Norse motif called a gripping beast.  It will probably get changed to a world tree motif, ouroboros, raven, or an alternate pretzel-beastie design.  
 
 [Music Theme Intro](https://soundcloud.com/irkluesing/ravensong-master-6-10-17/s-8Oou2)
 
