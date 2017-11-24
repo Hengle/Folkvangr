@@ -7,7 +7,7 @@ The game will emphasize the exploration and party system of an RPG, with a tacti
 
 ### Game Overview
 
-Instead of basing the narrative on a modernized reinterpretation of Ragnarok, Asgard, or another tale of larger than life heroes saving the world, the game would focus on reinterpreting the other lesser known aspects of Scandinavian, Icelandic, and Anglo-Saxon mythology and cultures.  The art style and themes will be loosely based on evidence from archaeological excavations and accounts such as the *Prose Edda.*  
+Instead of basing the narrative on a modernized reinterpretation of Ragnarok, Asgard, or another tale of larger than life heroes saving the world, the game would focus on other lesser known aspects of Scandinavian, Icelandic, and Anglo-Saxon mythology and cultures.  Unlike many fantasy games that take many liberties in regards to historical realism, the art style and themes will be loosely based on evidence from archaeological excavations and accounts such as the *Prose Edda.*  
 
 The game will touch upon technology, social status, warfare, superstition, and bardic storytelling.  Decisions are in the player's hands as they progress through levels.  There will be plentiful options for customizing class builds and skill trees.
 
