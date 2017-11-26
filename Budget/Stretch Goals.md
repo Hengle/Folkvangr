@@ -17,6 +17,8 @@
 ### Part I: Folkvangr Alpha
 *Fundraising Goal: $8,000-15,000*
 - Base Levels 1-2, Forest and Village Hub 
+- 2 World Maps: Forest and Village Area 
+- 5 Smaller Location Maps and Dungeons: Homestead, Festival Grounds, Magre, Sognharral, Ruins
 - 2 Minibosses, 2-4 Boss Encounters
 - UI
 - Alpha for Level 3
@@ -24,14 +26,14 @@
 
 *Stretch Goal: $20,000 - 2 Additional Party Members: Hunter and Mage*
 
-*Stretch Goal: $25,000 Mage Citadel Hub Area*
+*Stretch Goal: $25,000 Complete Mage Citadel Hub Area*
 
 *Stretch Goal: $30,000 Marshes Level Alpha, Healer Early Access* 
 
-*Stretch Goal: $45,000 Voice Actors, Patron Exclusive Content*
+*Stretch Goal: $45,000 Extra Voice Actors, More Sidequests, Patron Exclusive Content*
 
 ### Part II: Urnath
-*Fundraising Goal: $80,000-$200,000*
+*Fundraising Goal: $40,000-$200,000*
 - Levels 4-6 Town, Mountains, Ruins, Dungeons
 - 4 Minibosses, 3 Boss Encounters
 - New Abilities: Enhanced Stealth and Thieving
@@ -39,7 +41,7 @@
 - Two New Party Members: Healer and Bard
 - More Enemy Types
 
-*Stretch Goal: $90,000 Two Additional Classes: Berserker and Warrior*
+*Stretch Goal: $80,000 Two Additional Classes: Berserker and Warrior*
 
 *Stretch Goal: $150,000 Homestead Level Hub Early Access*
 
