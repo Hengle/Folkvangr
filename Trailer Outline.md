@@ -71,7 +71,9 @@ Since there isn't any dialogue or backstory provided in the limited scope of the
 ![logo](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/title_v1.jpg)
 
 ### Title Sequence
-If animated, the title will display the logo with superimposed rune letters rotating one by one into recognizable alphabet letters.  
+Folkvangr is a working title for the project.  When a better name is finalized, the title logo will be created.
+
+If animated, the title will display the logo with superimposed rune letters rotating one by one into recognizable alphabet letters.  The background will probably involve some kind of knotwork motif.
 
 The previous logo mockup was based on a traditional Norse motif called a gripping beast.  It will probably get changed to a world tree motif, ouroboros, raven, or an alternate pretzel-beastie design.  
 
