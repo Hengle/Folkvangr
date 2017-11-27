@@ -332,3 +332,42 @@ The camera shifts to a far perspective that makes her crumpled
 form look small and still.  It lingers on this view, and she 
 does not move at all. Time passes. 
 
+
+The last scene cuts to her hunched over with head bowed to
+her knees, either sleeping or sobbing. 
+
+EXT. FOREST TREE - EARLY OR MID DAY
+
+SHARP CUT TO MID RANGE SHOT.  Regin is curled up in a fetal 
+position, with her cloak wrapped around her like a blanket.
+
+Her pack and lantern are thrown haphazardly to the side.  She looks 
+exhausted and probably hasn't slept properly in days.
+
+It is slightly damp and the morning fog has not cleared away.
+
+She hears a RUSTLING NOISE.  She tries to ignore it and pulls 
+the cloak over her head, not wanting to wake up.  
+The rustling sounds again, closer.
+
+Regin brushes a strand of tangled hair out of her eyes. 
+She tilts her head trying to peer around the tree, but doesn't 
+have enough energy to expend on the effort.  She slumps back against 
+the tree.  She closes her eyes and her head lolls to one side as 
+she seems to be drifting back asleep.
+
+A second heavier CRASH of a small sapling snapping and
+bushes rustling sounds close by. 
+
+She is startled and wearily staggers to her feet.  Her legs
+are still weak from walking for days.  She leans heavily 
+against the tree and peers through the distant fog.
+
+Something is moving in the trees a short distance away. 
+She rubs her eyes. She cannot make out what it is, but it 
+is large and heading straight towards her. She crouches back 
+behind the tree and tries to collect herself. The only thing 
+she can think to do is hide.
+
+SFX: THE SOUND DESIGN SHOULD CONVEY THE SENSE OF SLOW MOVING
+WEIGHT, SHUFFLING AND DRAGGING ACROSS FOREST FLOOR LEAVES.
