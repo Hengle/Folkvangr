@@ -1,3 +1,35 @@
+EXT. FOREST CLEARING - SUNRISE
+
+Time passes.
+
+Regin staggers up a hillcrest.  Her breathing is ragged.
+She is badly injured from her fight with the forest creature, 
+far worse than believed earlier.  The injuries probably occured 
+when she was swung into the rocks.  She also lost her pack and 
+all of her supplies.
+
+The sun is setting on the treeline, indicating yet another 
+day has passed without success. She stumbles and collapses.  She 
+tries to get up again but her legs refuse to work and she falls 
+a second time.  She wearily crawls over to rest beneath a tree.
+
+At this moment she has practically given up all hope of 
+finding her brother alive. 
+
+She seems to struggle with the decision to continue on with 
+the search, but no longer has the energy or willpower to keep going.  
+
+She examines her PENDANT, a memento given to her by her brother. 
+She takes off the necklace and holds the little charm tightly 
+in her left hand.
+
+She closes her eyes, and her breathing slows.  To the audience 
+she appears to be sleeping or unconscious, not quite dead.
+
+The camera shifts to a far perspective that makes her crumpled 
+form look small and still.  It lingers on this view, and she 
+does not move at all. Time passes. 
+
 EXT. FOREST - MORNING
 
 A forester is seen venturing into the woods. A static shot
@@ -240,3 +272,63 @@ her. They embrace in the final shot.
                                              CUT TO CREDITS.
 
 EXT. FOREST RUINS- POST CREDITS (OPTIONAL)
+
+
+EXT. FOREST - CONTINUOUS
+
+Cut scene
+
+She is running through the forest. Branches and thorns claw
+at her cloak and face, slowing her down. 
+
+She moves to duck under a tree overhang, but as she glances 
+back over her shoulder she hits her head on a thick protruding 
+branch. She is forcefully knocked down and has to take a few 
+seconds to process what happened.  When she removes her hand 
+from her forehead, it is covered in wet blood. She curses.
+
+The creature can be heard behind her getting closer.
+
+She frantically scrambles to crawl under the branch, but the 
+path is blocked with more dense underbrush.  She will have to 
+go a different route. Her movements are unsteady as she hit 
+her head quite hard.
+
+She doesn't know where she is going, but the creature is
+directly behind her.  She does not have time to think, only
+run.
+
+
+EXT. FOREST CLEARING - SUNRISE
+Cut scene after she escapes the ravine
+
+Time passes.
+
+Regin staggers up a hillcrest.  Her breathing is ragged.
+She is badly injured from her fight with the forest creature, 
+far worse than believed earlier.  The injuries probably occured 
+when she was swung into the rocks.  She also lost her pack and 
+all of her supplies.
+
+The sun is setting on the treeline, indicating yet another 
+day has passed without success. She stumbles and collapses.  She 
+tries to get up again but her legs refuse to work and she falls 
+a second time.  She wearily crawls over to rest beneath a tree.
+
+At this moment she has practically given up all hope of 
+finding her brother alive. 
+
+She seems to struggle with the decision to continue on with 
+the search, but no longer has the energy or willpower to keep going.  
+
+She examines her PENDANT, a memento given to her by her brother. 
+She takes off the necklace and holds the little charm tightly 
+in her left hand.
+
+She closes her eyes, and her breathing slows.  To the audience 
+she appears to be sleeping or unconscious, not quite dead.
+
+The camera shifts to a far perspective that makes her crumpled 
+form look small and still.  It lingers on this view, and she 
+does not move at all. Time passes. 
+
