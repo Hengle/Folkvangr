@@ -7,7 +7,7 @@
 
 [Teaser Breakdown](https://docs.google.com/spreadsheets/d/18mjPXGELkkLXWfYmBkXutbYODC72F1Pq4-kggU4Dnno/edit?usp=sharing)
 
-[Revised Script Draft v.6](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
+[Revised Script Draft v.7](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
 
 [Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Art_Direction.md)
 
