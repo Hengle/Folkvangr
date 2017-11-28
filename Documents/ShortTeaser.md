@@ -1,8 +1,6 @@
 ![Mood Board](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/mood_board.jpg)
 *The trailer should be quick.  30 seconds max.  Atmospheric, Non-linear.  It will use some of the scenes that are listed in the [script](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb) for the animated short.*
 
-
-
 [Teaser Breakdown](https://docs.google.com/spreadsheets/d/18mjPXGELkkLXWfYmBkXutbYODC72F1Pq4-kggU4Dnno/edit?usp=sharing)
 
 [Scene Breakdowns](https://docs.google.com/spreadsheets/d/1O49k0T9nOEONyeSdslIZxbT2U-ZDwiXI7stlKnVHx1g/edit?usp=sharing)
@@ -28,6 +26,8 @@ Speed up editing, then cut to the title.
 Title Overlay Credits
 
 The music should end with the title, so that the post credits scene is silent aside from the sound effects.
+
+[Story Reel](https://drive.google.com/open?id=1phyFQPX-D2Wgpb_naN6SoEtMqj_PmNSH)
 
 ![creature design](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/ettin_highpoly_sideview.jpg)
 
