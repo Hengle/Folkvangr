@@ -5,8 +5,6 @@
 
 [Short 30 Second Teaser](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/ShortTeaser.md)
 
-[Teaser Breakdown](https://docs.google.com/spreadsheets/d/18mjPXGELkkLXWfYmBkXutbYODC72F1Pq4-kggU4Dnno/edit?usp=sharing)
-
 [Revised Script Draft v.7](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
 
 [Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Art_Direction.md)
@@ -14,10 +12,6 @@
 [Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script_notes.md)
 
 [Scenes](https://docs.google.com/spreadsheets/d/1soiSnhoUNk8RovoLnLDJ6DYIq36NbLedOZQUKWtnhjE/edit?usp=sharing)
-
-[Scene Breakdowns](https://docs.google.com/spreadsheets/d/1O49k0T9nOEONyeSdslIZxbT2U-ZDwiXI7stlKnVHx1g/edit?usp=sharing)
-
-[Exposure Sheet Template](https://docs.google.com/spreadsheets/d/17MuCUg5NwhyVl2NZp06m9p3Ug7RId467MvHyuk9bij0/edit?usp=sharing)
 
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forest_thumbs3.jpg)
 ### Synopsis
