@@ -3,7 +3,7 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/master/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-[Short 30 Second Teaser](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/ShortTeaser.md)
+[Trailer Storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/ShortTeaser.md)
 
 [Revised Script Draft v.7](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
 
@@ -17,7 +17,7 @@
 ### Synopsis
 The story primarily follows Regin's perspective as she searches for her missing brother who has vanished in the forest.  The events take place over the course of five or seven days.  The timeline will be condensed with a series of atmospheric montage shots, with the primary action of the story taking place on the fourth day.
 
-Since there isn't any dialogue or backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in seeing her overcome obstacles.  Despite facing a series of struggles, she displays determination and resolve to continue searching. 
+Since there isn't any dialogue or extensive backstory provided in the limited scope of the trailer, the character will need to be relatable through her actions, motives, and expressions.  The goal is to make the audience feel invested in seeing her overcome obstacles.  Despite facing a series of struggles, she displays determination and resolve to continue searching. 
 
 ![character mockup](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/characters_final.jpg)
 
