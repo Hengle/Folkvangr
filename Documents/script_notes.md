@@ -1,3 +1,5 @@
+![Costume Thumbnails](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/regin_costumes.jpg)
+
 ### Cinematography
 
 The cinematography for the attack scene is inspired by the velociraptor kitchen scene in *Jurassic Park* and the visceral bear attack scene in *The Revenant.*  The violence will be toned down slightly though.
