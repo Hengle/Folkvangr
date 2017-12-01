@@ -36,4 +36,6 @@ If the fundraising campaign doesn't meet the first goal, other alternatives may 
 
 The most likely option will be to submitting the animated short to festivals.
 
+The other option is to create a stripped down indie game that discards most of the story and RPG elements.  This would most likely develop into a simple platformer revolving around the mechanic of solving puzzles or navigating around obstacles, enemies, and levels using a set of mechanics-driven abilities. 
+
 
