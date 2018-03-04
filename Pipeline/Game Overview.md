@@ -3,13 +3,15 @@
 
 Synopsis: Two siblings with little in common find themselves on a journey to uncover the secret behind an artifact that prevents souls from entering the halls of the dead. 
 
-The game will emphasize the exploration and party system of an RPG, with a tactical RTS combat system.
+The game will emphasize exploration.
 
 ### Game Overview
 
 Instead of basing the narrative on a modernized reinterpretation of Ragnarok, Asgard, or another tale of larger than life heroes saving the world, the game would focus on other lesser known aspects of Scandinavian, Icelandic, and Anglo-Saxon mythology and cultures.  Unlike many fantasy games that take many liberties in regards to historical realism, the art style and themes will be loosely based on evidence from archaeological excavations and accounts such as the *Prose Edda.*  
 
 The game will touch upon technology, social status, warfare, superstition, and bardic storytelling.  Decisions are in the player's hands as they progress through levels.  There will be plentiful options for customizing class builds and skill trees.
+
+[Game Alpha](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Game_Alpha.md)  
 
 [FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/FAQs.md)  
 
