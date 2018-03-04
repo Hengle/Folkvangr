@@ -18,7 +18,7 @@ For additional info on the projected development process:
 
 [Game Overview](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Game%20Overview.md)
 
-[FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/FAQs.md)  
+[Game Alpha](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Game_Alpha.md)
 
 [Budget](https://github.com/jcongerkallas1/Folkvangr/blob/master/Budget/Budget%20Readme.md)
 
@@ -27,6 +27,8 @@ For additional info on the projected development process:
 [Style Guide](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Style%20Guide.md)
 
 [Pipeline](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/Pipeline%20Overview.md)
+
+[FAQs](https://github.com/jcongerkallas1/Folkvangr/blob/master/Pipeline/FAQs.md)  
 
 
  
