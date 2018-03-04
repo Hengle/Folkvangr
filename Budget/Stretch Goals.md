@@ -18,11 +18,16 @@
 *Fundraising Goal: $8,000-15,000*
 - Base Levels 1-2, Forest and Village Hub 
 - 2 World Maps: Forest and Village Area 
-- 5 Smaller Location Maps and Dungeons: Homestead, Festival Grounds, Magre, Sognharral, Ruins
 - 2 Minibosses, 2-4 Boss Encounters
-- UI
-- Alpha for Level 3
 - 2 Main Playable Characters: Rogue and Warrior
+- UI
+
+### Product Release
+If the game alpha receives backing or shows signs of selling decently in early access or a product release, there may be an opportunity to continue the game more in the lines of a traditional RPG. The story could be relayed in an incremental episodic format.  Planning would need to account for establishing a full-time studio with a core team of developers.
+
+*Fundraising Goal: $40,000-$200,000*
+- Alpha for Level 3
+- 5 Smaller Location Maps and Dungeons: Homestead, Festival Grounds, Magre, Sognharral, Ruins
 
 *Stretch Goal: $20,000 - 2 Additional Party Members: Hunter and Mage*
 
