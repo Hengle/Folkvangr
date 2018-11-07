@@ -1,4 +1,4 @@
-![Stream](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/Folkvangr_stream_small.jpg)
+![Stream](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/Images/Folkvangr_stream_small.jpg)
 ### Will the game be a true open world RPG?
 The game will embrace classic RPG tactics and class systems, but it will focus more on a traditional narrative.  Due to the limits of funding and scope, there will be some limits with map sizes and graphics quality.  
 
