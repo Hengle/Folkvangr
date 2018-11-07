@@ -3,13 +3,13 @@
 ![storyboard](https://github.com/jcongerkallas1/Brefhamer/blob/game-design/Images/forestsketchdetailed.jpg)
 ### Trailer Script
 
-[Trailer Storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/ShortTeaser.md)
+[Trailer Storyboard](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/Documents/ShortTeaser.md)
 
-[Revised Script Draft v.7](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script.mb)
+[Revised Script Draft v.7](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/Documents/script.mb)
 
-[Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/Art_Direction.md)
+[Art Direction](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/Documents/Art_Direction.md)
 
-[Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/master/Documents/script_notes.md)
+[Script Notes](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/Documents/script_notes.md)
 
 [Scenes](https://docs.google.com/spreadsheets/d/1soiSnhoUNk8RovoLnLDJ6DYIq36NbLedOZQUKWtnhjE/edit?usp=sharing)
 
