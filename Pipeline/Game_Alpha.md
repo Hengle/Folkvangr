@@ -1,4 +1,4 @@
-![Stream](https://github.com/jcongerkallas1/Folkvangr/blob/master/Images/Background2.png)
+![Stream](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/Images/Background2.png)
 ### Scope
 The alpha is only intended to give a feel for the game.  It will not be a complete game.  Only the first intro level will be included
 
