@@ -60,6 +60,7 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 **Game of Thrones:** Grounded Use of Magic, Balancing a large cast and separate story arcs
 
 ### Game Design Inspirations?
+Note: The game will not attempt to copy all of these game systems.
 
 **Supergiant Games:** Adjustable Difficulty Limits
 
