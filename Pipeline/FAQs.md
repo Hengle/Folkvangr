@@ -43,21 +43,29 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 
 ### Inspiration and Influences?
 
-**Prose Edda:** Mythology References
+**Prose Edda:** Norse Mythology References
 
 **Icelandic Sagas (Grettis Saga, Njáls Saga, Laxdæla Saga, Egils Saga, Gísla Saga, Hrafnkels Saga):** Narrative Themes
 
-**Beowulf, The Ring Cycle:** Mythology References
+**Beowulf, The Ring Cycle, Arthurian and Celtic Mythology:** Mythology References
 
 **The Hero with a Thousand Faces by Joseph Campbell:** Monomyth
 
-**The Silmarillion:** The Mythology, Lore, and Worldbuilding
+**Lord of the Rings, The Silmarillion:** The Mythology, Lore, and Worldbuilding
+
+**John Howe, Ted Nasmith, Alan Lee, Brothers Hildebrandt, Arthur Rackham, Pre-Raphaelites:** Illustrators and Artists
 
 **Star Wars:** Worldbuilding and Cohesive Production Design
 
+**Game of Thrones:** Grounded Use of Magic, Balancing a large cast and separate story arcs
+
+### Game Design Inspirations?
+
+**Supergiant Games:** Adjustable Difficulty Limits
+
 **Dark Souls:** Armor Sets, Interesting NPCs, Hub Level Design, Minimalistic Exposition, Leveling, and UI
 
-**Legend of Zelda:** Dungeons
+**Legend of Zelda:** Dungeons, Boss Themes
 
 **Shadow of the Colossus:** Bosses
 
@@ -67,9 +75,11 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 
 **The Witcher:** Creature Design, Story, Sidequests
 
-**Game of Thrones:** Grounded Use of Magic, Balancing a large cast and separate story arcs
+**Final Fantasy:** Creature Design
 
-**Banner Saga:** Party System
+**Banner Saga:** Party System, Linear Narrative, Art Style
+
+**God of War 5:** Mythology Adaptations
 
 **Hellblade: Senua's Sacrifice:** Atmosphere, Motion Capture, Sound Design
 
@@ -77,6 +87,6 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 
 **Middle-earth: Shadow of Mordor:** Nemesis System, Switching Power Abilities
 
-**D&D, Baldur's Gate, Mount and Blade, Magic: The Gathering, Heroes of Might and Magic, Disciples II, Diablo, Divinity: Original Sin, Arcanum, etc.:** 
-Miscellaneous RPG Elements
+**D&D, Baldur's Gate, Mount and Blade, Magic: The Gathering, Diablo, Divinity: Original Sin, Arcanum, etc.:** 
+Miscellaneous RPG Elements and Class Systems
 
