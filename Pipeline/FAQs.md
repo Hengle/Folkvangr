@@ -4,11 +4,15 @@ The game will embrace classic RPG tactics and class systems, but it will focus m
 
 The goal is to create compact well-designed maps rather than large open maps that feel kind of empty, in the vein of level design in *Dark Souls* or *Dishonored*.  Level sections will have unique visuals to distinguish from the other areas.
 
+### What is the story about?
+
+The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic, which forces them to leave and travel to seek refuge. Along the way they travel to epic locations, add extra party members, and develop new abilities.
+
 ### What will the gameplay be like?
 
 The party will support 2-8 party members, but will generally be split up to into smaller 2-4 person teams.  The player can switch between the characters.
 
-The combat will implement a hybrid system. The player can choose fast-paced real time combat or pause combat to plan tactics and direct party members.  
+The combat will implement a hybrid system focusing on strategy to take on more powerful opponents,  
 
 Customization and exploration will be more limited, but the game levels and encounters will be crafted to be more balanced as a result.
 
@@ -21,10 +25,6 @@ Not likely.
 The setting will be based on historical research to simulate a post-Viking Age fantasy culture. The basis for the art style will be based heavily on historical research intended to make the culture have a distinct look and feel. It won't look like a knockoff Elder Scrolls game or WOW clone.
 
 The game will focus on the narrative and the sense of creating an immersive experience rather than devoting time and resources to unnecessary features like lockpicking or stat micromanagement.  
-
-### What is the story about?
-
-The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic that attracts the attention of the antagonists and results in an exxtended game of cat and mouse as they are hunted across the land. As in most RPGs, they travel to epic locations, add extra party members, and develop new abilities along the way.
 
 ### Features?
 
