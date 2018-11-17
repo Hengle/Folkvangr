@@ -6,17 +6,17 @@ The goal is to create compact well-designed maps rather than large open maps tha
 
 ### What is the story about?
 
-The core story follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic, which forces them to leave and travel to seek refuge. Along the way they travel to epic locations, add extra party members, and develop new abilities.
+The story is set in a low fantasy setting that aims to blend historical accuracy with traditional mythology.  
+
+The narrative follows two main protagonists, a brother and sister.  The characters' relationship and conflicts are the central point of the game.  Early on they accidentally discover a relic, which forces them to leave and travel to seek refuge. Along the way they travel to epic locations, add extra party members, and develop new abilities.
 
 ### What will the gameplay be like?
 
 The party will support 2-8 party members, but will generally be split up to into smaller 2-4 person teams.  The player can switch between the characters.
 
-The combat will implement a hybrid system focusing on strategy to take on more powerful opponents,  
+The combat will implement a hybrid system focusing on strategy to take on more powerful opponents.  
 
-Customization and exploration will be more limited, but the game levels and encounters will be crafted to be more balanced as a result.
-
-Greater emphasis will be put on fleshing out the characters to be less generic than the typical roleplaying NPC.  
+Customization and exploration will be more limited, but the game levels and encounters will be crafted to be more balanced as a result. 
 
 ### Will there be online multiplayer?
 Not likely.
