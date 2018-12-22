@@ -30,7 +30,7 @@ The game will focus on the narrative and the sense of creating an immersive expe
 
 Stats will be balanced enough that there won't be a wrong way to build a certain class that makes progression of defeating bosses impossible.
 
-The normal difficulty is not indented to be on the level of a Souls-like clone or roguelike game.  If players want a challenge, difficulty settings will be adjustable.  
+The normal difficulty is not indented to be on the level of a Souls-like clone or roguelike game.  If players want a greater challenge, difficulty settings will be adjustable.  
 
 Sidequests will serve a purpose, have decent rewards and stories, and will not be grinding fetch quests.
 
@@ -38,8 +38,8 @@ The antagonists will be fleshed out as unique characters in the game, not just b
 
 The story is not intended to be a grimdark misery fest.  There will be moments of humor to counterbalance the dramatic moments.
 
-### Will content be cut?
-Undoubtedly.  The current game outline would need to be split into at least three parts to be remotely feasible for a small team to ever hope to complete.  More editing will reduce the game to a manageable scale if there is more progress made towards that goal.  For now, completing an animated trailer and alpha is the main focus.
+### Will content proposed on the wiki be cut?
+Undoubtedly.  The current game outline would need to be split into at least three parts to be remotely feasible for a small team to ever hope to complete.  More editing will reduce the game to a manageable scale if there is more progress made towards that goal.  For now, completing a proof of concept is the main focus.
 
 ### Inspiration and Influences?
 
@@ -80,7 +80,7 @@ Note: The game will not attempt to copy all of these game systems.
 
 **Banner Saga:** Party System, Linear Narrative, Art Style
 
-**God of War 5:** Mythology Adaptations
+**God of War V:** Mythology Adaptations
 
 **Hellblade: Senua's Sacrifice:** Atmosphere, Motion Capture, Sound Design
 
