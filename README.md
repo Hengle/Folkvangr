@@ -8,7 +8,7 @@ The script, story outline, and scene breakdowns for the animated trailer can be 
 
 ![ruins sketch](https://github.com/jcongerkallas1/Brefhamer/blob/game-design/Images/monastary_ruins_sketch_small.jpg)
 
-### Game Development
+## Game Development
 Development of a game alpha is on hold until sufficient funds can be raised for production.  The Game Design Document and other files can be found in the main [Game Documentation](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/DOCUMENTATION.md) directory.
 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/game-design/Images/unused_forest_thumbnail2.jpg)
