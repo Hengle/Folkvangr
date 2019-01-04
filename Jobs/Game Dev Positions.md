@@ -1,6 +1,8 @@
 *Applications for full-time positions with paid  salary will be considered closer to the time of the crowdfunding campaign.*  
 
-*In all likelihood, the dev team will need to be kept small to remain within the production budget.  The goal is to create a transparent and feasible business model where employees do not have to fear being laid off or have a project fall through after years of work.  Unfortunately this means that everything depends on having a budget that can support the full team with safety margins.  Without a definite sustainable budget, the project cannot work long term and it would be unfair to ask anyone to gamble on a high-risk project.*
+*In all likelihood, the dev team will need to be kept small to remain within the production budget.  Indie team size is not expected to exceed 10 people, with additional freelance support for auxiliary roles.*  
+
+*The goal is to create a transparent and feasible business model where employees do not have to fear being laid off or have a project fall through after years of work.  Unfortunately this means that everything depends on having a budget that can support the full team with safety margins.  Without a definite sustainable budget, the project cannot work long term and it would be unfair to ask anyone to gamble on a high-risk project.*
 
 # Production Leads
 
