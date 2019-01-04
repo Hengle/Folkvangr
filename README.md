@@ -14,9 +14,7 @@ Development of a game alpha is on hold until sufficient funds can be raised for 
 ![forest scene wip](https://github.com/jcongerkallas1/Brefhamer/blob/game-design/Images/unused_forest_thumbnail2.jpg)
 
 ## Further Details and Application
-If interested in getting involved with the project, contributing details can be found [here.](https://github.com/jcongerkallas1/Folkvangr/game-design/CONTRIBUTING.md)  Or just skip reading all that boring stuff and send a friendly email.
-
-Contact: jcongerkallas1@gmail.com
+If interested in getting involved with the project, contributing details can be found [here.](https://github.com/jcongerkallas1/Folkvangr/blob/game-design/CONTRIBUTING.md)  Or just skip reading all that boring stuff and send a friendly email.  Contact: jcongerkallas1@gmail.com
 
 *Cover art and environments by [Marius Janusonis](http://www.artofmarius.com/), [Calina Sparhawk](https://www.artstation.com/calina), and [Ludvik Skopalik](https://www.artstation.com/ludvikskp).  Concept sketches by [Christof Grobelski](https://www.artstation.com/gloominati).  Creature design by [Joshua Black](https://www.artstation.com/axis213).  Storyboard by [Margot Lathiere](https://margotlathiere.jimdo.com/).  Sound design by [Dirk Kluesing](https://soundcloud.com/irkluesing).*
 
