@@ -43,15 +43,17 @@ Undoubtedly.  The current game outline would need to be split into at least thre
 
 ### Inspiration and Influences?
 
-**Prose Edda:** Norse Mythology References
+**Prose Edda, Poetic Edda:** Norse Mythology References
 
 **Icelandic Sagas (Grettis Saga, Njáls Saga, Laxdæla Saga, Egils Saga, Gísla Saga, Hrafnkels Saga):** Narrative Themes
 
-**Beowulf, The Ring Cycle, Arthurian and Celtic Mythology:** Mythology References
+**Beowulf, The Völsunga Saga, Ulster Cycle, Mabinogion, Arthurian and Celtic Mythology:** Additional Mythology References
 
-**The Hero with a Thousand Faces by Joseph Campbell:** Monomyth
+**The Hero with a Thousand Faces by Joseph Campbell** Monomyth
 
-**Lord of the Rings, The Silmarillion:** The Mythology, Lore, and Worldbuilding
+**Beowulf The Monsters and the Critics by JRR Tolkien** Relevance of Epic Literature vs. Historical Authenticity
+
+**Lord of the Rings, The Silmarillion:** Mythology, Lore, and Worldbuilding
 
 **John Howe, Ted Nasmith, Alan Lee, Brothers Hildebrandt, Arthur Rackham, Pre-Raphaelites:** Illustrators and Artists
 
